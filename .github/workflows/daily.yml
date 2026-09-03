@@ -41,7 +41,11 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: $(TZ=Asia/Seoul date +%F) 뉴스 갱신"
           git push
 
+      # enablement: true — 저장소에 Pages 가 아직 꺼져 있으면 워크플로가 직접 켠다.
+      # (이게 없으면 Settings > Pages 를 손으로 GitHub Actions 로 바꿔야 한다)
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
