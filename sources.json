@@ -1,5 +1,5 @@
 {
-  "_note": "SK네트웍스 세무팀용 구성.\ncategories 배열 순서 = 페이지 표시 순서.\ncategories[].priority = 분류 우선순위 (작을수록 먼저 기사를 가져간다). 구체적인 주제를 앞세운다.\ncategories[].feeds = 그 카테고리 전용 Google News 검색 피드 (결과가 해당 카테고리로 직행).\ncategories[].match = 분류 키워드. pools 기사의 제목+요약에 걸리면 이 카테고리로 배정된다.\npools = 세무 전문지 전체기사 피드. match 로 배분되고, 어디에도 안 걸리면 버린다.",
+  "_note": "SK네트웍스 세무팀용 구성.\ncategories 배열 순서 = 페이지 표시 순서.\ncategories[].priority = 분류 우선순위 (작을수록 먼저 기사를 가져간다). 구체적인 주제를 앞세운다.\ncategories[].feeds = 그 카테고리 전용 Google News 검색 피드 (결과가 해당 카테고리로 직행).\ncategories[].match = 분류 키워드. pools 기사의 제목+요약에 걸리면 이 카테고리로 배정된다.\npools = 세무 전문지 전체기사 피드. match 로 배분되고, 어디에도 안 걸리면 버린다.\ncategories[].require = 이 카테고리에 들어오려면 함께 걸려야 하는 단어 (없으면 게이트 없음).\n                        계열사·업종 키워드가 세무 무관 기업 뉴스를 끌어오는 것을 막는다.\n영문·숫자 키워드는 단어 경계로 판정한다 ('sk' 가 risk/task 에 걸리지 않도록).",
   "categories": [
     {
       "id": "refund",
@@ -223,35 +223,77 @@
     },
     {
       "id": "group",
-      "label": "그룹 · 업종 이슈",
+      "label": "그룹 · 계열사 · 업종",
       "match": [
-        "sk",
+        "sk네트웍스",
+        "sk 네트웍스",
+        "sk그룹",
+        "sk주식회사",
+        "sk이노베이션",
+        "sk텔레콤",
+        "sk하이닉스",
+        "sk에코플랜트",
+        "sk온",
+        "sk엔무브",
+        "최태원",
+        "워커힐",
+        "sk매직",
+        "sk렌터카",
+        "sk인텔릭스",
+        "민팃",
+        "스피드메이트",
+        "sk핀크스",
+        "종합상사",
+        "트레이딩",
+        "휴대폰 유통",
+        "단말기 유통",
+        "이동통신 유통",
+        "렌탈",
+        "렌터카",
+        "금융리스",
+        "운용리스",
+        "리스료",
+        "리스자산",
+        "구독 서비스",
+        "호텔업",
+        "카지노",
+        "면세점",
+        "관광호텔",
+        "숙박업",
+        "데이터센터",
         "지주회사",
-        "부당행위계산",
+        "계열사",
         "특수관계",
+        "부당행위계산",
         "일감몰아주기",
         "증여의제",
-        "합병",
-        "분할",
         "연결납세",
         "이월결손금",
-        "렌탈",
-        "리스",
-        "상사",
-        "지배구조"
+        "물적분할",
+        "인적분할",
+        "합병 과세",
+        "분할 과세"
       ],
       "feeds": [
         {
-          "name": "SK 세무",
-          "url": "https://news.google.com/rss/search?q=SK%20%EC%84%B8%EA%B8%88%20%EC%84%B8%EB%AC%B4&hl=ko&gl=KR&ceid=KR:ko"
+          "name": "SK네트웍스 세무",
+          "url": "https://news.google.com/rss/search?q=SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4%20%EC%84%B8%EA%B8%88%20%EC%84%B8%EB%AC%B4&hl=ko&gl=KR&ceid=KR:ko"
         },
         {
-          "name": "SK네트웍스",
-          "url": "https://news.google.com/rss/search?q=SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
+          "name": "SK그룹 세무",
+          "url": "https://news.google.com/rss/search?q=SK%EA%B7%B8%EB%A3%B9%20%EC%84%B8%EA%B8%88%20%EA%B5%AD%EC%84%B8%EC%B2%AD&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "워커힐 세무",
+          "url": "https://news.google.com/rss/search?q=%EC%9B%8C%EC%BB%A4%ED%9E%90%20%EC%84%B8%EA%B8%88%20%EA%B3%BC%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "SK매직·렌탈 과세",
+          "url": "https://news.google.com/rss/search?q=SK%EB%A7%A4%EC%A7%81%20%EB%A0%8C%ED%83%88%20%EC%84%B8%EA%B8%88%20%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
         },
         {
           "name": "지주회사 과세",
-          "url": "https://news.google.com/rss/search?q=%EC%A7%80%EC%A3%BC%ED%9A%8C%EC%82%AC%20%EA%B3%BC%EC%84%B8%20%EB%B0%B0%EB%8B%B9&hl=ko&gl=KR&ceid=KR:ko"
+          "url": "https://news.google.com/rss/search?q=%EC%A7%80%EC%A3%BC%ED%9A%8C%EC%82%AC%20%EA%B3%BC%EC%84%B8%20%EB%B0%B0%EB%8B%B9%20%EB%B2%95%EC%9D%B8%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
         },
         {
           "name": "부당행위계산부인",
@@ -262,11 +304,59 @@
           "url": "https://news.google.com/rss/search?q=%EC%9D%BC%EA%B0%90%EB%AA%B0%EC%95%84%EC%A3%BC%EA%B8%B0%20%EC%A6%9D%EC%97%AC%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
         },
         {
-          "name": "합병·분할 과세",
+          "name": "합병·분할 과세특례",
           "url": "https://news.google.com/rss/search?q=%ED%95%A9%EB%B3%91%20%EB%B6%84%ED%95%A0%20%EB%B2%95%EC%9D%B8%EC%84%B8%20%EA%B3%BC%EC%84%B8%ED%8A%B9%EB%A1%80&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "연결납세·이월결손금",
+          "url": "https://news.google.com/rss/search?q=%EC%97%B0%EA%B2%B0%EB%82%A9%EC%84%B8%20%EC%9D%B4%EC%9B%94%EA%B2%B0%EC%86%90%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "면세점·호텔 과세",
+          "url": "https://news.google.com/rss/search?q=%EB%A9%B4%EC%84%B8%EC%A0%90%20%ED%98%B8%ED%85%94%20%EA%B3%BC%EC%84%B8%20%EC%84%B8%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "데이터센터 세제",
+          "url": "https://news.google.com/rss/search?q=%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%20%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C%20%EA%B0%90%EB%A9%B4&hl=ko&gl=KR&ceid=KR:ko"
         }
       ],
-      "priority": 6
+      "priority": 6,
+      "require": [
+        "세금",
+        "세무",
+        "국세",
+        "지방세",
+        "납세",
+        "과세",
+        "비과세",
+        "면세",
+        "절세",
+        "탈세",
+        "세액",
+        "세율",
+        "세제",
+        "세정",
+        "부가세",
+        "부가가치세",
+        "법인세",
+        "소득세",
+        "상속세",
+        "증여세",
+        "취득세",
+        "재산세",
+        "종부세",
+        "관세",
+        "원천징수",
+        "경정청구",
+        "수정신고",
+        "가산세",
+        "추징",
+        "세무조사",
+        "조세",
+        "심판례",
+        "국세청",
+        "기재부"
+      ]
     },
     {
       "id": "official",

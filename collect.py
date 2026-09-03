@@ -113,18 +113,54 @@ def title_key(title: str) -> str:
 
 # ---------------------------------------------------------------- 분류
 
+def _matcher(keyword: str):
+    """키워드 하나를 판정 함수로 바꾼다.
+
+    한글은 부분일치로 충분하지만(조사가 붙으므로), 영문·숫자 키워드는 단어 경계를 요구한다.
+    'sk' 가 risk/task 에, 'apa' 가 japan/apartment 에 걸리는 것을 막기 위함이다.
+    """
+    if re.fullmatch(r"[a-z0-9.&\- ]+", keyword):
+        pattern = re.compile(r"(?<![a-z0-9])" + re.escape(keyword) + r"(?![a-z0-9])")
+        return lambda hay: pattern.search(hay) is not None
+    return lambda hay: keyword in hay
+
+
+_MATCHER_CACHE: dict = {}
+
+
+def hits_of(haystack: str, keywords: list) -> list:
+    """haystack 에 걸린 키워드들을 돌려준다."""
+    found = []
+    for k in keywords:
+        if k not in _MATCHER_CACHE:
+            _MATCHER_CACHE[k] = _matcher(k)
+        if _MATCHER_CACHE[k](haystack):
+            found.append(k)
+    return found
+
+
+def haystack_of(item: dict) -> str:
+    return (item["title"] + " " + item["summary"]).lower()
+
+
 def classify(item: dict, rules: list):
     """(카테고리 id, 걸린 키워드들) 을 돌려준다.
 
-    규칙 순서가 곧 우선순위이고, 키워드가 ["*"] 인 카테고리는 catch-all 이다.
+    rules 는 (id, match, require) 튜플의 우선순위 목록이다.
+      * match   — 하나라도 걸리면 후보가 된다. ["*"] 는 catch-all.
+      * require — 비어있지 않으면 이 중 하나도 함께 걸려야 배정된다.
+                  계열사·업종 키워드가 세무와 무관한 기업 뉴스를 끌어오는 것을 막는 용도다.
     """
-    haystack = (item["title"] + " " + item["summary"]).lower()
-    for cat_id, keywords in rules:
+    haystack = haystack_of(item)
+    for cat_id, keywords, require in rules:
         if keywords == ["*"]:
             return cat_id, []
-        hits = [k for k in keywords if k in haystack]
-        if hits:
-            return cat_id, hits
+        hits = hits_of(haystack, keywords)
+        if not hits:
+            continue
+        if require and not hits_of(haystack, require):
+            continue  # 주제는 맞지만 세무 기사가 아니다 — 다음 카테고리로 넘긴다
+        return cat_id, hits
     return "", []
 
 
@@ -141,7 +177,7 @@ def main() -> int:
         (c for c in cfg["categories"] if c.get("match")),
         key=lambda c: c.get("priority", 50),
     )
-    rules = [(c["id"], c["match"]) for c in ranked]
+    rules = [(c["id"], c["match"], c.get("require", [])) for c in ranked]
     buckets = {c["id"]: [] for c in cfg["categories"]}
     feed_log = []
     seen = set()         # 정규화된 URL
@@ -179,13 +215,22 @@ def main() -> int:
         return fresh
 
     # 1) 카테고리 전용 검색 피드 — 카테고리 순서대로 먼저 자리를 잡는다.
+    dropped_by_require = 0
     for cat in cfg["categories"]:
+        require = cat.get("require", [])
         for feed in cat.get("feeds", []):
             items = read(feed, "category", cat["id"])
+            kept = 0
             for item in items:
+                # 전용 검색 피드는 이미 그 주제를 겨냥한 질의라 분류 태그가 없다.
+                # 다만 require 가 걸린 카테고리는 세무 무관 기사를 여기서도 걸러낸다.
+                if require and not hits_of(haystack_of(item), require):
+                    dropped_by_require += 1
+                    continue
                 item["matched"] = []
                 buckets[cat["id"]].append(item)
-            print("  [cat ] {:8s} {}: {}".format(cat["id"], feed["name"], len(items)))
+                kept += 1
+            print("  [cat ] {:8s} {}: {}/{}".format(cat["id"], feed["name"], kept, len(items)))
 
     # 2) 전문지 전체기사 풀 — match 키워드로 카테고리에 배분한다.
     unmatched = 0
@@ -231,8 +276,8 @@ def main() -> int:
     (archive / (now.astimezone(KST).strftime("%Y-%m-%d") + ".json")).write_text(text, encoding="utf-8")
 
     ok = sum(1 for f in feed_log if f["ok"])
-    print("\n총 {}건 · 피드 {}/{} 성공 · 미분류 {}건 버림".format(
-        payload["total"], ok, len(feed_log), unmatched))
+    print("\n총 {}건 · 피드 {}/{} 성공 · 미분류 {}건 · 세무무관 {}건 버림".format(
+        payload["total"], ok, len(feed_log), unmatched, dropped_by_require))
     return 0 if payload["total"] else 1
 
 
