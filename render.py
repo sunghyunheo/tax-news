@@ -22,10 +22,19 @@ TEMPLATE = """<!doctype html>
   --hi:#b3261e; --hi-soft:#fbe9e7; --mid:#8a5a00; --mid-soft:#fdf3e2; --lo:#6b6b66;
   --font:-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif;
 }
+/* 다크 토큰. 시스템 설정과 명시적 선택 양쪽에서 동일하게 적용된다.
+   :root:not([data-theme="light"]) 로 감싸 명시적 라이트 선택이 OS 다크를 이긴다. */
 @media (prefers-color-scheme:dark) {
-  :root { --bg:#17181a; --card:#1f2124; --fg:#e9e9e6; --muted:#9a9a95; --line:#2e3135;
-          --accent:#6fc3a8; --accent-soft:#1d2b27; --chip:#2a2d31;
-          --hi:#ff8a80; --hi-soft:#3a1f1c; --mid:#e8b45c; --mid-soft:#332a17; --lo:#9a9a95; }
+  :root:not([data-theme="light"]) {
+    --bg:#17181a; --card:#1f2124; --fg:#e9e9e6; --muted:#9a9a95; --line:#2e3135;
+    --accent:#6fc3a8; --accent-soft:#1d2b27; --chip:#2a2d31;
+    --hi:#ff8a80; --hi-soft:#3a1f1c; --mid:#e8b45c; --mid-soft:#332a17; --lo:#9a9a95;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#17181a; --card:#1f2124; --fg:#e9e9e6; --muted:#9a9a95; --line:#2e3135;
+  --accent:#6fc3a8; --accent-soft:#1d2b27; --chip:#2a2d31;
+  --hi:#ff8a80; --hi-soft:#3a1f1c; --mid:#e8b45c; --mid-soft:#332a17; --lo:#9a9a95;
 }
 * { box-sizing:border-box; }
 body { margin:0; background:var(--bg); color:var(--fg); font-family:var(--font); line-height:1.55; }
@@ -264,7 +273,26 @@ def render() -> str:
     return html
 
 
+def render_fragment() -> str:
+    """Artifact 발행용. doctype/html/head/body 래퍼를 벗기고 title+style+본문만 남긴다.
+
+    Artifact 는 파일을 자체 head/body 안에 감싸 발행하므로 래퍼 태그를 넣으면 중복된다.
+    """
+    html = render()
+    head = html[html.index("<title>") : html.index("</head>")]
+    body = html[html.index("<body>") + len("<body>") : html.index("</body>")]
+    return head.strip() + "\n" + body.strip() + "\n"
+
+
 if __name__ == "__main__":
+    import sys
+
+    if "--artifact" in sys.argv:
+        target = ROOT / "artifact.html"
+        target.write_text(render_fragment(), encoding="utf-8")
+        print("artifact.html 생성 ({:,} bytes)".format(target.stat().st_size))
+        raise SystemExit(0)
+
     out = ROOT / "docs"
     out.mkdir(exist_ok=True)
     (out / "index.html").write_text(render(), encoding="utf-8")
