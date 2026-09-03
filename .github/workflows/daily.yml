@@ -51,11 +51,18 @@ jobs:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
         run: |
-          if [ -n "$MAIL_USERNAME" ] && [ -n "$MAIL_PASSWORD" ]; then
+          # 값은 절대 출력하지 않는다. 어느 Secret 이 비어 있는지만 알린다.
+          u=no; p=no
+          [ -n "$MAIL_USERNAME" ] && u=yes
+          [ -n "$MAIL_PASSWORD" ] && p=yes
+          echo "MAIL_USERNAME 있음: $u (길이 ${#MAIL_USERNAME})"
+          echo "MAIL_PASSWORD 있음: $p (길이 ${#MAIL_PASSWORD})"
+          if [ "$u" = yes ] && [ "$p" = yes ]; then
             echo "ready=yes" >> "$GITHUB_OUTPUT"
           else
             echo "ready=no" >> "$GITHUB_OUTPUT"
-            echo "::warning::MAIL_USERNAME / MAIL_PASSWORD Secret 이 없어 메일 발송을 건너뜁니다."
+            echo "::warning::메일 발송을 건너뜁니다. MAIL_USERNAME=$u, MAIL_PASSWORD=$p"
+            echo "::warning::Repository secret 인지(Environment secret 아님), 저장소가 tax-news 인지, 이름 철자를 확인하세요."
           fi
 
       - name: 메일 발송
