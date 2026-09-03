@@ -6,7 +6,7 @@ from html import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SITE_URL = "https://skn-tax.github.io/tax-news/"
+SITE_URL = "https://sunghyunheo.github.io/tax-news/"
 
 TEMPLATE = """<!doctype html>
 <html lang="ko">

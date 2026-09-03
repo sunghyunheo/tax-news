@@ -22,7 +22,7 @@ data/archive/                 날짜별 스냅샷 (과거 이력 보존)
 git init -b main
 git add .
 git commit -m "init: 세무 뉴스 브리핑"
-git remote add origin https://github.com/skn-tax/tax-news.git
+git remote add origin https://github.com/sunghyunheo/tax-news.git
 git push -u origin main
 ```
 
@@ -32,10 +32,9 @@ git push -u origin main
 2. **Settings → Actions → General → Workflow permissions** 를 `Read and write` 로 변경
 3. **Actions 탭 → daily-tax-news → Run workflow** 로 첫 실행
 
-URL: **https://skn-tax.github.io/tax-news/**
+URL: **https://sunghyunheo.github.io/tax-news/**
 
-> GitHub 계정·조직명에는 공백을 쓸 수 없어 `SKN TAX` → `skn-tax` 로 잡았다.
-> 다른 이름으로 만들었다면 위 remote 주소와 `render.py` 의 `SITE_URL` 두 곳만 고치면 된다.
+> 저장소를 다른 이름으로 옮기면 위 remote 주소와 `render.py` 의 `SITE_URL` 두 곳을 고친다.
 
 ## 로컬에서 확인
 
