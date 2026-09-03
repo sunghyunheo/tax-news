@@ -1,0 +1,127 @@
+{
+  "_note": "feeds[].url 이 RSS/Atom 이면 그대로, Google News 검색은 gnews 쿼리로 생성됨. 소스 추가는 이 파일만 수정하면 된다.",
+  "categories": [
+    {
+      "id": "official",
+      "label": "국세청 · 기재부",
+      "feeds": [
+        {
+          "name": "국세청 보도자료",
+          "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EC%B2%AD%20%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "국세청",
+          "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EC%B2%AD&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "기재부 세법개정안",
+          "url": "https://news.google.com/rss/search?q=%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EB%B6%80%20%EC%84%B8%EB%B2%95%EA%B0%9C%EC%A0%95%EC%95%88&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "기재부 세제",
+          "url": "https://news.google.com/rss/search?q=%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EB%B6%80%20%EC%84%B8%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko"
+        }
+      ]
+    },
+    {
+      "id": "trade",
+      "label": "세무 전문지",
+      "feeds": [
+        {
+          "name": "일간NTN",
+          "url": "https://www.intn.co.kr/rss/allArticle.xml"
+        },
+        {
+          "name": "세정일보",
+          "url": "https://www.sejungilbo.com/rss/allArticle.xml"
+        },
+        {
+          "name": "택스워치",
+          "url": "https://www.taxwatch.co.kr/rss/"
+        },
+        {
+          "name": "조세일보",
+          "url": "https://news.google.com/rss/search?q=site%3Ajoseilbo.com%20%EC%84%B8%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "한국세정신문",
+          "url": "https://news.google.com/rss/search?q=site%3Ataxtimes.co.kr&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "조세금융신문",
+          "url": "https://news.google.com/rss/search?q=site%3Atfmedia.co.kr&hl=ko&gl=KR&ceid=KR:ko"
+        }
+      ]
+    },
+    {
+      "id": "keyword",
+      "label": "키워드 뉴스",
+      "feeds": [
+        {
+          "name": "세법개정",
+          "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%B2%95%EA%B0%9C%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "부가가치세",
+          "url": "https://news.google.com/rss/search?q=%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "법인세",
+          "url": "https://news.google.com/rss/search?q=%EB%B2%95%EC%9D%B8%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "양도소득세",
+          "url": "https://news.google.com/rss/search?q=%EC%96%91%EB%8F%84%EC%86%8C%EB%93%9D%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "상속·증여세",
+          "url": "https://news.google.com/rss/search?q=%EC%83%81%EC%86%8D%EC%84%B8%20%EC%A6%9D%EC%97%AC%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "종합소득세",
+          "url": "https://news.google.com/rss/search?q=%EC%A2%85%ED%95%A9%EC%86%8C%EB%93%9D%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "세무조사",
+          "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "연말정산",
+          "url": "https://news.google.com/rss/search?q=%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "가산세·불복",
+          "url": "https://news.google.com/rss/search?q=%EA%B0%80%EC%82%B0%EC%84%B8%20%EC%A1%B0%EC%84%B8%EB%B6%88%EB%B3%B5&hl=ko&gl=KR&ceid=KR:ko"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "label": "법령 · 판례",
+      "feeds": [
+        {
+          "name": "조세심판원",
+          "url": "https://news.google.com/rss/search?q=%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "대법원 조세판결",
+          "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%AC%B4%20%EB%8C%80%EB%B2%95%EC%9B%90%20%ED%8C%90%EA%B2%B0&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "시행령 개정",
+          "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9%20%EA%B0%9C%EC%A0%95%EC%95%88&hl=ko&gl=KR&ceid=KR:ko"
+        },
+        {
+          "name": "국세기본법",
+          "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EA%B8%B0%EB%B3%B8%EB%B2%95%20%EA%B0%9C%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "max_age_days": 7,
+    "max_items_per_feed": 25,
+    "max_items_per_category": 40,
+    "request_timeout_sec": 20
+  }
+}
