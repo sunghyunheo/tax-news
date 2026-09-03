@@ -47,6 +47,8 @@ li a { color:var(--fg); text-decoration:none; font-weight:600; font-size:.95rem;
 li a:hover { color:var(--accent); text-decoration:underline; }
 .sub { margin-top:5px; font-size:.78rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:8px; }
 .src { background:var(--chip); border-radius:4px; padding:1px 7px; }
+.kw { color:var(--accent); background:var(--accent-soft); border-radius:4px; padding:1px 6px; font-size:.72rem; }
+.tab b { font-weight:600; opacity:.6; }
 .summary { margin-top:7px; font-size:.85rem; color:var(--muted); overflow:hidden;
            display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
 .empty { color:var(--muted); font-size:.85rem; padding:10px 0; }
@@ -61,7 +63,7 @@ details.feeds summary { cursor:pointer; font-size:.75rem; color:var(--muted); }
 <div class="wrap">
 <header>
   <h1>세무 뉴스 브리핑</h1>
-  <p class="meta">최근 <b>7일</b> · 총 <b>__TOTAL__건</b> · 마지막 갱신 <b>__UPDATED__ KST</b> · 매일 자동 수집</p>
+  <p class="meta">SK네트웍스 세무팀 · 최근 <b>__DAYS__일</b> · 총 <b>__TOTAL__건</b> · 마지막 갱신 <b>__UPDATED__ KST</b></p>
 </header>
 
 <div class="controls">
@@ -131,20 +133,26 @@ def render() -> str:
     for cat in data["categories"]:
         tabs.append(
             f'<button class="tab" role="tab" data-cat="{cat["id"]}" aria-selected="false">'
-            f'{escape(cat["label"])}</button>'
+            f'{escape(cat["label"])} <b>{len(cat["items"])}</b></button>'
         )
         rows = []
         for it in cat["items"]:
-            search = escape(f'{it["title"]} {it["source"]}'.lower(), quote=True)
+            search = escape(
+                " ".join([it["title"], it["source"], *it.get("matched", [])]).lower(), quote=True
+            )
             date = escape(it["published_kst"]) + ("" if it["is_dated"] else " (추정)")
             summary = ""
             if it["summary"] and not _echoes_title(it["summary"], it["title"]):
                 summary = f'<div class="summary">{escape(it["summary"])}</div>'
+            tags = "".join(
+                f'<span class="kw">{escape(k)}</span>' for k in it.get("matched", [])[:3]
+            )
             rows.append(
                 f'<li data-search="{search}">'
                 f'<a href="{escape(it["url"], quote=True)}" target="_blank" rel="noopener noreferrer">'
                 f'{escape(it["title"])}</a>'
-                f'<div class="sub"><span class="src">{escape(it["source"])}</span><span>{date}</span></div>'
+                f'<div class="sub"><span class="src">{escape(it["source"])}</span>'
+                f'<span>{date}</span>{tags}</div>'
                 f"{summary}</li>"
             )
         sections.append(
@@ -163,6 +171,7 @@ def render() -> str:
     html = TEMPLATE
     for key, val in {
         "__TOTAL__": str(data["total"]),
+        "__DAYS__": str(data.get("max_age_days", 7)),
         "__UPDATED__": data["generated_kst"],
         "__TABS__": "".join(tabs),
         "__SECTIONS__": "".join(sections),

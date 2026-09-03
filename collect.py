@@ -1,4 +1,8 @@
-"""세무 뉴스 수집기 — RSS/Atom 피드를 읽어 data/latest.json 으로 정규화 저장.
+"""세무 뉴스 수집기 — RSS/Atom 피드를 읽어 카테고리별로 분류해 data/latest.json 에 저장한다.
+
+두 종류의 소스를 쓴다.
+  * 카테고리 전용 피드 (categories[].feeds) — 수집 결과가 그 카테고리로 직행
+  * 전문지 전체기사 풀 (pools)            — categories[].match 키워드로 카테고리에 배분
 
 표준 라이브러리만 사용한다 (GitHub Actions 에서 pip install 없이 돌기 위함).
 """
@@ -23,8 +27,13 @@ UA = "Mozilla/5.0 (compatible; tax-news-bot/1.0; +https://github.com/)"
 NS = {"atom": "http://www.w3.org/2005/Atom", "dc": "http://purl.org/dc/elements/1.1/"}
 
 
+# ---------------------------------------------------------------- 피드 파싱
+
 def fetch(url: str, timeout: int) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"},
+    )
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
@@ -34,7 +43,7 @@ def strip_html(text: str) -> str:
     return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
-def parse_date(raw: str | None) -> datetime | None:
+def parse_date(raw):
     if not raw:
         return None
     raw = raw.strip()
@@ -51,7 +60,7 @@ def parse_date(raw: str | None) -> datetime | None:
     return None
 
 
-def text_of(el, *paths: str) -> str | None:
+def text_of(el, *paths):
     for path in paths:
         found = el.find(path, NS)
         if found is None:
@@ -64,7 +73,7 @@ def text_of(el, *paths: str) -> str | None:
     return None
 
 
-def parse_feed(raw: bytes) -> list[dict]:
+def parse_feed(raw: bytes) -> list:
     root = ET.fromstring(raw)
     entries = root.findall(".//item") or root.findall(".//atom:entry", NS)
     items = []
@@ -79,11 +88,12 @@ def parse_feed(raw: bytes) -> list[dict]:
                 "url": link,
                 "summary": strip_html(text_of(el, "description", "atom:summary", "atom:content") or "")[:400],
                 "published": text_of(el, "pubDate", "atom:published", "atom:updated", "dc:date"),
-                "author": strip_html(text_of(el, "dc:creator", "author", "atom:author/atom:name") or ""),
             }
         )
     return items
 
+
+# ---------------------------------------------------------------- 중복 제거
 
 def canonical(url: str) -> str:
     """추적 파라미터를 떼어 중복 판정을 안정화한다."""
@@ -101,76 +111,128 @@ def title_key(title: str) -> str:
     return "".join(ch for ch in title.lower() if ch.isalnum())[:40]
 
 
+# ---------------------------------------------------------------- 분류
+
+def classify(item: dict, rules: list):
+    """(카테고리 id, 걸린 키워드들) 을 돌려준다.
+
+    규칙 순서가 곧 우선순위이고, 키워드가 ["*"] 인 카테고리는 catch-all 이다.
+    """
+    haystack = (item["title"] + " " + item["summary"]).lower()
+    for cat_id, keywords in rules:
+        if keywords == ["*"]:
+            return cat_id, []
+        hits = [k for k in keywords if k in haystack]
+        if hits:
+            return cat_id, hits
+    return "", []
+
+
+# ---------------------------------------------------------------- 메인
+
 def main() -> int:
     cfg = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
     s = cfg["settings"]
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=s["max_age_days"])
 
-    categories, feed_log = [], []
-    seen: set[str] = set()        # 정규화된 URL
-    seen_titles: set[str] = set()  # 제목 지문 (매체만 다른 동일 기사)
+    # 분류 우선순위: priority 가 작은 카테고리가 기사를 먼저 가져간다 (없으면 배열 순서).
+    ranked = sorted(
+        (c for c in cfg["categories"] if c.get("match")),
+        key=lambda c: c.get("priority", 50),
+    )
+    rules = [(c["id"], c["match"]) for c in ranked]
+    buckets = {c["id"]: [] for c in cfg["categories"]}
+    feed_log = []
+    seen = set()         # 정규화된 URL
+    seen_titles = set()  # 제목 지문 (매체만 다른 동일 기사)
 
-    for cat in cfg["categories"]:
-        collected = []
-        for feed in cat["feeds"]:
-            status = {"category": cat["id"], "name": feed["name"], "url": feed["url"]}
-            try:
-                items = parse_feed(fetch(feed["url"], s["request_timeout_sec"]))
-            except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, OSError) as exc:
-                status.update(ok=False, count=0, error=f"{type(exc).__name__}: {exc}")
-                feed_log.append(status)
-                print(f"  [FAIL] {feed['name']}: {status['error']}", file=sys.stderr)
-                continue
-
-            kept = 0
-            for item in items[: s["max_items_per_feed"]]:
-                key, tkey = canonical(item["url"]), title_key(item["title"])
-                if key in seen or (len(tkey) > 12 and tkey in seen_titles):
-                    continue
-                dt = parse_date(item["published"])
-                if dt and dt < cutoff:
-                    continue
-                seen.add(key)
-                seen_titles.add(tkey)
-                item["source"] = feed["name"]
-                item["published_at"] = (dt or now).isoformat()
-                item["published_kst"] = (dt or now).astimezone(KST).strftime("%Y-%m-%d %H:%M")
-                item["is_dated"] = dt is not None
-                collected.append(item)
-                kept += 1
-
-            status.update(ok=True, count=kept, error=None)
+    def read(feed: dict, kind: str, cat_id: str) -> list:
+        """피드 하나를 읽어 신선하고 중복 아닌 항목만 돌려준다. 실패는 로그로 남긴다."""
+        status = {"kind": kind, "category": cat_id, "name": feed["name"], "url": feed["url"]}
+        try:
+            raw_items = parse_feed(fetch(feed["url"], s["request_timeout_sec"]))
+        except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, OSError) as exc:
+            status.update(ok=False, count=0, error=type(exc).__name__ + ": " + str(exc))
             feed_log.append(status)
-            print(f"  [ OK ] {feed['name']}: {kept}건")
+            print("  [FAIL] " + feed["name"] + ": " + status["error"], file=sys.stderr)
+            return []
 
-        collected.sort(key=lambda x: x["published_at"], reverse=True)
+        fresh = []
+        for item in raw_items[: s["max_items_per_feed"]]:
+            key, tkey = canonical(item["url"]), title_key(item["title"])
+            if key in seen or (len(tkey) > 12 and tkey in seen_titles):
+                continue
+            dt = parse_date(item["published"])
+            if dt and dt < cutoff:
+                continue
+            seen.add(key)
+            seen_titles.add(tkey)
+            item["source"] = feed["name"]
+            item["published_at"] = (dt or now).isoformat()
+            item["published_kst"] = (dt or now).astimezone(KST).strftime("%Y-%m-%d %H:%M")
+            item["is_dated"] = dt is not None
+            fresh.append(item)
+
+        status.update(ok=True, count=len(fresh), error=None)
+        feed_log.append(status)
+        return fresh
+
+    # 1) 카테고리 전용 검색 피드 — 카테고리 순서대로 먼저 자리를 잡는다.
+    for cat in cfg["categories"]:
+        for feed in cat.get("feeds", []):
+            items = read(feed, "category", cat["id"])
+            for item in items:
+                item["matched"] = []
+                buckets[cat["id"]].append(item)
+            print("  [cat ] {:8s} {}: {}".format(cat["id"], feed["name"], len(items)))
+
+    # 2) 전문지 전체기사 풀 — match 키워드로 카테고리에 배분한다.
+    unmatched = 0
+    for feed in cfg.get("pools", []):
+        items = read(feed, "pool", "-")
+        spread = {}
+        for item in items:
+            cat_id, hits = classify(item, rules)
+            if not cat_id:
+                unmatched += 1
+                continue
+            item["matched"] = hits
+            buckets[cat_id].append(item)
+            spread[cat_id] = spread.get(cat_id, 0) + 1
+        print("  [pool] {}: {} -> {}".format(feed["name"], len(items), spread))
+
+    categories = []
+    for cat in cfg["categories"]:
+        items = sorted(buckets[cat["id"]], key=lambda x: x["published_at"], reverse=True)
         categories.append(
             {
                 "id": cat["id"],
                 "label": cat["label"],
-                "items": collected[: s["max_items_per_category"]],
+                "total": len(items),
+                "items": items[: s["max_items_per_category"]],
             }
         )
 
     payload = {
         "generated_at": now.isoformat(),
         "generated_kst": now.astimezone(KST).strftime("%Y-%m-%d %H:%M"),
+        "max_age_days": s["max_age_days"],
         "total": sum(len(c["items"]) for c in categories),
         "categories": categories,
         "feeds": feed_log,
     }
 
     (ROOT / "data").mkdir(exist_ok=True)
-    (ROOT / "data" / "latest.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    text = json.dumps(payload, ensure_ascii=False, indent=2)
+    (ROOT / "data" / "latest.json").write_text(text, encoding="utf-8")
     archive = ROOT / "data" / "archive"
     archive.mkdir(parents=True, exist_ok=True)
-    (archive / f"{now.astimezone(KST):%Y-%m-%d}.json").write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    (archive / (now.astimezone(KST).strftime("%Y-%m-%d") + ".json")).write_text(text, encoding="utf-8")
 
     ok = sum(1 for f in feed_log if f["ok"])
-    print(f"\n총 {payload['total']}건 수집 · 피드 {ok}/{len(feed_log)} 성공")
+    print("\n총 {}건 · 피드 {}/{} 성공 · 미분류 {}건 버림".format(
+        payload["total"], ok, len(feed_log), unmatched))
     return 0 if payload["total"] else 1
 
 
