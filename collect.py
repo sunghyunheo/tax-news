@@ -164,6 +164,59 @@ def classify(item: dict, rules: list):
     return "", []
 
 
+# ---------------------------------------------------------------- 중요도
+
+def score_item(item: dict, cat_id: str, imp: dict, now: datetime) -> dict:
+    """중요도 점수와 등급을 매긴다.
+
+    카테고리 기본점수 + 키워드 가점 + 최신성 가점. 점수를 만든 근거(reasons)도 함께
+    남겨서, 순위가 납득이 안 될 때 어떤 키워드가 점수를 올렸는지 화면에서 볼 수 있게 한다.
+    """
+    haystack = haystack_of(item)
+    reasons = []
+
+    base = imp.get("category_base", {}).get(cat_id, 0)
+    score = base
+
+    bonus = imp.get("keyword_bonus", {})
+    for keyword in hits_of(haystack, list(bonus.keys())):
+        score += bonus[keyword]
+        reasons.append(keyword)
+
+    # 인사·행사·홍보 기사 감점 — 키워드 점수가 높아도 실무 우선순위는 아니다.
+    penalty = imp.get("keyword_penalty", {})
+    demotions = hits_of(haystack, list(penalty.keys()))
+    for keyword in demotions:
+        score += penalty[keyword]
+
+    rec = imp.get("recency_bonus", {})
+    published = datetime.fromisoformat(item["published_at"])
+    age_hours = (now - published).total_seconds() / 3600
+    if age_hours <= 24:
+        score += rec.get("hours_24", 0)
+        reasons.append("24시간 내")
+    elif age_hours <= 72:
+        score += rec.get("hours_72", 0)
+    elif age_hours <= 24 * 7:
+        score += rec.get("days_7", 0)
+
+    score = max(score, 0)
+
+    level, hint = "하", "참고"
+    for spec in imp.get("levels", []):
+        if score >= spec["min"]:
+            level, hint = spec["label"], spec.get("hint", "")
+            break
+
+    item["score"] = score
+    item["level"] = level
+    item["level_hint"] = hint
+    # 점수를 크게 올린 근거부터 보여준다.
+    item["reasons"] = sorted(reasons, key=lambda r: -bonus.get(r, 0))[:3]
+    item["demoted"] = demotions[:2]  # 감점 사유 (인사·행사 등)
+    return item
+
+
 # ---------------------------------------------------------------- 메인
 
 def main() -> int:
@@ -247,15 +300,23 @@ def main() -> int:
             spread[cat_id] = spread.get(cat_id, 0) + 1
         print("  [pool] {}: {} -> {}".format(feed["name"], len(items), spread))
 
+    # 3) 중요도 채점 → 카테고리별 우선확인순위 부여
+    imp = cfg.get("importance", {})
     categories = []
     for cat in cfg["categories"]:
-        items = sorted(buckets[cat["id"]], key=lambda x: x["published_at"], reverse=True)
+        items = [score_item(it, cat["id"], imp, now) for it in buckets[cat["id"]]]
+        # 중요도 높은 순. 파이썬 정렬은 안정적이라, 먼저 최신 순으로 깔면 동점은 최신 순이 된다.
+        items.sort(key=lambda x: x["published_at"], reverse=True)
+        items.sort(key=lambda x: -x["score"])
+        items = items[: s["max_items_per_category"]]
+        for rank, item in enumerate(items, start=1):
+            item["rank"] = rank
         categories.append(
             {
                 "id": cat["id"],
                 "label": cat["label"],
-                "total": len(items),
-                "items": items[: s["max_items_per_category"]],
+                "total": len(buckets[cat["id"]]),
+                "items": items,
             }
         )
 
