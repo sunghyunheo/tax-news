@@ -11,7 +11,8 @@ collect.py                    RSS/Atom 수집 → data/latest.json + data/archiv
 render.py                     data/latest.json → docs/index.html (검색·카테고리 필터 포함)
 docs/                         GitHub Pages 발행 대상 (index.html, latest.json)
 data/archive/                 날짜별 스냅샷 (과거 이력 보존)
-.github/workflows/daily.yml   매일 07:10 KST 수집 → 커밋 → Pages 배포
+email_digest.py               data/latest.json → mail/digest.html (메일 발송용, 인라인 CSS)
+.github/workflows/daily.yml   매일 13:00 KST 수집 → 메일 발송 → 커밋 → Pages 배포
 ```
 
 의존성 없음 — 파이썬 표준 라이브러리만 사용한다.
@@ -36,11 +37,50 @@ URL: **https://sunghyunheo.github.io/tax-news/**
 
 > 저장소를 다른 이름으로 옮기면 위 remote 주소와 `render.py` 의 `SITE_URL` 두 곳을 고친다.
 
+## 메일 발송 (sh.heo@sk.com)
+
+매일 수집 직후 중요도 `상`/`중` 기사만 골라 (카테고리별 최대 6건) HTML 메일로 보낸다.
+본문은 `email_digest.py` 가 만들고, 모든 서식이 인라인 style 이라 Outlook 에서도 깨지지 않는다.
+
+발송에는 SMTP 계정이 필요하다. **비밀번호는 저장소 Secrets 에 직접 등록해야 한다**
+(코드나 워크플로 파일에 절대 넣지 않는다). Secrets 가 없으면 메일 단계만 건너뛰고
+수집·배포는 정상 진행된다.
+
+### Secrets 등록
+
+`Settings > Secrets and variables > Actions > New repository secret` 에서:
+
+| 이름 | 값 |
+|---|---|
+| `MAIL_USERNAME` | 보내는 계정 주소 (예: `shheob00236@gmail.com`) |
+| `MAIL_PASSWORD` | 앱 비밀번호 (**계정 비밀번호가 아니다**) |
+| `MAIL_SERVER` | (선택) 기본 `smtp.gmail.com` |
+| `MAIL_PORT` | (선택) 기본 `465` |
+
+Gmail 을 쓸 경우 2단계 인증을 켠 뒤 https://myaccount.google.com/apppasswords 에서
+앱 비밀번호(16자리)를 발급받아 `MAIL_PASSWORD` 에 넣는다. 일반 계정 비밀번호는 SMTP 로
+로그인되지 않는다.
+
+수신 주소는 `.github/workflows/daily.yml` 의 `to:` 에 있다. 여러 명에게 보내려면
+쉼표로 구분한다 (`to: a@sk.com, b@sk.com`).
+
+### 메일 미리보기
+
+```bash
+python collect.py && python email_digest.py
+```
+
+`mail/digest.html` 을 브라우저로 열어 확인한다. 담는 범위는 `email_digest.py` 상단의
+`MAX_PER_CATEGORY`, `INCLUDE_LEVELS` 로 조정한다.
+
 ## 로컬에서 확인
 
 ```bash
 python collect.py && python render.py && start docs/index.html
 ```
+
+실행 시각을 바꾸려면 `.github/workflows/daily.yml` 의 `cron` 을 고친다.
+현재 `0 4 * * *` = 매일 13:00 KST (cron 은 UTC 기준이라 9시간을 뺀 값이다).
 
 ## 카테고리
 
