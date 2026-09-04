@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T05:32:40.522859+00:00",
-  "generated_kst": "2026-09-03 14:32",
+  "generated_at": "2026-09-04T04:03:48.846314+00:00",
+  "generated_kst": "2026-09-04 13:03",
   "max_age_days": 14,
-  "total": 172,
+  "total": 170,
   "categories": [
     {
       "id": "refund",
       "label": "세액 이슈 (경정청구·수정신고)",
-      "total": 26,
+      "total": 17,
       "items": [
         {
           "title": "용인특례시, 부가가치세 경정청구로 22억 3700만원 환급받아 > 뉴스 - ghumannews.co.kr",
@@ -19,7 +19,7 @@
           "published_kst": "2026-08-31 21:54",
           "is_dated": true,
           "matched": [],
-          "score": 83,
+          "score": 78,
           "level": "상",
           "level_hint": "우선 확인",
           "reasons": [
@@ -28,73 +28,6 @@
           ],
           "demoted": [],
           "rank": 1
-        },
-        {
-          "title": "서천호, 농업부문 세제지원 5년 연장 추진…법인세·부가세 등 2031년까지",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59920",
-          "summary": "올해 말 종료될 예정인 농업부문 조세감면 특례를 2031년 말까지 5년 연장하는 방안이 추진된다.서천호 의원은 지난달 31일 농업인과 농업법인에 대한 각종 세제지원의 일몰기한을 연장하는 내용의 ‘조세특례제한법 일부개정법률안’을 대표발의했다.개정안에는 서 의원을 비롯해 조은희·우재준·김은혜·김용태·엄태영·정성국·나경원·이만희·김민전·서지영 의원 등 11명이 참여했다.현행법은 농업인과 농업법인의 경제적 부담을 줄이기 위해 영농조합법인과 농업회사법인에 대한 법인세 감면, 농업인 융자·예금 관련 인지세 면제, 농작업 대행용역에 대한 부가가",
-          "published": "2026-09-02 08:57:10",
-          "source": "세정일보",
-          "published_at": "2026-09-01T23:57:10+00:00",
-          "published_kst": "2026-09-02 08:57",
-          "is_dated": true,
-          "matched": [
-            "감면"
-          ],
-          "score": 82,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "일몰",
-            "개정안",
-            "감면"
-          ],
-          "demoted": [],
-          "rank": 2
-        },
-        {
-          "title": "[세미콜론] 올해 80조 조세지출 ‘무한팽창’…문제는 ‘관리시스템의 무력화’",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59913",
-          "summary": "국가 재정의 숨은 누수구이자 사실상의 보조금 성격을 갖는 ‘조세지출(비과세·세액감면·소득공제 등 국세감면)’ 규모가 올해 80조5000억원에 육박할 것으로 전망된다. `99년 통계 작성 초기 10조5000억원 수준이던 국세감면액은 국내총생산(GDP) 대비 1.4%에서 2.8%로 두 배 증가했다.문제는 조세지출 규모의 팽창 속도보다 이를 통제해야 할 법정 관리시스템이 구조적으로 무력화돼 있다는 점이다. 국가재정법상 국세감면율 법정한도는 이미 지켜지지 않은 채로 운영되고 있으며 일몰제는 ‘무한 연장’이 지속되고 있다.조세지출 관리를 위",
-          "published": "2026-09-02 08:17:21",
-          "source": "세정일보",
-          "published_at": "2026-09-01T23:17:21+00:00",
-          "published_kst": "2026-09-02 08:17",
-          "is_dated": true,
-          "matched": [
-            "감면"
-          ],
-          "score": 70,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "일몰",
-            "감면"
-          ],
-          "demoted": [],
-          "rank": 3
-        },
-        {
-          "title": "국세청, 생계형체납자로 확인되면 '체납액 납부의무' 소멸",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053028",
-          "summary": "국세청이 지난 3월부터 시행하고 있는 ‘체납액 납부의무 소멸 제도’를 다시한번 안내했다.징수가 곤란하다고 인정되는 폐업 영세자영업자의 체납세금 납부의무를 소멸시키는 것으로 장기간 체납으로 경제활동에 제약을 받고 있는 납세자의 재기를 지원하기 위해 도입됐다.납부의무 소멸제도(조세특례제한법 제99조의15)는 경제적 어려움으로 납부가 곤란한 생계형 체납자의 소멸대상 체납액에 대한 납부의무를 소멸하는 제도이다. 납부의무 소멸 대상은 2025년 1월 1일 이전 발생한 체납액으로서 종합소득세, 부가가치세, 이에 부가되는 가산세(가산금)·강제징",
-          "published": "2026-09-03 10:31:36",
-          "source": "일간NTN",
-          "published_at": "2026-09-03T01:31:36+00:00",
-          "published_kst": "2026-09-03 10:31",
-          "is_dated": true,
-          "matched": [
-            "가산세"
-          ],
-          "score": 65,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "가산세",
-            "24시간 내"
-          ],
-          "demoted": [],
-          "rank": 4
         },
         {
           "title": "이 대통령, 종부세 ‘개혁후퇴’ 비판 정면반박…“200%는 정의고 150%는 부정의인가”",
@@ -108,47 +41,6 @@
           "matched": [
             "감면"
           ],
-          "score": 62,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "감면",
-            "24시간 내"
-          ],
-          "demoted": [],
-          "rank": 5
-        },
-        {
-          "title": "이언주, ‘전기차 생산세액공제법’ 발의…국내 생산 1대당 최대 400만원 세액공제",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59907",
-          "summary": "국내 전기자동차 생산기반을 강화하고 관련 산업의 경쟁력을 높이기 위한 ‘전기차 생산세액공제법’이 국회에 제출됐다.1일 이언주 더불어민주당 의원(미래경제성장전략위원장·AI강국위원회 수석부위원장·메가성장 특별위원회 부위원장, 경기 용인정)은 이같은 내용을 골자로 하는 조세특례제한법 일부개정법률안을 대표 발의했다고 밝혔다.이언주 의원은 “최근 미국·유럽연합·중국 등 주요국이 경제안보와 공급망 확보, 자국 산업 보호를 위해 전기자동차의 자국 내 생산에 대한 세제·보조금 지원을 확대하고 있다”며 “우리 역시 국내에서 생산하고 투자하는 기업이",
-          "published": "2026-09-01 14:39:33",
-          "source": "세정일보",
-          "published_at": "2026-09-01T05:39:33+00:00",
-          "published_kst": "2026-09-01 14:39",
-          "is_dated": true,
-          "matched": [
-            "세액공제"
-          ],
-          "score": 58,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "세액공제"
-          ],
-          "demoted": [],
-          "rank": 6
-        },
-        {
-          "title": "국세감면, 올해 87조·내년 105조…반도체 호황에 대기업 감면 '껑충' - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZjdBQTBpLURsX3FBUjlnTGdKSDZBc0hya2dhMzNNaUVCN0lIRW0tckVKaFNtZmR0RE5mcE92Nno2dlNhRUptREw0b3V4Z2M5WENMUGJiTGxZd0d5WHZKcQ?oc=5",
-          "summary": "국세감면, 올해 87조·내년 105조…반도체 호황에 대기업 감면 '껑충' 네이트",
-          "published": "Tue, 01 Sep 2026 02:55:00 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-09-01T02:55:00+00:00",
-          "published_kst": "2026-09-01 11:55",
-          "is_dated": true,
-          "matched": [],
           "score": 55,
           "level": "중",
           "level_hint": "확인 권장",
@@ -156,7 +48,7 @@
             "감면"
           ],
           "demoted": [],
-          "rank": 7
+          "rank": 2
         },
         {
           "title": "부여군, 잠자던 숨은 세원… 부가세 1억 6천만 원 환급 성과:시대일보 - sidaeilbo.co.kr",
@@ -175,7 +67,45 @@
             "환급"
           ],
           "demoted": [],
-          "rank": 8
+          "rank": 3
+        },
+        {
+          "title": "위법한 세무조사에서 파생된 자료, 법적 근거 없다 - 한국세정신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nblMtUVRHRHBFUHNPUXk2d1doMVprQWNnR3k4ODVZai0tZlRnZS1RdGFyWEhyLXkwTFhvS0ZKaDhiXzhPTEczM0dSRTN3UVJWTTc0a0dnOWRPbkUxOW9jQzFMRTk?oc=5",
+          "summary": "위법한 세무조사에서 파생된 자료, 법적 근거 없다 한국세정신문",
+          "published": "Fri, 04 Sep 2026 01:00:00 GMT",
+          "source": "경정청구",
+          "published_at": "2026-09-04T01:00:00+00:00",
+          "published_kst": "2026-09-04 10:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 50,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 4
+        },
+        {
+          "title": "국세감면, 올해 87조·내년 105조…반도체 호황에 대기업 감면 '껑충' - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZjdBQTBpLURsX3FBUjlnTGdKSDZBc0hya2dhMzNNaUVCN0lIRW0tckVKaFNtZmR0RE5mcE92Nno2dlNhRUptREw0b3V4Z2M5WENMUGJiTGxZd0d5WHZKcQ?oc=5",
+          "summary": "국세감면, 올해 87조·내년 105조…반도체 호황에 대기업 감면 '껑충' 네이트",
+          "published": "Tue, 01 Sep 2026 02:55:00 GMT",
+          "source": "R&D 세액공제",
+          "published_at": "2026-09-01T02:55:00+00:00",
+          "published_kst": "2026-09-01 11:55",
+          "is_dated": true,
+          "matched": [],
+          "score": 50,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "감면"
+          ],
+          "demoted": [],
+          "rank": 5
         },
         {
           "title": "윤한홍, 경제안보 유망 산업에 ‘국내생산세액공제 제도’ 도입 추진 - 세정일보",
@@ -187,14 +117,14 @@
           "published_kst": "2026-08-28 07:52",
           "is_dated": true,
           "matched": [],
-          "score": 53,
+          "score": 50,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
             "세액공제"
           ],
           "demoted": [],
-          "rank": 9
+          "rank": 6
         },
         {
           "title": "상속세 가산세 > 상속증여세 - 조세일보",
@@ -208,37 +138,18 @@
           "matched": [
             "가산세"
           ],
-          "score": 53,
+          "score": 50,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
             "가산세"
           ],
           "demoted": [],
-          "rank": 10
-        },
-        {
-          "title": "\"AIDC는 임대업 아닌 지능 생산\"…SKT, 세액공제 실효성 지적 - 디지털데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OSFdEcUJILUgwOHd0S2tkdEtINDNLbE84TGdoRXExOGF6VmpVak9ybXA4WUdEZ3d3V3dZQ000TlRnTGlqc1NPdGU3YVo2aEh1THpzcjZqOHFxLU93bmFkd0ZqUG1IVlk?oc=5",
-          "summary": "\"AIDC는 임대업 아닌 지능 생산\"…SKT, 세액공제 실효성 지적 디지털데일리",
-          "published": "Wed, 26 Aug 2026 07:38:06 GMT",
-          "source": "통합투자세액공제",
-          "published_at": "2026-08-26T07:38:06+00:00",
-          "published_kst": "2026-08-26 16:38",
-          "is_dated": true,
-          "matched": [],
-          "score": 50,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "세액공제"
-          ],
-          "demoted": [],
-          "rank": 11
+          "rank": 7
         },
         {
           "title": "지난해 세액공제 76.1조원…법정한도 0.4%포인트 넘겨 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmMFpydTYtUVdZNXJOT0hCNXVFZTNIRTRCU2tFekVEN3JJZEkyVHl1RXNaYWFqbkoweEV3MUtUZnpsUWVtQVdXcC1wMFZRdmM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JVTk3NnRTVXh5UEhRYnFmV3cxSnk3QkZaMDZhTEZZb2pjNGlSTkU5Tm9MeHJVR0ppWVpJQlB6eDhrVmFWZWc?oc=5",
           "summary": "지난해 세액공제 76.1조원…법정한도 0.4%포인트 넘겨 v.daum.net",
           "published": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "R&D 세액공제",
@@ -253,54 +164,16 @@
             "세액공제"
           ],
           "demoted": [],
-          "rank": 12
-        },
-        {
-          "title": "R&D 세액공제 2년 새 57% 급증…국세청, 내달부터 부당공제 정조준 - 세정일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMEFNZ0tHVFNLOVNmZTFwMjVqQmlMTTBVV2hyOEZ5d3dPZ1BUd0EyQ0YxcmpYNTEtbDlfd2wyX2R2X21CTUJMNS1OMnJjaTRZWXMxOWNYeFNFRVFRRENFVjJxSjMyWWlFeXQ3bw?oc=5",
-          "summary": "R&D 세액공제 2년 새 57% 급증…국세청, 내달부터 부당공제 정조준 세정일보",
-          "published": "Thu, 20 Aug 2026 23:24:26 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-08-20T23:24:26+00:00",
-          "published_kst": "2026-08-21 08:24",
-          "is_dated": true,
-          "matched": [],
-          "score": 50,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "세액공제"
-          ],
-          "demoted": [],
-          "rank": 13
-        },
-        {
-          "title": "전기차 떼고 반도체 넣은 생산세액공제…취지 못 살린 세제 개편[세액공제 함정①] - news.mtn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUEdwWWJyVktmNXY0c3F5SDltSXRlUVhtaHFqRHdWanUzMjVfQ0JVb1VQZkNzcW92OHZibXRPNHVCTEJtMEhmTmRURkw4VjU1d0o3Unh4ckZFSWhPbURSV1JfUHo?oc=5",
-          "summary": "전기차 떼고 반도체 넣은 생산세액공제…취지 못 살린 세제 개편[세액공제 함정①] news.mtn.co.kr",
-          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-          "source": "통합투자세액공제",
-          "published_at": "2026-08-20T07:00:00+00:00",
-          "published_kst": "2026-08-20 16:00",
-          "is_dated": true,
-          "matched": [],
-          "score": 50,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "세액공제"
-          ],
-          "demoted": [],
-          "rank": 14
+          "rank": 8
         },
         {
           "title": "김영환 \"고소득자들이 세금 18조 감면 받아… 양극화 심화\" - 조세일보",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2M1AtNzREYlMzR09zeU9BWGUtbTFuamV6cExxUWpoR1JyaFVTTmNQNG9sbGZiWjhsZjdXcTJvc2t0aFdfR0Nrd0NXT25idzhFUUVPLVVockNqbWpXZGNn?oc=5",
           "summary": "김영환 \"고소득자들이 세금 18조 감면 받아… 양극화 심화\" 조세일보",
-          "published": "Wed, 26 Aug 2026 02:33:44 GMT",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
           "source": "조세일보",
-          "published_at": "2026-08-26T02:33:44+00:00",
-          "published_kst": "2026-08-26 11:33",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "published_kst": "2026-08-26 16:00",
           "is_dated": true,
           "matched": [
             "감면"
@@ -312,16 +185,16 @@
             "감면"
           ],
           "demoted": [],
-          "rank": 15
+          "rank": 9
         },
         {
-          "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%(종합) - 매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CX1A5d0ZWdmJCelFMSnBPbG1FNjNQN0pyNUxNR1RpWVA1RDcyekNCaXR0OEdRMFI4SVlZMGtYQmFWbHlnVWN0Yk9renl3UEdVUnc?oc=5",
-          "summary": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%(종합) 매일경제 마켓",
-          "published": "Sun, 23 Aug 2026 07:06:56 GMT",
+          "title": "상위 대기업 국세감면액 82% 늘어…중소기업은 4% 증가 - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53MmpmVXF2RjZDUGRlSGVMem1MalJ3MHNjQWgycms0NnNLYVFtMlhsa0tFZU9WMlQxUHl6RGtRNzQ2UVdTVWRuYTlFSF9KRFBsazUwN0J2NXZweTdqaEVwVmV2SGtRMmhHa3g3YW5FOU0xQQ?oc=5",
+          "summary": "상위 대기업 국세감면액 82% 늘어…중소기업은 4% 증가 한겨레",
+          "published": "Sun, 23 Aug 2026 07:00:00 GMT",
           "source": "R&D 세액공제",
-          "published_at": "2026-08-23T07:06:56+00:00",
-          "published_kst": "2026-08-23 16:06",
+          "published_at": "2026-08-23T07:00:00+00:00",
+          "published_kst": "2026-08-23 16:00",
           "is_dated": true,
           "matched": [],
           "score": 47,
@@ -331,12 +204,31 @@
             "감면"
           ],
           "demoted": [],
-          "rank": 16
+          "rank": 10
         },
         {
-          "title": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과 - dailian.co.kr",
+          "title": "상위 대기업 국세감면 82%↑…중소기업은 4%대 그쳐 - 서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94U3FuYXdiZ1BVTVUzNGtKNkc4djhIV2RZLXpVbTVmaWhPTzlreERWMW5OcFc5XzI3M1o3QlBZeTM4bm9ycnlFaUUtcWJFbk1ER0o3S3EtaUNDSnIta3I0V3FIZGs?oc=5",
+          "summary": "상위 대기업 국세감면 82%↑…중소기업은 4%대 그쳐 서울경제TV",
+          "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "R&D 세액공제",
+          "published_at": "2026-08-23T07:00:00+00:00",
+          "published_kst": "2026-08-23 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 47,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "감면"
+          ],
+          "demoted": [],
+          "rank": 11
+        },
+        {
+          "title": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과 - 데일리안",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNl85YUlpck9OcEZIOExyX2dEOFBVdDBBd2VpaXM1cDAzZmlYNFZYcmQwYm9ETnhSc2NkNHprMzJwY0ZTSHJkdndLdllTcnA2RHctRUppSHM3MVA5NXp6V1ljTWhfWXUwUXM2MzFPNDBMX21kSVh6MTJjeHIyQnBSQWZRV0lJemdKUkM0RUVWeE9xbVljb096anZSaHpUclk0QnlEcVUwc2gwb2R5cERtREl0WGVCLThTODR0ZDk2VnQwdHh4aTNDN3lwR1pfTnl5dVNWY3hJaVF0ZDZTck5FOW9Kd1Z4eXpEclQ4Q0ZyZlZGVEtESk56dUo4d1h6Q2NiakJGTHRDZ0NBX2lxdXc?oc=5",
-          "summary": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과 dailian.co.kr",
+          "summary": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과 데일리안",
           "published": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "R&D 세액공제",
           "published_at": "2026-08-21T07:00:00+00:00",
@@ -350,45 +242,24 @@
             "감면"
           ],
           "demoted": [],
-          "rank": 17
+          "rank": 12
         },
         {
-          "title": "지난해 국세감면액 76조1천억…법정한도 0.4%p 초과 - 한국세정신문",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NQ05RRkdzSkpfbzRBNTBaMVJBTTJPZHVRVWZVMm12cE9lWHVNTmF3YThDcXVhNTlXZno2X2IxSXUwcFN1Nmk4Szl6YXRLN1NTMUJoaGhNd0xsajEzZmRMdmZ0N0k?oc=5",
-          "summary": "지난해 국세감면액 76조1천억…법정한도 0.4%p 초과 한국세정신문",
-          "published": "Fri, 21 Aug 2026 02:45:09 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-08-21T02:45:09+00:00",
-          "published_kst": "2026-08-21 11:45",
-          "is_dated": true,
-          "matched": [],
-          "score": 47,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "감면"
-          ],
-          "demoted": [],
-          "rank": 18
-        },
-        {
-          "title": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과 - edaily.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FQQzJZNTR0STIzYWN2ZlQza2RNUG1Pdnd4eE9BQmR4MElEQjlSeDdGT3V0eENZQm5INGNxUlhmeVFQcW1pa2kzUUZLVUptTzBxWWJnb3Y0U1ZRbV8wNE9XTFZBVTllaEZCSURnUEdNZkxaVWZMV25fakR1cVFTYw?oc=5",
-          "summary": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과 edaily.co.kr",
-          "published": "Fri, 21 Aug 2026 01:39:32 GMT",
+          "title": "[산업계 세제 셈법] 투자서 생산으로…한국판 IRA, 기업 공장 셈법 바꾼다 - 아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBQkhURGJJNnpUU21qQ3E0ZUx1QVBRMnh4anJiS2hKb0lYNndPMnBlMjlpOXo1dnNfeFZpeWdlMXNZbENXa2I3eG8tRjRwZVJrTUtnOTdLdlPSAVhBVV95cUxQQUJIVERiSTZ6VFNtakNxNGVMdUFQUTJ4eGpyYktoSm9JWDZ3TzJwZTI5aTl6NXZzX3hWaXlnZTFzWWxDV2tiN3hvLUY0cGVSa01LZzk3S3ZT?oc=5",
+          "summary": "[산업계 세제 셈법] 투자서 생산으로…한국판 IRA, 기업 공장 셈법 바꾼다 아주경제",
+          "published": "Tue, 01 Sep 2026 08:22:19 GMT",
           "source": "통합투자세액공제",
-          "published_at": "2026-08-21T01:39:32+00:00",
-          "published_kst": "2026-08-21 10:39",
+          "published_at": "2026-09-01T08:22:19+00:00",
+          "published_kst": "2026-09-01 17:22",
           "is_dated": true,
           "matched": [],
-          "score": 47,
+          "score": 43,
           "level": "중",
           "level_hint": "확인 권장",
-          "reasons": [
-            "감면"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 19
+          "rank": 13
         },
         {
           "title": "[칼럼] 중소기업의 기술 경쟁력을 끌어올릴 기업부설연구소 - 네이트",
@@ -405,7 +276,7 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 20
+          "rank": 14
         },
         {
           "title": "[김성우 시평] 에너지 전환에 대한 세제지원 확대 - 에너지경제신문",
@@ -422,46 +293,12 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 21
+          "rank": 15
         },
         {
-          "title": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다 - 전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OMENfVGxFU08zWDFTSUJ5cXctNUpzWUc2bXg0a2d3NTJ1WnZWcmRGY0FkMnJRaFZUME1IUDFzWHRhQlg1bXRUT3BIV3Uydw?oc=5",
-          "summary": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다 전자신문",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-08-26T07:00:00+00:00",
-          "published_kst": "2026-08-26 16:00",
-          "is_dated": true,
-          "matched": [],
-          "score": 35,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 22
-        },
-        {
-          "title": "상위 대기업 세제혜택 82% 늘 때 중소기업은 4% 증가 그쳐 - 국제신문",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1VfM1oyTTBRazNTejd3U2tvNGZKd1psRHJqaFBUamVZQWVBaGV3QVVGVVh3RkVRTTZzZUR1SGtJOEJYTktpZTJQNTlnVUlSSnExR0RvcVM0TlAyZjRmSzBxYmVVVi1PZHdCdXNaQXJVZzl4WHpBR2lDWU0tYTl4Nm1EaXZYck5lamdKWHdR?oc=5",
-          "summary": "상위 대기업 세제혜택 82% 늘 때 중소기업은 4% 증가 그쳐 국제신문",
-          "published": "Sun, 23 Aug 2026 07:00:00 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-08-23T07:00:00+00:00",
-          "published_kst": "2026-08-23 16:00",
-          "is_dated": true,
-          "matched": [],
-          "score": 35,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 23
-        },
-        {
-          "title": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어 - newsis.com",
+          "title": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어 - 뉴시스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaXdYQklEWUZMMGhNSml6UEdRb3NkbHpBYTlfaE0tUUtObkdlenhKSG9IWF81S1huc19tNmV1ZDhIVDFQV1dSb0dnSTBjNGlrZUh3YnVyNk9mUW9uZTlOM9IBeEFVX3lxTE1Ua2YzQlBIUU45YXdOc1h6VGo3Z3lhR3BzcVQ3MUQ2aml5TmhOSE0tclgtQ2dsSXhHU1VaWnFfYlowaGk2bUhUaTg2VkdJRUhvcEp3Yno4YlZnZzQ4REhBZnF3XzZHWUc5c1hrTU83OEJsSkxNU25fRw?oc=5",
-          "summary": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어 newsis.com",
+          "summary": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어 뉴시스",
           "published": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "R&D 세액공제",
           "published_at": "2026-08-21T07:00:00+00:00",
@@ -473,12 +310,12 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 24
+          "rank": 16
         },
         {
-          "title": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상 - yna.co.kr",
+          "title": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상 - 연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40eXVnLWRoMmd2Q1lMcGx1RlVCTVd2V0kwOXUtTDlnejZnRmZfYzZCUWVFeW0zRjE2LW9XMXBBUjNvbVZnMzFibU1rYkdyMzF4b29OQ3VDSFBfeTDSAWBBVV95cUxQZ3pMYVRqSXhpeXF3d0NpRjY0V3JXWVA0SHFLRlNFT0FOUzlzNjVlS2x4OUk1M3JmbUVtMkxmVkxial9ObDlDaWRyZlA5RzJvNF9vN2xnZEw3MzhlZVZJajk?oc=5",
-          "summary": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상 yna.co.kr",
+          "summary": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상 연합뉴스",
           "published": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "R&D 세액공제",
           "published_at": "2026-08-21T07:00:00+00:00",
@@ -490,31 +327,14 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 25
-        },
-        {
-          "title": "\"보험료·교육비 공제 혜택의 절반은 소득상위 10%에 집중\" - 국제신문",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1o1SHQxRzY0UDQ2RHNlcXlXS05IWS1pdG5zRFFrVWlmQ3lVRktTSHowd0l6VFBvVW1jelk4Ymh5bm1kSngtOVZwME5pTWVSb2NLYnU2WE1BNEItZnE3dmpvejU4NTAtd0FGMFVtbjJiNHhWTkNNdE8xMG0zdUVYU3psSkR4emtoWDJudU53?oc=5",
-          "summary": "\"보험료·교육비 공제 혜택의 절반은 소득상위 10%에 집중\" 국제신문",
-          "published": "Fri, 21 Aug 2026 04:19:00 GMT",
-          "source": "R&D 세액공제",
-          "published_at": "2026-08-21T04:19:00+00:00",
-          "published_kst": "2026-08-21 13:19",
-          "is_dated": true,
-          "matched": [],
-          "score": 35,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 26
+          "rank": 17
         }
       ]
     },
     {
       "id": "reform",
       "label": "주요 세법 개정",
-      "total": 40,
+      "total": 46,
       "items": [
         {
           "title": "생협 주무부처, 공정위서 중기부로 이관…하위법령 개정안 예고",
@@ -530,93 +350,153 @@
             "시행령",
             "시행규칙"
           ],
-          "score": 67,
+          "score": 60,
           "level": "상",
           "level_hint": "우선 확인",
           "reasons": [
             "시행령",
-            "개정안",
-            "24시간 내"
+            "개정안"
           ],
           "demoted": [],
           "rank": 1
         },
         {
-          "title": "할당관세 받고도 물품 반출 지연하면 혜택 배제…윤준병, 관세법 개정안 발의",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59919",
-          "summary": "할당관세 혜택을 받고도 수입 물품의 국내 반출을 지연하는 경우 관세 혜택을 배제하고 기본세율을 적용해 차액을 추징하는 방안이 추진된다.윤준병 의원은 지난달 31일 이 같은 내용을 담은 ‘관세법 일부개정법률안’을 대표발의했다. 개정안에는 이학영·박희승·이언주·박용갑·이용우·이춘석·최혁진·송옥주·임미애 의원 등 모두 10명이 참여했다.현행 관세법은 원활한 물자수급이나 산업 경쟁력 강화를 위해 특정 물품의 수입을 촉진할 필요가 있는 경우 기본세율보다 낮은 관세율을 적용하는 할당관세 제도를 운영하고 있다.그러나 일부 수입업자가 할당관세 혜",
-          "published": "2026-09-02 08:53:17",
+          "title": "세무사 2명 ‘탈세상담 등 금지’ 위반 징계…과태료 최고 1천만원",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59951",
+          "summary": "‘탈세 상담 등의 금지’ 규정을 위반한 세무사 2명이 과태료 징계를 받았다.재정경제부는 4일 ‘제159차 세무사징계위원회 의결내용’을 공고하고 세무사 2명에 대해 각각 과태료 처분을 의결했다고 밝혔다.이번 징계는 지난달 31일 열린 제159차 세무사징계위원회에서 의결됐다.징계 내용에 따르면 이 모 세무사는 과태료 1천만원의 처분을 받았다.징계 사유는 세무사법 제12조의2에서 규정하고 있는 ‘탈세 상담 등의 금지’ 규정 위반이다.조 모 세무사도 같은 규정을 위반해 과태료 400만원의 징계를 받았다.재정경제부는 세무사법 시행령 제22조",
+          "published": "2026-09-04 07:20:08",
           "source": "세정일보",
-          "published_at": "2026-09-01T23:53:17+00:00",
-          "published_kst": "2026-09-02 08:53",
+          "published_at": "2026-09-03T22:20:08+00:00",
+          "published_kst": "2026-09-04 07:20",
           "is_dated": true,
           "matched": [
-            "세법 개정",
-            "개정안"
+            "시행령"
           ],
-          "score": 67,
-          "level": "상",
-          "level_hint": "우선 확인",
+          "score": 55,
+          "level": "중",
+          "level_hint": "확인 권장",
           "reasons": [
-            "추징",
-            "개정안"
+            "시행령",
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 2
         },
         {
-          "title": "공정위, AI·신기술 광고 ‘사전실증’ 의무화...실증고시 개정안 3일 시행",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052995",
-          "summary": "최근 AI 성능을 강조하는 제품과 서비스가 지속해서 출시되는 추세에 맞춰 사전 실증 의무가 명확해진다.공정거래위원회(위원장 주병기)는 AI 등 신기술 제품의 성능을 알리는 표시·광고에 대한 사전 실증 의무 절차를 명확히 하는 내용의 ‘표시·광고 내용의 실증에 관한 운영 고시’ 개정안을 3일부터 시행한다고 밝혔다.이번 개정안은 표시·광고 실증제도의 실효성을 높이고 절차와 기준을 체계적으로 정비하기 위한 것으로, 고시 명칭 변경, 실증자료 요청 대상 명확화, 실증자료 제출 절차 구체화, 실증자료 판단기준 정비 및 사업자 자율점검 지원",
-          "published": "2026-09-02 12:01:00",
+          "title": "금융샌드박스 탈락 실증기업에 ‘6개월 재도전 기회’ 부여",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053062",
+          "summary": "김상훈 의원(국민의힘)이 금융규제 샌드박스로 시장을 개척한 혁신금융사업자가 정식 제도화 과정에서 배제되지 않도록 ‘금융혁신지원 특별법’ 일부개정법률안을 대표발의했다.이번 개정안은 인·허가 심사에서 탈락한 실증기업에 재도전 기회를 보장하고, 심사 과정에서 실증 성과가 반영되도록 하기 위한 내용이 담겼다. 샌드박스 실증에서 정식 제도 진입으로 이어지는 출구 단계를 정비하기 위한 것이다.금융규제 샌드박스는 관련 법령이 없는 분야에서 혁신적 금융서비스를 한시적으로 허용하는 제도다. 2019년 4월 시행 이후 올해 4월 말까지 1059건이",
+          "published": "2026-09-04 10:55:23",
           "source": "일간NTN",
-          "published_at": "2026-09-02T03:01:00+00:00",
-          "published_kst": "2026-09-02 12:01",
+          "published_at": "2026-09-04T01:55:23+00:00",
+          "published_kst": "2026-09-04 10:55",
           "is_dated": true,
           "matched": [
             "개정안"
           ],
-          "score": 55,
+          "score": 52,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
             "개정안",
-            "고시"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 3
         },
         {
-          "title": "납품 대금 15일 이내 지급하면 세액공제 2배 김승원 의원, '조세특례제한법' 개정안 대표 발의 - 굿타임즈",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNnNLZjljREhTQ01mbUVzd1lkQW04Wlh4YTEzWFFyUkhPQXJyMnpkT3gxeHZNc1hXSEgzYTRsNTF1SHQxOHJMQ0Rwb3pWUnhGTkczMGZReFRqd0RJZmJlcDRtZEdsbGlPeHFCb001TQ?oc=5",
-          "summary": "납품 대금 15일 이내 지급하면 세액공제 2배 김승원 의원, '조세특례제한법' 개정안 대표 발의 굿타임즈",
-          "published": "Thu, 27 Aug 2026 22:34:34 GMT",
+          "title": "반도체 소부장 '실증 장벽' 낮춘다…복기왕, 조세특례제한법 개정안 발의 - 스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSXlDVm5nd2tBV2dfUFloQUo1OTY0bkZiTGdSUWhtYWZlTmxwRGRmN2hXaGV2cFJrdV95enI3Um1mUkZ4MWhUY1lKVWpSeE1aSmxfNi1YMnBRWTc2WUJ5T1VCeGdEbzA0VmMtRUhycjY4Z0XSAXdBVV95cUxOZGktV0JRSGdGWVBYYlhGanNjc0xBeVF0RTVSRlp0MVB6NW5qQlF5MDBReWI4aHFFT2I2ZG5wa21lRlNQX2h6eWFla1NYM3E0ZDI4cG9mbnJ2dnY3NW1rZ21pR0NSdXAxZ25WVDRxZzVRYVRuZnF1Yw?oc=5",
+          "summary": "반도체 소부장 '실증 장벽' 낮춘다…복기왕, 조세특례제한법 개정안 발의 스트레이트뉴스",
+          "published": "Fri, 04 Sep 2026 01:54:49 GMT",
           "source": "조특법 개정",
-          "published_at": "2026-08-27T22:34:34+00:00",
-          "published_kst": "2026-08-28 07:34",
+          "published_at": "2026-09-04T01:54:49+00:00",
+          "published_kst": "2026-09-04 10:54",
           "is_dated": true,
           "matched": [],
-          "score": 55,
+          "score": 52,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "세액공제",
-            "개정안"
+            "개정안",
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 4
         },
         {
-          "title": "\"15일 내 대금 주면 세액공제 2배\"…조세특례제한법 개정안 발의 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sOEp3cldpbVV5ME9ESzBBaDE1Zi0zTm1iU3hyWlYza1F2a19hY0lHZm9GS1Fsa1daYW9GWXhHdWU0QzU1MF91NmJUTngxV05YNEcyM2VpNWl2dnpIdWJsMk9KdnAtOHZPU2FWWGRYQlNJZXZUd2sw0gF8QVVfeXFMUGpKTXJDTVozeUJISDhsbDJfOXF2c1Zyb3A1aXBZdzN3Z0JDeTJhOWF5MXpSTmcxbWtOSTlab3B0MHZwdUEyLUJJZ0RLU0Q0RG5rSXEtajRWU3A2eDFaWmx4ZTh4d29nM3VMMnJWRGdzc18xZGJoV2hYTnppQQ?oc=5",
-          "summary": "\"15일 내 대금 주면 세액공제 2배\"…조세특례제한법 개정안 발의 - 머니투데이 머니투데이",
-          "published": "Thu, 27 Aug 2026 06:15:31 GMT",
+          "title": "복기왕 의원, 반도체 실증 인프라 지원 강화, 조세특례제한법 개정안 발의 - 2news.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZEVCRldBajNseUU2LXNqSEZua0ZOa2dITlJobU5velA4NXozUDQzSFlGck1BeDd1UGJwRGlXdUFDUmJTdnpFeGIwQWhwaWliS0t2R00xOEtXbDZQVk44Wlp4SEdTSkdB?oc=5",
+          "summary": "복기왕 의원, 반도체 실증 인프라 지원 강화, 조세특례제한법 개정안 발의 2news.co.kr",
+          "published": "Fri, 04 Sep 2026 01:05:14 GMT",
           "source": "조특법 개정",
-          "published_at": "2026-08-27T06:15:31+00:00",
-          "published_kst": "2026-08-27 15:15",
+          "published_at": "2026-09-04T01:05:14+00:00",
+          "published_kst": "2026-09-04 10:05",
           "is_dated": true,
           "matched": [],
-          "score": 55,
+          "score": 52,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "개정안",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 5
+        },
+        {
+          "title": "근로장려금 앞으로, 더 넓게! 2026년 세법개정안으로 달라지는 혜택과 신청 방법 - CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbEFobW8wNjNUbnRrZkFxOENzZmRQd3NKeHp5Q3ZvOHdkWmVySjdBZk9CSFlCTlVuME8yZXpMa282QlgyVWtmNERELUwtdlRaTmxEVGlkNWdIaWo0ZDRIeXFEQkdtUER6?oc=5",
+          "summary": "근로장려금 앞으로, 더 넓게! 2026년 세법개정안으로 달라지는 혜택과 신청 방법 CBC뉴스",
+          "published": "Thu, 03 Sep 2026 15:00:00 GMT",
+          "source": "세법개정안",
+          "published_at": "2026-09-03T15:00:00+00:00",
+          "published_kst": "2026-09-04 00:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 52,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "개정안",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 6
+        },
+        {
+          "title": "오기형 의원, 저평가 상장기업 M&A 시 주주보호 강화 자본시장법 개정안 발의",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053051",
+          "summary": "국회 재정경제기획위원회 소속 오기형 의원(더불어민주당)은 M&A 과정에서 이사회의 책임과 주주에 대한 정보제공을 강화하기 위한 '자본시장과 금융투자업에 관한 법률 일부개정법률안' 을 대표발의했다고 밝혔다.우리나라 상장회사의 취약한 기업지배구조는 ‘코리아 디스카운트’의 주요 원인 중 하나로 지적돼 왔으며 외부 경영규율장치로서 M&A 시장 역시 충분히 활성화되지 못했다는 평가를 받고 있다 . 실제 유가증권시장 (KOSPI) 상장기업 중 약 69%(2025년말 기준)가 PBR 1 배 미만으로 거래되고 있으며, 이는 미국 약",
+          "published": "2026-09-03 17:06:56",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T08:06:56+00:00",
+          "published_kst": "2026-09-03 17:06",
+          "is_dated": true,
+          "matched": [
+            "개정안"
+          ],
+          "score": 52,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "개정안",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 7
+        },
+        {
+          "title": "납품 대금 15일 이내 지급하면 세액공제 2배 김승원 의원, '조세특례제한법' 개정안 대표 발의 - 시사일보",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kOWp5TE9LcDJHRkhHWlkwZ3BFTEFHSFpQSmpDb200RksxdUJuOE1MdWcwOU1nR0ZJZGFfU0VqNmJTaUFJYVZXcm1tY3Jta3RjLV9SSUhkUnFRZw?oc=5",
+          "summary": "납품 대금 15일 이내 지급하면 세액공제 2배 김승원 의원, '조세특례제한법' 개정안 대표 발의 시사일보",
+          "published": "Thu, 27 Aug 2026 10:48:00 GMT",
+          "source": "조특법 개정",
+          "published_at": "2026-08-27T10:48:00+00:00",
+          "published_kst": "2026-08-27 19:48",
+          "is_dated": true,
+          "matched": [],
+          "score": 52,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
@@ -624,7 +504,7 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 5
+          "rank": 8
         },
         {
           "title": "\"15일 내 대금 주면 세액공제 2배\"…조세특례제한법 개정안 발의 · 달라지는 점은? - supple.kr",
@@ -636,7 +516,7 @@
           "published_kst": "2026-08-27 15:15",
           "is_dated": true,
           "matched": [],
-          "score": 55,
+          "score": 52,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
@@ -644,32 +524,32 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 6
+          "rank": 9
         },
         {
-          "title": "이상휘 의원, 농어민 면세유 '일몰 폐지' 조세특례제한법 개정안 발의 - 글로벌경제신문",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Q3NURDBMX2F2aWE5TzhsMWlfTmRTOGtIQXYwY1lINmFIMEYwZUpZZmF1YmRqcWx6UjJjZXNWNWhTNWtWbFV6aVJzd20xUUg4a29Ta1NKeDZoM19RbmptbUhqVzBRVlhKQVlPbtIBcEFVX3lxTE85b3lTOFRHZVY0SGRjTDV0TGF3UV9VblQwaUp6QUt2OXlhVmhXX0pucU1MdzV4ZWhPeG9ZOGhPVkZvYUp0S2tOalBwaWFzWXp3RHhnUzZ2YjA4WVE2bUNyUEhTVmc1V3NlMlZrMFNDa18?oc=5",
-          "summary": "이상휘 의원, 농어민 면세유 '일몰 폐지' 조세특례제한법 개정안 발의 글로벌경제신문",
-          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "title": "청년 월세 세액공제 최대 30%로…조지연, '조세특례제한법' 개정안 발의 - 스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15b2E2ajhfeWJia3hVRFBPX0RSc2t6ajhISVdjNVh2RFROc1o0b2Nadng4M0d3NW1ENVhYa1RIdVZxTVFQLTNicW0zdGJrWW85Tllzak4wYXBSbDVjekZHNWZLc3F2N0VXVTNNcC0yTFQxMEHSAXdBVV95cUxPTFhGRG93VzRReFlHN1FhNXQ1OGQwXzN3ZG52UFc5Qi1KalRTSkxqam12X0xrcEJ6M3pGMXUwWS1Yb3h5Y0V6REFQZWJWb1pRaHZUM01NU01MUHN6ZElIcS13VnFaT1d4M3FIa0FsbEJFa25Na0lmUQ?oc=5",
+          "summary": "청년 월세 세액공제 최대 30%로…조지연, '조세특례제한법' 개정안 발의 스트레이트뉴스",
+          "published": "Wed, 26 Aug 2026 01:05:07 GMT",
           "source": "조특법 개정",
-          "published_at": "2026-08-20T07:00:00+00:00",
-          "published_kst": "2026-08-20 16:00",
+          "published_at": "2026-08-26T01:05:07+00:00",
+          "published_kst": "2026-08-26 10:05",
           "is_dated": true,
           "matched": [],
           "score": 52,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "일몰",
+            "세액공제",
             "개정안"
           ],
           "demoted": [],
-          "rank": 7
+          "rank": 10
         },
         {
-          "title": "서울 송파구, 신축주택 재산세 급증 막는다…지방세법 시행령 개정 건의 - dailian.co.kr",
+          "title": "서울 송파구, 신축주택 재산세 급증 막는다…지방세법 시행령 개정 건의 - 데일리안",
           "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVW4ydks0eDFzLVpvUk5SZm43NlltR0lFdDEwbDcwMVFiOHRqS3hGX19ienBpQ2tIdlByYWY0eXpzN05qbkx0aUdTTTduaVRKU09ZRjY4bGZEUHBvRFNNcDdzMkdsbXNKb2xRZjk1dHFvaFRrMGlmam1ZQ3haWDRCcmRxd3dxclR3ZTZHQmVFdGFiQVhXYTM0RDBZLV9vQlJiZjRGZENFSzlxaHVvR3RidXdRT21iZ0Noa1BIX0lWTG9NVFl4WGNkMmJXLVo2Mk41bVg1VEVJRS00dFBPU2cydm5RM1NGT3ZEV0l0MWZFUWhrdDJNQ0pWSlRTekUyRWJoeDFBOXFmSWZkWXRNWFRPcmFERGl5U3Jp?oc=5",
-          "summary": "서울 송파구, 신축주택 재산세 급증 막는다…지방세법 시행령 개정 건의 dailian.co.kr",
+          "summary": "서울 송파구, 신축주택 재산세 급증 막는다…지방세법 시행령 개정 건의 데일리안",
           "published": "Tue, 01 Sep 2026 23:30:00 GMT",
           "source": "시행령 개정",
           "published_at": "2026-09-01T23:30:00+00:00",
@@ -683,7 +563,7 @@
             "시행령"
           ],
           "demoted": [],
-          "rank": 8
+          "rank": 11
         },
         {
           "title": "실거주 14억·비거주 12억… 국무회의 통과한 2027 세법개정안 종부세 총정리 - CBC뉴스",
@@ -702,29 +582,26 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 9
+          "rank": 12
         },
         {
-          "title": "“세제개편안 강남권에 초점, 지방과의 심각한 양극화 해소방안 빠졌다”",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59906",
-          "summary": "조세전문가는 달랐다. 정부가 내놓은 2026년 세제개편안 중 국민들의 경제생활과 밀접한 ‘부동산 세제와 가업승계 세제, 자기주식에 대한 개정상법의 핵심 이슈 및 대응전략 등을 꼼꼼하게 짚었다. 특히 정부의 부동산 세제개편안은 투기억제 정책에 급급한 나머지 나무만 보고 숲은 들여다보지 못한 근시안적인 개정안이란 지적과 반론을 쏟아 냈다.결론적으로 서울의 집값 폭등을 잡기 위한 부동산세제개편안이 전국 지방 도시의 부동산경기에는 악영향을 미치는 양극화현상을 초래했다는 지적이다. 현재 지방도시 곳곳에는 미분양사태가 심각하며, 입주를 시작하",
-          "published": "2026-09-01 17:53:52",
-          "source": "세정일보",
-          "published_at": "2026-09-01T08:53:52+00:00",
-          "published_kst": "2026-09-01 17:53",
+          "title": "농어업 세제 감면 5년 더…서천호 의원, 관련법 개정 추진 - idomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56X2JKN3l0eW91VmJTNkNING1zam9xRXVjSFYxSk4ySGZVVTB5TlAwLVZRdFI5TUxNREs0bWdMTW9tYVRnM3NwRjdXSlI1T3RURFUwSVhtR0Y2NGdRdkNGS1RPUWVWZFlEeUE?oc=5",
+          "summary": "농어업 세제 감면 5년 더…서천호 의원, 관련법 개정 추진 idomin.com",
+          "published": "Tue, 01 Sep 2026 07:53:03 GMT",
+          "source": "조특법 개정",
+          "published_at": "2026-09-01T07:53:03+00:00",
+          "published_kst": "2026-09-01 16:53",
           "is_dated": true,
-          "matched": [
-            "개정안",
-            "세제개편"
-          ],
+          "matched": [],
           "score": 45,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "개정안"
+            "감면"
           ],
           "demoted": [],
-          "rank": 10
+          "rank": 13
         },
         {
           "title": "세법 개정안 29일 만에 수정 확정…비거주 1주택 종부세 공제 12억 유지 - news.bbsi.co.kr",
@@ -743,7 +620,7 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 11
+          "rank": 14
         },
         {
           "title": "[녹화본] 알쏭달쏭 세법 개정안 끝장내기 - 네이버 프리미엄콘텐츠",
@@ -762,7 +639,7 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 12
+          "rank": 15
         },
         {
           "title": "'선교 탄압'이라던 그 시행령, 문을 연 건 신천지였다 - 뉴스앤조이",
@@ -781,7 +658,66 @@
             "시행령"
           ],
           "demoted": [],
-          "rank": 13
+          "rank": 16
+        },
+        {
+          "title": "복기왕 의원, 반도체 실증용 출연재산 증여세 한시 면제 추진 - hdnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DcW9fQXU3VGd1bTBhSVZUMHJhcGdUT3d3enlMazEtdWtnRDN4OGhadTFDRjdSLUhycU5PbzVmdG5qT1ZUZXFWRkdwMDF0LTFsUEhlQk5mVTAtWE9HTTdMTlhaUVRYaDZpZk9j?oc=5",
+          "summary": "복기왕 의원, 반도체 실증용 출연재산 증여세 한시 면제 추진 hdnews.co.kr",
+          "published": "Fri, 04 Sep 2026 03:51:08 GMT",
+          "source": "조특법 개정",
+          "published_at": "2026-09-04T03:51:08+00:00",
+          "published_kst": "2026-09-04 12:51",
+          "is_dated": true,
+          "matched": [],
+          "score": 40,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 17
+        },
+        {
+          "title": "與 “모든주택 14억”·조국 “상위 1% 이익”…세법 개정 ‘네버엔딩’ - 아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcllULTV5Q1gxQlh4b01ZYm44d01rbjRnTEhOZHZ1aWxYbi1aYl9tXzdSZldQMnpwaGRzSmpnQWRDQnpjZHhPeHZwQktZLXpTUVZ0WjF0MFlnWm5Jd25hRWZQZXJMd2dBRGl5SktR?oc=5",
+          "summary": "與 “모든주택 14억”·조국 “상위 1% 이익”…세법 개정 ‘네버엔딩’ 아시아투데이",
+          "published": "Thu, 03 Sep 2026 08:36:28 GMT",
+          "source": "세법개정안",
+          "published_at": "2026-09-03T08:36:28+00:00",
+          "published_kst": "2026-09-03 17:36",
+          "is_dated": true,
+          "matched": [],
+          "score": 40,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 18
+        },
+        {
+          "title": "국힘 \"예산·세제개편안, 폐기해야…'이재명 저수지' 안 돼\"",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59946",
+          "summary": "국민의힘은 3일 정부가 내년도 예산안과 세제개편 수정안을 국회에 제출하자 \"전면 폐기\"를 요구하며 거세게 반발했다.장동혁 대표는 이날 국회에서 열린 최고위원회의에서 \"부동산 세제개편안은 수정이 아니라 전면 폐기해야 한다\"면서 \"국민 주거권 수탈을 이제 그만 멈추라\"고 요구했다.장 대표는 또 \"이 대통령의 오밤중 부동산 SNS가 또 시작됐다. 며칠 전엔 집값이 폭락할 거라 글을 올리더니, 어젯밤에는 강남주택 급락이라고 또 올렸다\"면서 \"도대체 어떤 세상 살고 있느냐\"고 따졌다.그는 \"서울 외곽까지 국민평형 20억원 아파트들 속출하고",
+          "published": "2026-09-03 17:30:20",
+          "source": "세정일보",
+          "published_at": "2026-09-03T08:30:20+00:00",
+          "published_kst": "2026-09-03 17:30",
+          "is_dated": true,
+          "matched": [
+            "세제개편"
+          ],
+          "score": 40,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 19
         },
         {
           "title": "李대통령·김민석 대표에 종부세 공개질의…“과세기준 상향 근거 밝혀라”",
@@ -802,14 +738,14 @@
             "24시간 내"
           ],
           "demoted": [],
-          "rank": 14
+          "rank": 20
         },
         {
-          "title": "해외선교비 세제 개정…한국교회 선교재정 ‘비상’ - 고신뉴스 KNC",
+          "title": "해외선교비 세제 개정…한국교회 선교재정 ‘비상’ - kosinnews.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82eWlCR2dvRm1VcF9PMWREbE1UdVo5RnozR3N1clAwY3BNSW1JMmVwOFJpWTJhYjQ1TUdaMjlocldPTUs4UnRlcHJoUlpOcmlJVURFVDM4LUpSYi1PQmxKNk5qbVUxTWVUYkhB?oc=5",
-          "summary": "해외선교비 세제 개정…한국교회 선교재정 ‘비상’ 고신뉴스 KNC",
+          "summary": "해외선교비 세제 개정…한국교회 선교재정 ‘비상’ kosinnews.com",
           "published": "Thu, 03 Sep 2026 04:16:26 GMT",
-          "source": "시행령 개정",
+          "source": "법인세법 개정",
           "published_at": "2026-09-03T04:16:26+00:00",
           "published_kst": "2026-09-03 13:16",
           "is_dated": true,
@@ -821,74 +757,31 @@
             "24시간 내"
           ],
           "demoted": [],
-          "rank": 15
+          "rank": 21
         },
         {
-          "title": "송파구, 정부에 재산세 부담 완화 위한 세법 개정 건의 - newsis.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aEd1QmV5YUZueWxpRGVkWnVmM19VSjJVOUwxRktlc1FqRmxxZVNpNlZKYTItWWpxcjBUQUdjdkh0UjhnX3BvSWIzeVRtM3ZkU0prSEJWMnMwLXp5NThhSUZRQVdkSDdHUm8tRHYwVE1WWkNIbnVtZtIBeEFVX3lxTE90aEd1QmV5YUZueWxpRGVkWnVmM19VSjJVOUwxRktlc1FqRmxxZVNpNlZKYTItWWpxcjBUQUdjdkh0UjhnX3BvSWIzeVRtM3ZkU0prSEJWMnMwLXp5NThhSUZRQVdkSDdHUm8tRHYwVE1WWkNIbnVtZg?oc=5",
-          "summary": "송파구, 정부에 재산세 부담 완화 위한 세법 개정 건의 newsis.com",
-          "published": "Wed, 02 Sep 2026 06:23:05 GMT",
-          "source": "시행령 개정",
-          "published_at": "2026-09-02T06:23:05+00:00",
-          "published_kst": "2026-09-02 15:23",
+          "title": "친환경차 개별소비세 감면 2030년까지 연장 법안 국회 발의 - 핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yNlBHZE1rbElzREJQVmRTN19tRWpFa0FYSVY2Z01iUTNSMF93MURkMHJqTjRZcDRZWE50eUxCVHBtMWN1RU5URHl0Si1fWnRVOExUdEVXeEpfWWxELWxfTUx5TGE2ZXEzb2hSZHhRSmdUSHPSAXdBVV95cUxNSG5kel9COWFua0pOYUY5WHBXMTRTVnlSVFRhZThmT0pOQnVaZFBWQmYwR0dIbmNxXzBYWV9JVGlpRE9UbU9zeFF2RTY3LU82T0xSZTlDdGtLRHp1WThVTWJTMnRfMnVja0lIbGlPQW9FemtpOXRQUQ?oc=5",
+          "summary": "친환경차 개별소비세 감면 2030년까지 연장 법안 국회 발의 핀포인트뉴스",
+          "published": "Fri, 28 Aug 2026 23:30:00 GMT",
+          "source": "조특법 개정",
+          "published_at": "2026-08-28T23:30:00+00:00",
+          "published_kst": "2026-08-29 08:30",
           "is_dated": true,
           "matched": [],
           "score": 40,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "24시간 내"
+            "감면"
           ],
           "demoted": [],
-          "rank": 16
+          "rank": 22
         },
         {
-          "title": "김진우 전 서울국세청 조사4국장, ‘조세범칙조사 실무해설’ 어떤 내용?",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59905",
-          "summary": "김진우 전 서울지방국세청 조사4국장이 39년간 국세청에서 근무하며 축적한 조세범칙조사 경험과 관련 판례를 집대성한 ‘조세범칙조사 실무해설’을 출간했다.김 전 국장은 황보영미 변호사와 함께 조세범칙조사의 기본 법리와 절차, 형사·행정 사건의 주요 쟁점과 판례를 체계적으로 정리한 총 1552면 분량의 실무서를 펴냈다.조세범칙조사는 조세포탈을 비롯한 조세범죄를 대상으로 형사적·행정적 제재가 함께 작동하는 영역이다. 조세범처벌법과 조세범처벌절차법을 중심으로 국세기본법과 개별 세법, 형사소송법, 행정소송법 등이 복합적으로 적용된다.그러나 관",
-          "published": "2026-09-01 12:40:40",
-          "source": "세정일보",
-          "published_at": "2026-09-01T03:40:40+00:00",
-          "published_kst": "2026-09-01 12:40",
-          "is_dated": true,
-          "matched": [
-            "국세기본법"
-          ],
-          "score": 40,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "조사4국",
-            "서울지방국세청"
-          ],
-          "demoted": [
-            "출간"
-          ],
-          "rank": 17
-        },
-        {
-          "title": "[특별 기고] 해외선교비 세법개정(1) : 시행령개정 3가지 제안 - 한국교회장로닷컴",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qdHlLcDcxLTkxNnVfdkJXNDhOV2xvY0V6eGxPMkpiMk5VZU9IaWxLZ1M4MTlhb24zQVdpZ2FFSUNCOTQxNzNmT1JtRG9CeHU4dzlNNmZyZ1lnSmctbTJRaVZqRzBnc0doeWo0?oc=5",
-          "summary": "[특별 기고] 해외선교비 세법개정(1) : 시행령개정 3가지 제안 한국교회장로닷컴",
-          "published": "Thu, 20 Aug 2026 11:18:07 GMT",
-          "source": "법인세법 개정",
-          "published_at": "2026-08-20T11:18:07+00:00",
-          "published_kst": "2026-08-20 20:18",
-          "is_dated": true,
-          "matched": [],
-          "score": 40,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "시행령"
-          ],
-          "demoted": [],
-          "rank": 18
-        },
-        {
-          "title": "조지연 '조세특례 제한법 개정안' 발의…\"청년 월세공제↑·소득세↓\" - 뉴스1",
+          "title": "조지연 '조세특례 제한법 개정안' 발의…\"청년 월세공제↑·소득세↓\" - news1.kr",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZdER6QkVCMl84RHRQMjNQUGRidGNJTXp4anFnOWs4N21OVkRqWUxfUW5nLXZKWHZ6bG1LU3VGV1Y1S0U3Z2hBM3NZSGxEV1JlZ0I1V1ctdDE1VGQzVVln0gFkQVVfeXFMT083dW44ajlDWFJuSGw2UndLMTU5SWZHM1RnNU9PR3lzUnM4UVZxODIzZFRrOTYyUF9Cd0xnalBKZGdNZ2Y3VzhDSHpJQzAxX2hHQU1oWmNHZWd6VEJHR0tFa3l3dw?oc=5",
-          "summary": "조지연 '조세특례 제한법 개정안' 발의…\"청년 월세공제↑·소득세↓\" 뉴스1",
+          "summary": "조지연 '조세특례 제한법 개정안' 발의…\"청년 월세공제↑·소득세↓\" news1.kr",
           "published": "Thu, 27 Aug 2026 01:50:24 GMT",
           "source": "조특법 개정",
           "published_at": "2026-08-27T01:50:24+00:00",
@@ -902,7 +795,7 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 19
+          "rank": 23
         },
         {
           "title": "조지연 의원, 청년 취업·주거 부담 완화 위한 세제지원 개정안 발의 - 정필",
@@ -921,12 +814,12 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 20
+          "rank": 24
         },
         {
-          "title": "조지연 의원, 청년 취업·주거 부담 완화 세제지원 개정안 대표 발의 - 경북매일",
+          "title": "조지연 의원, 청년 취업·주거 부담 완화 세제지원 개정안 대표 발의 - kbmaeil.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxT0xzeDdwX1Rsb2JkSHJpdlUxTFdXLUNSWkVYdUNwYW1zOWM5X0k3QXpZNE1CUWpXajZ0LTZkb3poREdpY0syNno1RnVwZWFfdDdnUzNtZlJRUQ?oc=5",
-          "summary": "조지연 의원, 청년 취업·주거 부담 완화 세제지원 개정안 대표 발의 경북매일",
+          "summary": "조지연 의원, 청년 취업·주거 부담 완화 세제지원 개정안 대표 발의 kbmaeil.com",
           "published": "Wed, 26 Aug 2026 01:33:00 GMT",
           "source": "조특법 개정",
           "published_at": "2026-08-26T01:33:00+00:00",
@@ -940,7 +833,7 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 21
+          "rank": 25
         },
         {
           "title": "[카툰공감] 2023 세법개정안 - 대한민국 정책브리핑",
@@ -959,16 +852,16 @@
             "개정안"
           ],
           "demoted": [],
-          "rank": 22
+          "rank": 26
         },
         {
-          "title": "송파구, 행정안전부에 세법 개정 2건 건의 - 시사경제신문",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WUVUbERUUDVHZGZyRnVvMzdXUWpDRTkxSFQ4YVJEYkF3eml0RTJneEd6Xzg1Z2R6ZlVndkpUbjRFWVRCdTI0cUhya2t5T0E4Y1BJRGUtbXJhR2xuSnJERnZZS210Sk9SZ1o2bdIBbEFVX3lxTFA2WUVUbERUUDVHZGZyRnVvMzdXUWpDRTkxSFQ4YVJEYkF3eml0RTJneEd6Xzg1Z2R6ZlVndkpUbjRFWVRCdTI0cUhya2t5T0E4Y1BJRGUtbXJhR2xuSnJERnZZS210Sk9SZ1o2bQ?oc=5",
-          "summary": "송파구, 행정안전부에 세법 개정 2건 건의 시사경제신문",
-          "published": "Wed, 02 Sep 2026 03:32:10 GMT",
+          "title": "송파구, 정부에 재산세 부담 완화 위한 세법 개정 건의 - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aEd1QmV5YUZueWxpRGVkWnVmM19VSjJVOUwxRktlc1FqRmxxZVNpNlZKYTItWWpxcjBUQUdjdkh0UjhnX3BvSWIzeVRtM3ZkU0prSEJWMnMwLXp5NThhSUZRQVdkSDdHUm8tRHYwVE1WWkNIbnVtZtIBeEFVX3lxTE90aEd1QmV5YUZueWxpRGVkWnVmM19VSjJVOUwxRktlc1FqRmxxZVNpNlZKYTItWWpxcjBUQUdjdkh0UjhnX3BvSWIzeVRtM3ZkU0prSEJWMnMwLXp5NThhSUZRQVdkSDdHUm8tRHYwVE1WWkNIbnVtZg?oc=5",
+          "summary": "송파구, 정부에 재산세 부담 완화 위한 세법 개정 건의 뉴시스",
+          "published": "Wed, 02 Sep 2026 06:23:05 GMT",
           "source": "시행령 개정",
-          "published_at": "2026-09-02T03:32:10+00:00",
-          "published_kst": "2026-09-02 12:32",
+          "published_at": "2026-09-02T06:23:05+00:00",
+          "published_kst": "2026-09-02 15:23",
           "is_dated": true,
           "matched": [],
           "score": 33,
@@ -976,7 +869,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 23
+          "rank": 27
         },
         {
           "title": "비거주 1주택 종부세 완화시…반포 자이 84㎡ 내년 677만원↓",
@@ -995,7 +888,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 24
+          "rank": 28
         },
         {
           "title": "송파구, 신축주택 재산세 급증 막는다…세법 개정 건의 - 시사포커스",
@@ -1012,7 +905,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 25
+          "rank": 29
         },
         {
           "title": "“주민 재산세 완화 필요” …송파구, 정부에 세법 개정 2건 건의 - 헤럴드경제",
@@ -1029,74 +922,6 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 26
-        },
-        {
-          "title": "정부, 2026년 세제개편안 확정…ISA·종부세 개편 일부 철회 - 세정일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcFFhdEYtam9DSGYtclo5VmgzX3djY0hKakVvZVlXdTlmTzVrdjczb3lYSEd5VTdNY1ZxXzFnY0x3YTVlWFJ5WC02bFExUDFrR0RQdU1TLU5Cc1ZVNThpcktVQ0RSTU1Ec0Uzag?oc=5",
-          "summary": "정부, 2026년 세제개편안 확정…ISA·종부세 개편 일부 철회 세정일보",
-          "published": "Tue, 01 Sep 2026 05:59:39 GMT",
-          "source": "세법개정안",
-          "published_at": "2026-09-01T05:59:39+00:00",
-          "published_kst": "2026-09-01 14:59",
-          "is_dated": true,
-          "matched": [],
-          "score": 33,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 27
-        },
-        {
-          "title": "강민국 의원, “세제개편안 찬성 3%대...국회서 전면 재검토” - 경남미디어",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VeWVKWU9nRnVMVkhQU0ZYdzJNQm4xbERsZkoyYUtPZmVrcV9OWnFobUpYaTZiTWRHR2phd0VVTjJ3dm1GSzFjQWFseks5UWs4bWlDRlFDbU1FTEp1Z2F5dlJmTU04bGRNYkgw?oc=5",
-          "summary": "강민국 의원, “세제개편안 찬성 3%대...국회서 전면 재검토” 경남미디어",
-          "published": "Tue, 01 Sep 2026 05:56:28 GMT",
-          "source": "세법개정안",
-          "published_at": "2026-09-01T05:56:28+00:00",
-          "published_kst": "2026-09-01 14:56",
-          "is_dated": true,
-          "matched": [],
-          "score": 33,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 28
-        },
-        {
-          "title": "세제개편안 29일 만에 유턴…비거주1주택 종부세 공제 12억 유지(종합) - yna.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84bkhlMlh3enlYV1hvbDBPN1Bzak1aUFhCaG9WOFdaY2ZTMzFMOWNYVGVMdXNzbnJmNWpEMkZRNEk5bnZmazVGeVdPVkswY0tUSzQxbEJBN0xITlFFaE13M9IBYEFVX3lxTE84bkhlMlh3enlYV1hvbDBPN1Bzak1aUFhCaG9WOFdaY2ZTMzFMOWNYVGVMdXNzbnJmNWpEMkZRNEk5bnZmazVGeVdPVkswY0tUSzQxbEJBN0xITlFFaE13Mw?oc=5",
-          "summary": "세제개편안 29일 만에 유턴…비거주1주택 종부세 공제 12억 유지(종합) yna.co.kr",
-          "published": "Tue, 01 Sep 2026 05:50:47 GMT",
-          "source": "세법개정안",
-          "published_at": "2026-09-01T05:50:47+00:00",
-          "published_kst": "2026-09-01 14:50",
-          "is_dated": true,
-          "matched": [],
-          "score": 33,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 29
-        },
-        {
-          "title": "김은혜 의원 「벤처기업 성과조건부주식 활성화 법안」 대표발의 - 사회적경제뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBJY3lvbjA2cS1Cc1Z5a1RYdFFENzhRS0E4c0NucTJrcUlRb3huaVhBTGJJbEJTM0xPQ3NldWZQRQ?oc=5",
-          "summary": "김은혜 의원 「벤처기업 성과조건부주식 활성화 법안」 대표발의 사회적경제뉴스",
-          "published": "Sun, 30 Aug 2026 02:02:00 GMT",
-          "source": "조특법 개정",
-          "published_at": "2026-08-30T02:02:00+00:00",
-          "published_kst": "2026-08-30 11:02",
-          "is_dated": true,
-          "matched": [],
-          "score": 28,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
           "rank": 30
         }
       ]
@@ -1104,31 +929,12 @@
     {
       "id": "audit",
       "label": "대기업 세무조사 동향",
-      "total": 31,
+      "total": 30,
       "items": [
         {
-          "title": "‘공정 세무조사’ 강조한 국세청…조사4국 정보유출 의혹 본청 감찰 - 이택스뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZa3ZKSGdYSW1xc1dDcDlId0g3ZzRKWWdNOWJOaDhBYnR4ZGtkZTFkRzcwSXhuZVBRY3ZJRU03aENtTWlERDByNzYtRmdWR0dFbWJLRTZfbzQ4UU5BVUhsYnpwbUZtamxITkE?oc=5",
-          "summary": "‘공정 세무조사’ 강조한 국세청…조사4국 정보유출 의혹 본청 감찰 이택스뉴스",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "source": "특별세무조사",
-          "published_at": "2026-08-27T07:00:00+00:00",
-          "published_kst": "2026-08-27 16:00",
-          "is_dated": true,
-          "matched": [],
-          "score": 55,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "조사4국"
-          ],
-          "demoted": [],
-          "rank": 1
-        },
-        {
-          "title": "'황제사택' 대기업 등 50개 업체 세무조사 착수...\"1.9조 탈루\" - newsfc.co.kr",
+          "title": "'황제사택' 대기업 등 50개 업체 세무조사 착수...\"1.9조 탈루\" - 금융소비자뉴스",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4VTFkZU1ZcjZFVUxTeVFNemN3ZE1JY3NQRzhHLV9ybjc5Zl9iYTJLN3k2RTNVZW90ajRYd3dJOVl4OVI4Rmc2TXJWaVoxUDViTS1SZFo0NGR6a3BBb2V2WUJBUU8zVUlhRkE?oc=5",
-          "summary": "'황제사택' 대기업 등 50개 업체 세무조사 착수...\"1.9조 탈루\" newsfc.co.kr",
+          "summary": "'황제사택' 대기업 등 50개 업체 세무조사 착수...\"1.9조 탈루\" 금융소비자뉴스",
           "published": "Tue, 25 Aug 2026 07:50:00 GMT",
           "source": "대기업 세무조사",
           "published_at": "2026-08-25T07:50:00+00:00",
@@ -1142,16 +948,16 @@
             "세무조사 착수"
           ],
           "demoted": [],
-          "rank": 2
+          "rank": 1
         },
         {
           "title": "회삿돈으로 200억대 '황제 사택'‥50개 업체 세무조사 착수 - MBC 뉴스",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vbUhKZHBEaFR0by1kMEJ6MTRSbF94aDRsY3NsYUdmc2UzM2dIZ3NCNEtwRVpUMk5vRXc3QWxBTnRQWDhqVUNNbERmbURGUjdmSkl6c3FydXFqOXllaXp3M0FGckYxQ2pSX0paa3dxWHR5YWty0gF0QVVfeXFMUHUwQXRjVFVyYXpGeF91dmRCTzA2eDRNUjBqWUpYcFRXWDhNeERaNzM1THh4STM2Qk1HRlJWeGdWYUhuV016ZnNwT0psWk9GakZfNjRITkhlWVlETGwxQnp5V1RRcGktdzZybU9SU21GTjFDZFg?oc=5",
           "summary": "회삿돈으로 200억대 '황제 사택'‥50개 업체 세무조사 착수 MBC 뉴스",
-          "published": "Tue, 25 Aug 2026 04:36:19 GMT",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
           "source": "대기업 세무조사",
-          "published_at": "2026-08-25T04:36:19+00:00",
-          "published_kst": "2026-08-25 13:36",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
           "is_dated": true,
           "matched": [],
           "score": 55,
@@ -1161,26 +967,7 @@
             "세무조사 착수"
           ],
           "demoted": [],
-          "rank": 3
-        },
-        {
-          "title": "국세청, '황제사택' 운영 기업 고강도 세무조사 착수 - 한스경제",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MOEtiVV9MTDdkLXhGbFZON3NKVnRsNkxwN2N3QURzcUVmVXJiNEtmRV9PUU1BcHpKeVpfQUlWc0VtZmZ6bmtFZ3FpcnhWbFFzNzBKOUY1TEZqUjdWekFsQzQ0VkJiZTAzM2tj0gFvQVVfeXFMTmUzN1MtT1pYbDAtX2ZJY2V1cVg5WFZoSjZSeXpMeDU0SzVSS2hSeGVzcVA1bmx5Tk5Oc1JVQ050TGN0Q2tEVlpIbktGX2ZHYlZxOTRXNDA3QWV1QWFneWJlMENKaHQ5SDJ3Z1Yyby0w?oc=5",
-          "summary": "국세청, '황제사택' 운영 기업 고강도 세무조사 착수 한스경제",
-          "published": "Sun, 23 Aug 2026 12:30:00 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-08-23T12:30:00+00:00",
-          "published_kst": "2026-08-23 21:30",
-          "is_dated": true,
-          "matched": [],
-          "score": 55,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "세무조사 착수"
-          ],
-          "demoted": [],
-          "rank": 4
+          "rank": 2
         },
         {
           "title": "와인 18만병 팔고 세금은 '쏙'…4년간 수입가격 속여 41억 추징 - 조세일보",
@@ -1201,7 +988,7 @@
             "추징"
           ],
           "demoted": [],
-          "rank": 5
+          "rank": 3
         },
         {
           "title": "조사4국 세무조사 정보 사전 유출에 '발칵' … 공정성 강조하던 국세청 '전전긍긍' - 뉴데일리",
@@ -1220,20 +1007,60 @@
             "조사4국"
           ],
           "demoted": [],
+          "rank": 4
+        },
+        {
+          "title": "[프로필] 홍성미 서울지방국세청 국제거래조사국 국제조사1과장 - tfmedia.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43cDNBWS1SNlFuZklpY0hWU2xmQ3FCUjJFY2prNGpjcnFZMEMtMW1SWmpTWkM2U2lBalBNdjdjNnVLUW82SURSbkJmUUMzYm05dDl3VWNKT3lWVmFZMDAxa21kMA?oc=5",
+          "summary": "[프로필] 홍성미 서울지방국세청 국제거래조사국 국제조사1과장 tfmedia.co.kr",
+          "published": "Fri, 28 Aug 2026 07:10:41 GMT",
+          "source": "조세금융신문",
+          "published_at": "2026-08-28T07:10:41+00:00",
+          "published_kst": "2026-08-28 16:10",
+          "is_dated": true,
+          "matched": [
+            "조사국"
+          ],
+          "score": 48,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "서울지방국세청"
+          ],
+          "demoted": [],
+          "rank": 5
+        },
+        {
+          "title": "세무사징계위원회, 세무사 2명 징계…탈세 상담 금지 규정 위반",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053066",
+          "summary": "세무사징계위원회가 세무사 2명을 징계했다. 재정경제부는 지난 8월 31일 개최된 제159차 세무사징계위원회 의결 내용을 9월 4일자로 관보에 공고했다.대상자들은 모두 세무사법 제12조의2 탈세 상담 등의 금지 규정을 위반했다.구체적으로 1명은 과태료 1000만원을, 1명은 과태료 400만원을 부과받았다.",
+          "published": "2026-09-04 11:20:54",
+          "source": "일간NTN",
+          "published_at": "2026-09-04T02:20:54+00:00",
+          "published_kst": "2026-09-04 11:20",
+          "is_dated": true,
+          "matched": [
+            "탈세"
+          ],
+          "score": 45,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
           "rank": 6
         },
         {
-          "title": "국세청, ‘산불 유령업체’ 41곳 세무조사…탈루혐의 700억원 정조준",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053021",
-          "summary": "산불 피해 복구사업 입찰 과정에서 낙찰 가능성을 높이기 위해 유령업체를 동원하고 거짓 세금계산서와 가공원가 등을 통해 세금을 탈루한 것으로 의심되는 업체들에 대해 국세청이 세무조사에 착수했다.특히 이들 업체는 지역제한 입찰을 피하기 위해 사업장을 수차례 옮겨 다니는 이른바 ‘메뚜기 입찰’을 반복하고 산림기술자의 자격증을 빌리는 방식으로 입찰 자격을 갖춘 것으로 나타났다.국세청은 3일 공공계약 비리와 관련해 세무검증을 실시한 결과 산불피해 복구사업에 참여한 업체 가운데 세무상 문제점이 명백히 포착된 10개 업체와 이들이 동원한 유령업",
-          "published": "2026-09-03 12:00:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "title": "손 안 대고 코 풀어야 탈세제보 포상금 주는 국세청 - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpOWpqSGwwXzFYeHlqQmlGN3hUOFR5UTRtY3lVeWtUbGhaVVJFTDdLaXhIdDNNMnpOWmItb09QR1BvRkpxNWZvN1MydFYyYnE5bHJiWm1UNHhhZk1yT19XU2dkamhHTTNpWWNLOWZKTQ?oc=5",
+          "summary": "손 안 대고 코 풀어야 탈세제보 포상금 주는 국세청 조세일보",
+          "published": "Fri, 04 Sep 2026 00:09:51 GMT",
+          "source": "추징",
+          "published_at": "2026-09-04T00:09:51+00:00",
+          "published_kst": "2026-09-04 09:09",
           "is_dated": true,
-          "matched": [
-            "세무조사"
-          ],
+          "matched": [],
           "score": 45,
           "level": "중",
           "level_hint": "확인 권장",
@@ -1244,18 +1071,15 @@
           "rank": 7
         },
         {
-          "title": "‘역외탈세 차단’ 해외금융계좌 신고 107조 돌파…해외주식 61.3조 ‘역대 최대’",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59915",
-          "summary": "국세청(청장 임광현)에서는 역외탈세 차단과 해외자산 양성화를 위해 도입된 해외금융계좌와 해외신탁 신고와 관련해 올해 6월 거주자 및 내국법인으로부터 합계 111조원의 신고를 받았다고 2일 밝혔다.국세청에 따르면 올해 해외금융계좌 신고인원은 전년 대비 9.1% 증가한 7484명, 신고금액은 전년 대비 13.3% 증가한 107조1000억원으로 집계되었다.그중 주식 금액이 61조3000억원으로 전체의 57.2%를 차지했는데, 이는 주로 우리 기업의 해외진출 확대로 인한 주식상장·평가금액 증가에 따른 것이다.해외신탁은 올해 첫 신고임에도",
-          "published": "2026-09-02 12:00:03",
-          "source": "세정일보",
+          "title": "‘역외탈세 차단’ 해외금융계좌 신고 107조 돌파…해외주식 61.3조 ‘역대 최대’ - 세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJdnU2VllHUFUzZHpIeXB2YXJCTTBLQnJUZHhVbDZGRTJ5dXc0V2hVWmQ1OEVwdmlIc0hNbnBNazZxWVEzal9hdC1TWjZkbkk1RUY4dnpHLXV5dmpGdEx2V1hpaVdUd0J3TC1ncA?oc=5",
+          "summary": "‘역외탈세 차단’ 해외금융계좌 신고 107조 돌파…해외주식 61.3조 ‘역대 최대’ 세정일보",
+          "published": "Wed, 02 Sep 2026 03:00:03 GMT",
+          "source": "역외탈세",
           "published_at": "2026-09-02T03:00:03+00:00",
           "published_kst": "2026-09-02 12:00",
           "is_dated": true,
-          "matched": [
-            "탈세",
-            "역외탈세"
-          ],
+          "matched": [],
           "score": 38,
           "level": "중",
           "level_hint": "확인 권장",
@@ -1264,29 +1088,9 @@
           "rank": 8
         },
         {
-          "title": "2026년 우리나라 거주자·내국법인, 해외 보유 자산 총 111조원 신고",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052987",
-          "summary": "국세청(청장 임광현)에서는 역외탈세 차단과 해외자산 양성화를 위해 도입된 '해외금융계좌'와 '해외신탁' 신고와 관련해 금년 6월 거주자 및 내국법인으로부터 신고를 받았으며(합계 금액 111조원) 그 결과는 다음과 같다. 올해 해외금융계좌 신고인원은 전년 대비 9.1% 증가한 7484명, 신고금액은 전년 대비 13.3% 증가한 107.1조원으로 집계됐다.그 중 주식 금액이 61.3조원으로 전체의 57.2%를 차지했는데, 이는 주로 우리 기업의 해외진출 확대로 인한 주식상장·평가금액 증가에 따른 것이다.해외",
-          "published": "2026-09-02 12:00:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T03:00:00+00:00",
-          "published_kst": "2026-09-02 12:00",
-          "is_dated": true,
-          "matched": [
-            "탈세",
-            "역외탈세"
-          ],
-          "score": 38,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 9
-        },
-        {
-          "title": "세무조사 기업 대응 전략은?…광장 조세포럼 성료 [로펌소식] - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SNkV2dTB3RjBXdVI2UEJTem94aEpTU1dPMXJWekNBeWtMT1k3YXcxWVJ4VmlzOE1xRDhFX1Z1cDBpaXBVMHBBSFRlbUlQVjMwMHZRN3Nrb1F6TjRadjNiRQ?oc=5",
-          "summary": "세무조사 기업 대응 전략은?…광장 조세포럼 성료 [로펌소식] 네이트",
+          "title": "세무조사 기업 대응 전략은?...광장 조세포럼 성료 [로펌소식] - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LeHIwSXk2b1c2dWVNajFVNm9zOVFvX1MwVUtNZjAtd1pCUGd2cDJEdnJnMWwwWlplb0xzWkplZ2RfSkFLQ2p5Q3g3UENuX25ub3B3bzFGdE5xdw?oc=5",
+          "summary": "세무조사 기업 대응 전략은?...광장 조세포럼 성료 [로펌소식] 파이낸셜뉴스",
           "published": "Wed, 02 Sep 2026 01:40:00 GMT",
           "source": "대기업 세무조사",
           "published_at": "2026-09-02T01:40:00+00:00",
@@ -1298,35 +1102,16 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 10
+          "rank": 9
         },
         {
-          "title": "자녀에 집 넘긴 척…국세청, ‘가장매매’ 양도세 회피 집중 검증",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59867",
-          "summary": "국세청이 다주택자가 자녀 등에게 저가주택을 허위로 이전한 뒤 고가주택을 양도하면서 1세대 1주택 비과세 혜택을 받거나 다주택자 중과세율을 회피하는 이른바 ‘가장매매’에 대한 검증을 강화한다.고가주택을 중심으로 지역별·가격대별 주택시장 양극화가 이어지는 가운데 부동산 거래 과정에서 형식적인 소유권 이전을 통해 양도소득세를 회피하는 사례가 적발되고 있는 데 따른 조치다.국세청은 최근 각급 세무관서에 1세대 1주택 비과세 적용 거래와 다주택자의 주택 양도 건을 정밀 검토하고, 가장매매 등을 이용한 탈세 혐의가 확인되는 경우 엄정 대응하도",
-          "published": "2026-09-02 08:17:58",
-          "source": "세정일보",
-          "published_at": "2026-09-01T23:17:58+00:00",
-          "published_kst": "2026-09-02 08:17",
-          "is_dated": true,
-          "matched": [
-            "탈세"
-          ],
-          "score": 38,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 11
-        },
-        {
-          "title": "조세금융신문 - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OT0FOSzU3WV9LdUJrSmMySnFaenVTdmlVS0tEbmhaMUhkaVlLbTNGS1c3Zk5JbENjcXZYeVY4bnY3ZDRZR0RVanh2Rnk3VmhIa2l3ZkpIcUZidFJLZlUtS3ZOdmowQQ?oc=5",
-          "summary": "조세금융신문 조세금융신문",
-          "published": "Fri, 28 Aug 2026 07:10:41 GMT",
-          "source": "서울지방국세청 조사국",
-          "published_at": "2026-08-28T07:10:41+00:00",
-          "published_kst": "2026-08-28 16:10",
+          "title": "KB금융 회장 3파전, 국세청 세무조사가 변수로 - 뉴스법률",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10Qkthd0I4NWxnemxsVnBCMEE3Z0V2ZzhiRHplcWhHc0NRUFh0MG9rOVhuR3RpRDVrVHpqYTNUU2tDclpYZDBxeEVMZUtZazRpZDVrc05OZ1I?oc=5",
+          "summary": "KB금융 회장 3파전, 국세청 세무조사가 변수로 뉴스법률",
+          "published": "Mon, 31 Aug 2026 01:17:00 GMT",
+          "source": "특별세무조사",
+          "published_at": "2026-08-31T01:17:00+00:00",
+          "published_kst": "2026-08-31 10:17",
           "is_dated": true,
           "matched": [],
           "score": 33,
@@ -1334,7 +1119,58 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
+          "rank": 10
+        },
+        {
+          "title": "[이슈&기업] 국세청, 소노트리니티그룹 세무조사...서준혁 회장 일가 한남동 250억대 '황제사택' 구입 포착 - 이슈인팩트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94VUNfbXBSSEE1S25OODNXWXJaQTVIbHVPS1FRZ1h1dkFseEZLZWF2LWJtNGg0cHB6TzVqMUZBeXZ3bnRHMkpiRnZjSEJ0V3hxeXNhcHNzYURDcmN4Y0syN0RIeFp0MmwtanA3Yzh3?oc=5",
+          "summary": "[이슈&기업] 국세청, 소노트리니티그룹 세무조사...서준혁 회장 일가 한남동 250억대 '황제사택' 구입 포착 이슈인팩트",
+          "published": "Wed, 26 Aug 2026 14:17:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-26T14:17:00+00:00",
+          "published_kst": "2026-08-26 23:17",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 11
+        },
+        {
+          "title": "200억대 ‘황제 사택’, 150억 연봉 퍼주기…탈루 혐의 기업 세무조사 - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZcmpMZ0M1SGV5YUR1bVFiUmRNWXgtUkZjcEtoYllCMlN4WG8taTdxTEg1dmhFcXI3R2ZrTkNGeXlFaWRZSDVBY2ljekVBaE41UFAyUnRDZXlCUjVkOEpHWXJYMUhRbzJ6U3U4akk0OXpIdw?oc=5",
+          "summary": "200억대 ‘황제 사택’, 150억 연봉 퍼주기…탈루 혐의 기업 세무조사 한겨레",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "published_kst": "2026-08-26 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
           "rank": 12
+        },
+        {
+          "title": "[단독] KCC, 국세청 ‘특별 세무조사’ 받아 - 조선비즈 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjlVZlpKZkxYT0V3VTEtU3hGcGFDa1lNbjdQWENjREJxanM5NmpSNG45WkdRa1pzM1RDUXQ2QVBSTGxMYUk2VFJKdjJYMGpONG4wSkVLT0RZREhRSnhVMUZJXzZZV2Ewb2dqcURSUFdjMktDVnFoTmFtYlR3a1FsM1luX3BYUdIBmgFBVV95cUxQLWMtSVUzVDU4SVhCU0FORzR1ai1INlNzN2hXM0sweC1haktXTWFhYUtUbzhKOUQtWV9HSGxUUGVnbVNscW55ajVQWm12STVINkU3b2hCY0lBcjNCY0E2eU11dUw4S3V0M2Rrdl9sWWJEbmRhUVBIRUlEaGdfV2ktT0dsUVdXTElvbjVOVGVidERqcFNzVnFlN2hn?oc=5",
+          "summary": "[단독] KCC, 국세청 ‘특별 세무조사’ 받아 - 조선비즈 Chosunbiz",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "published_kst": "2026-08-26 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 13
         },
         {
           "title": "국세청, 소노그룹 세무조사…황제사택에 회삿돈 투입 - 일요주간",
@@ -1351,33 +1187,16 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 13
-        },
-        {
-          "title": "[단독] KCC, 국세청 ‘특별 세무조사’ 받아 - 조선비즈 - Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjlVZlpKZkxYT0V3VTEtU3hGcGFDa1lNbjdQWENjREJxanM5NmpSNG45WkdRa1pzM1RDUXQ2QVBSTGxMYUk2VFJKdjJYMGpONG4wSkVLT0RZREhRSnhVMUZJXzZZV2Ewb2dqcURSUFdjMktDVnFoTmFtYlR3a1FsM1luX3BYUdIBmgFBVV95cUxQLWMtSVUzVDU4SVhCU0FORzR1ai1INlNzN2hXM0sweC1haktXTWFhYUtUbzhKOUQtWV9HSGxUUGVnbVNscW55ajVQWm12STVINkU3b2hCY0lBcjNCY0E2eU11dUw4S3V0M2Rrdl9sWWJEbmRhUVBIRUlEaGdfV2ktT0dsUVdXTElvbjVOVGVidERqcFNzVnFlN2hn?oc=5",
-          "summary": "[단독] KCC, 국세청 ‘특별 세무조사’ 받아 - 조선비즈 Chosunbiz",
-          "published": "Wed, 26 Aug 2026 02:31:00 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-08-26T02:31:00+00:00",
-          "published_kst": "2026-08-26 11:31",
-          "is_dated": true,
-          "matched": [],
-          "score": 30,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
           "rank": 14
         },
         {
-          "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합) - 매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XVnlRSVRsQl9rQ2Z2eUZTZEVJQUhnMVNwVzVNRllUSWMwLWQ3MFQ3VEowMzVDTGRHdlhTY1J0eVI1M29ZOUw1WlVLb2RSeTFNd3c?oc=5",
-          "summary": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합) 매일경제 마켓",
-          "published": "Tue, 25 Aug 2026 10:45:08 GMT",
+          "title": "국세청, '황제사택' 등 1.9조원 탈루 혐의 포착…50개 업체 세무조사 - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IUEFyeUVIdm1Zdm5ndTZlNkxyclNOd1FORmZRZmFGY3NaNDRUcV9XMktiR1hGaV82V3Y2eW9IX3QwczdEeGhWSmNJQ3VnSlNXR0tn?oc=5",
+          "summary": "국세청, '황제사택' 등 1.9조원 탈루 혐의 포착…50개 업체 세무조사 네이트",
+          "published": "Tue, 25 Aug 2026 08:16:00 GMT",
           "source": "대기업 세무조사",
-          "published_at": "2026-08-25T10:45:08+00:00",
-          "published_kst": "2026-08-25 19:45",
+          "published_at": "2026-08-25T08:16:00+00:00",
+          "published_kst": "2026-08-25 17:16",
           "is_dated": true,
           "matched": [],
           "score": 30,
@@ -1388,13 +1207,13 @@
           "rank": 15
         },
         {
-          "title": "사주 황제사택에 법인 돈 ‘펑펑’…국세청, 50곳 세무조사 - 신아일보",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01WDVVMVJ4U1dQZzNKZGpWVXp2Y3lVazQ0NFZOYkk4djRBb3Y5NkY0M1ZQSmNTcy15bGJHZGZLWDZOMEdDS2p3TzBVSHRZbzU3TEZkMFgzNnNIOGlnSnlwblZNSTFsalc3UENxdlJ5VTg?oc=5",
-          "summary": "사주 황제사택에 법인 돈 ‘펑펑’…국세청, 50곳 세무조사 신아일보",
-          "published": "Tue, 25 Aug 2026 07:24:19 GMT",
+          "title": "국세청, '황제사택' 50개 업체 세무조사···1.9조 탈루 혐의 - 서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BNWxJS2dGWEIyVklFUG5vM3VyOWU3M2FYNFRjTnp2TGRlNTFWY09tNmJBN21MUXR4TFhfYjAzSWxYTXBVVlY2SEFOVDVJbVI3SVV5QzNrY2xCYnpJcEdIdUtWdEVtazA4c2c?oc=5",
+          "summary": "국세청, '황제사택' 50개 업체 세무조사···1.9조 탈루 혐의 서울파이낸스",
+          "published": "Tue, 25 Aug 2026 07:13:10 GMT",
           "source": "대기업 세무조사",
-          "published_at": "2026-08-25T07:24:19+00:00",
-          "published_kst": "2026-08-25 16:24",
+          "published_at": "2026-08-25T07:13:10+00:00",
+          "published_kst": "2026-08-25 16:13",
           "is_dated": true,
           "matched": [],
           "score": 30,
@@ -1406,7 +1225,7 @@
         },
         {
           "title": "중국, ‘국경 간 부패방지법’ 초안 마련…부유층 역외 탈세에 칼날 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMEk5cnUxZktSczYxaUxTOHlMdktSOGo5MHB4SU10bHk4dVludGFCaExIak9TREZZbTNybFVzYU1INkY4aW9ZenNJSQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RdWVNdXhhRUwwbzFxYVpCbXJMdWxvUzBDckRYcHlBOEQ3SEtydXRDM1gtTWlGY3ZMVW5qS2tublhGZ05TV0hrSzZVbFQ5NkZUT2xjNA?oc=5",
           "summary": "중국, ‘국경 간 부패방지법’ 초안 마련…부유층 역외 탈세에 칼날 v.daum.net",
           "published": "Tue, 25 Aug 2026 07:07:28 GMT",
           "source": "역외탈세",
@@ -1422,13 +1241,13 @@
           "rank": 17
         },
         {
-          "title": "한남동 ‘황제사택’·‘한강뷰’ 헐값 거주…1.9조 탈루 혐의 기업 세무조사 - 매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42SGhnUWVjdmRrQ2xWdzRVM01kbDdxMTh3Y3JlSnc4amRLRm5CSkZKcmJPVV85R1NwZW9OYkxKZ0Q3VUtRMVlnbVBVQ0hwQ0luaEE?oc=5",
-          "summary": "한남동 ‘황제사택’·‘한강뷰’ 헐값 거주…1.9조 탈루 혐의 기업 세무조사 매일경제 마켓",
-          "published": "Tue, 25 Aug 2026 06:46:26 GMT",
+          "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합) - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMazNHRzVueEE4c0RLMzRzbU8wcWVLQmZxVllDUkFjX1F2ejY3THlKNmpjRXpxcWd1QVByaG9VTVBzX1c0bVpkOHdDdTBDbW04R2UxVjd1ZE9BTEHSAWBBVV95cUxOSFRKTHFJV0dsNlhtZUpJSHdqWUZ0ZjlMRGlya3hiZlpNUDJrZVdYQ2FuSG4zTkdBTUV1ZGdtQnNwbEtDZlpGUUxKN25VblV1dWtFZXhsdllVMVJ1UTR0SDI?oc=5",
+          "summary": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합) 연합뉴스",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
           "source": "대기업 세무조사",
-          "published_at": "2026-08-25T06:46:26+00:00",
-          "published_kst": "2026-08-25 15:46",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
           "is_dated": true,
           "matched": [],
           "score": 30,
@@ -1437,6 +1256,57 @@
           "reasons": [],
           "demoted": [],
           "rank": 18
+        },
+        {
+          "title": "한남동 ‘황제사택’·‘한강뷰’ 헐값 거주…1.9조 탈루 혐의 기업 세무조사 - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MaURYSWJXMFdrSWM3TDdEUnVFWDE4Zy1IVTl5cUliTU1tQjhPMVZZMklOYzF6TzhyZDBOOXAwa0dMNUdMOEY2d3RqTnFKaGhQX0tzMg?oc=5",
+          "summary": "한남동 ‘황제사택’·‘한강뷰’ 헐값 거주…1.9조 탈루 혐의 기업 세무조사 매일경제",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 19
+        },
+        {
+          "title": "회삿돈으로 200억대 한남동 주택 산 사주일가... ‘1.6兆 탈루 혐의’ 기업들 무더기 세무조사 - 조선비즈 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOW9MS25zUUItN1FzWlBjWkNwdzNFdmd3Qk1kZFhaSXpZNnotcm83Q05MTEU2WDFmTThvdGFKZWlBNy11V1NIVGRUc2dmdDktRHUwWkxOMDBBUUV2VC04bDRhZWhLVVZMM0d5V1ZRV3R5Ylc0dzUxSFU3cXZ5NS1fNVJqMTVmZ9IBmgFBVV95cUxQbjFaZ1Y0SzFUUDhMMGtOV0pUMnpsWVBhWG5wQ2s0QXdhRjlOelFhdGpZaFRPbldUVXNfcHdKTUFBcHh5WGZtMjBaZU1EODVJZGRxWVd1bWpENVVpNzhMdFZHTVFiMjlhM0Z0dnVNRHgzOXU2ZUhYTTY1LUFVcmFHYUF3Tk8zcXcxaUQzMVIyRDNiNWRFYVRZQXFn?oc=5",
+          "summary": "회삿돈으로 200억대 한남동 주택 산 사주일가... ‘1.6兆 탈루 혐의’ 기업들 무더기 세무조사 - 조선비즈 Chosunbiz",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 20
+        },
+        {
+          "title": "국세청, 황제사택 법인 50곳 세무조사 - 브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tbXVGWDJZYlVhTVFJVDFtWWYwdnlPNWxydjFDMWs2blI4T0hDNVF6ZXBqTWxwdG1YbERkYnZFTkttMjNVNHFQODJQd3pyS1podFE0THc2SQ?oc=5",
+          "summary": "국세청, 황제사택 법인 50곳 세무조사 브릿지경제",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 21
         },
         {
           "title": "회삿돈으로 ‘황제사택’…국세청, 1.9조 탈루 혐의 50곳 세무조사 - 위키리크스한국",
@@ -1453,41 +1323,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 19
-        },
-        {
-          "title": "'200억대 회장님 저택·자녀 유학비'···국세청, 대기업 등 대대적 세무조사 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96RlR5c3FndDFiMk5GdG5NZGVQVjBkeHpjVHZHbE1yZHVnQ1ZEVGY4VEFSNW1lLTFkOTlxTFZ6WHNySDdONVVlLVp1QQ?oc=5",
-          "summary": "'200억대 회장님 저택·자녀 유학비'···국세청, 대기업 등 대대적 세무조사 v.daum.net",
-          "published": "Tue, 25 Aug 2026 05:35:50 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-08-25T05:35:50+00:00",
-          "published_kst": "2026-08-25 14:35",
-          "is_dated": true,
-          "matched": [],
-          "score": 30,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 20
-        },
-        {
-          "title": "회삿돈으로 200억대 한남동 주택 산 사주일가…'1.6兆 탈루 혐의' 기업들 무더기 세무조사 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nWmtSbTFOa2pLcm1MZVZMUkdiUlVsS0tsdTNLMS1DRXA5Y3JoSXpIZjZiOWx2QXF6MjRVczA0djJHdF9xV0tRWHNvRlNxV0xUWGtR?oc=5",
-          "summary": "회삿돈으로 200억대 한남동 주택 산 사주일가…'1.6兆 탈루 혐의' 기업들 무더기 세무조사 네이트",
-          "published": "Tue, 25 Aug 2026 03:01:00 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-08-25T03:01:00+00:00",
-          "published_kst": "2026-08-25 12:01",
-          "is_dated": true,
-          "matched": [],
-          "score": 30,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 21
+          "rank": 22
         },
         {
           "title": "“회삿돈으로 200억 한남동집 사 100억 인테리어”…‘황제사택’ 법인 50곳 세무조사 - edaily.co.kr",
@@ -1504,42 +1340,36 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 22
-        },
-        {
-          "title": "증선위, ‘허위매출·재고 조작’ (주)금양 검찰고발…대표이사 등 해임권고",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053014",
-          "summary": "증권선물위원회가 허위 세금계산서 등을 이용해 매출과 매출원가를 부풀리고 공동지배 관계에 있는 몽골법인을 연결재무제표에 포함해 자기자본 등을 과대계상한 ㈜금양에 대해 감사인지정 3년과 검찰고발 등의 제재를 의결했다.또한 외부감사 과정에서 매출 및 매출원가에 대한 감사절차를 현저히 부실하게 수행한 선진회계법인에 대해서는 손해배상공동기금 추가적립 20%와 감사업무제한 2년 등의 조치가 내려졌다.증선위는 2일 제15차 회의를 열고 회계처리기준을 위반해 재무제표를 작성·공시한 금양과 중요한 감사절차를 위반한 선진회계법인 등에 대한 조사·감리",
-          "published": "2026-09-03 06:00:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T21:00:00+00:00",
-          "published_kst": "2026-09-03 06:00",
-          "is_dated": true,
-          "matched": [
-            "고발"
-          ],
-          "score": 27,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
-          "demoted": [
-            "회계법인"
-          ],
           "rank": 23
         },
         {
-          "title": "나랏돈 뜯어먹은 ‘산불 카르텔’…국세청, 700억대 탈루 세무조사 나섰다",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59940",
-          "summary": "산불 피해 복구공사에 페이퍼컴퍼니를 무더기로 동원해 수백억 원대 나랏돈을 챙기고, 허위 비용을 꾸며 700억 원대 세금을 탈루한 '산불 카르텔' 업체들이 국세청 세무조사를 받게 됐다.3일 국세청(청장 임광현)은 국민주권정부 출범 이후 토착 비리 및 공공계약 비리 관련 업체에 대해 지속적으로 세무검증을 실시해 오고 있다.국세청에 따르면 유령업체를 동원한 부정입찰행위는 형사상·행정상 제재와 별개로 세무상 위법·탈루행위에 대한 철저한 검증을 통해 부정입찰로 경제적 이득을 누릴 수 없도록 해야 근절할 수 있으므로 영세하다는 이유로 줄곧 세",
-          "published": "2026-09-03 12:00:08",
-          "source": "세정일보",
-          "published_at": "2026-09-03T03:00:08+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "title": "국세청장 \"고가 법인주택 42% 황제사택…탈세 혐의 기업 엄정 조사\" - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2xlamlBYzc5bkNLU2NIU08wdGtFZGt2WmN2UUVqMzVwbHRsWTU0bUoxa19wVVVvNTg0QnFCc3JKOURDU1l1MkNRc3VNLVZvQVJIdFZvYlpKOEtUblZtX3RjeC0zejFNSkJUT2R0cExjbG5ZRVpJY3ItSXhDVW9ldUt6SGIwUWl4M0RseWFB?oc=5",
+          "summary": "국세청장 \"고가 법인주택 42% 황제사택…탈세 혐의 기업 엄정 조사\" 조선일보",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "published_kst": "2026-08-24 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 24
+        },
+        {
+          "title": "관세청, TBFC 특별수사단 공식 출범",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053045",
+          "summary": "관세청 서울세관은 지난 6월 코넥스(Konex) 상장기업과 대표를 검거해 관세법 위반 등으로 검찰에 송치했다. 세관 수사 결과 이들은 저가의 통신 부품을 고가로 반복 수출입하는 수법을 통해 수출실적을 조작해 증권시장에 부정 상장한 것으로 드러났다.코넥스(Konex)는 코스닥 상장이 어려운 유망 중소·벤처기업의 성장을 지원할 목적으로 `13년 개설된 하위 증권시장이다.또한 이들은 협력업체를 통해 통신장비 수입가격을 세관에 고가로 신고하는 수법으로 11억원의 국가 보조금도 부당하게 편취한 것으로 확인됐다.이처럼 최근 무역범죄는 탈세목적",
+          "published": "2026-09-03 15:57:52",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T06:57:52+00:00",
+          "published_kst": "2026-09-03 15:57",
           "is_dated": true,
           "matched": [
-            "세무조사"
+            "탈세"
           ],
           "score": 25,
           "level": "하",
@@ -1550,45 +1380,7 @@
           "demoted": [
             "출범"
           ],
-          "rank": 24
-        },
-        {
-          "title": "법무법인 광장, '2026년 광장 조세 포럼' 성료 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwdlR2SXdZNEhMVmt1anRocGl6WjFDVGEycHNSYVlRTXhqcVNZUTJ1X19lZXRnNk1DQ3FfLXpBOU1jSGVGd0tPUDF0RVFSMndGMEV0dWJuai1rRXdsTEdsSlB5Ry1kWTFOUkFQNFFObTnSAXBBVV95cUxQcHZUdkl3WTRITFZrdWp0aHBpeloxQ1RhMnBzUmFZUU14anFTWVEydV9fZWV0ZzZNQ0NxXy16QTlNY0hlRndLT1AxdEVRUjJ3RjBFdHVibmota0V3bExHbEpQeUctZFkxTlJBUDRRTm05?oc=5",
-          "summary": "법무법인 광장, '2026년 광장 조세 포럼' 성료 - 머니투데이 머니투데이",
-          "published": "Tue, 01 Sep 2026 02:08:25 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-09-01T02:08:25+00:00",
-          "published_kst": "2026-09-01 11:08",
-          "is_dated": true,
-          "matched": [],
-          "score": 16,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [
-            "법무법인"
-          ],
           "rank": 25
-        },
-        {
-          "title": "법무법인 광장, ‘2026년 조세 포럼’ 개최… 세제개편·세무조사 대응 논의 - 조선비즈 - Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2NLdlozWHVzNDBwRFNxZF9pd2dsdkZ2N251MGRER2p5OENnelE1anUzVzctcjNsZlVpTEdDVmg5Q3FUVVB4NTZpamp3Wi1jVlpyNVFvSlphYVVUWkJPc0FQY01jTEV5VHREZU9wVzNQSkVUZEx2UjN4T0pMdkRoNm9BUdIBlwFBVV95cUxOUm9SSVY0VGR1YUc5VGVCYzhDQWxaUW9wSVIwenp6U0pLZ3U5cXJkcDNhTU5aU1haaUVIQkRXaVQ5NmJwS0JfelQybzVRdFFwX2RjeGNOYS1ZV0FpcWZvblFON0t6YWRMYU1qZHBwWlN0dzN3NDZfTms1NWxEQlR3WTlaUHExakozS1FDdFZHdnl4UFJHVXRj?oc=5",
-          "summary": "법무법인 광장, ‘2026년 조세 포럼’ 개최… 세제개편·세무조사 대응 논의 - 조선비즈 Chosunbiz",
-          "published": "Tue, 01 Sep 2026 01:02:00 GMT",
-          "source": "대기업 세무조사",
-          "published_at": "2026-09-01T01:02:00+00:00",
-          "published_kst": "2026-09-01 10:02",
-          "is_dated": true,
-          "matched": [],
-          "score": 16,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [
-            "법무법인"
-          ],
-          "rank": 26
         },
         {
           "title": "강성팔 전 부산청장·김진우 전 서울청 조사4국장이 이끄는 '세무법인 해송' - 한국세정신문",
@@ -1610,50 +1402,45 @@
             "세무법인",
             "이끄는"
           ],
+          "rank": 26
+        },
+        {
+          "title": "법무법인 광장, '2026년 광장 조세 포럼' 성료 - supple.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40OThIVl81OUZkbVloUFNDNHFNZFR2U0Vqd0tvSk5PWGtGQnFPMlQ1LUJfcGNNZ0Q5WVFNd2U0LThFMU5NQjYwbWYzYUpOc1EzUlFNdkRyMGxvSFll?oc=5",
+          "summary": "법무법인 광장, '2026년 광장 조세 포럼' 성료 supple.kr",
+          "published": "Tue, 01 Sep 2026 02:08:25 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-09-01T02:08:25+00:00",
+          "published_kst": "2026-09-01 11:08",
+          "is_dated": true,
+          "matched": [],
+          "score": 11,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [
+            "법무법인"
+          ],
           "rank": 27
         },
         {
-          "title": "“전관 세무사 추천·가족조사 압박”…세무조사 권익보호센터 개설",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052998",
-          "summary": "세무조사 과정에서 조사공무원이 특정 세무대리인 선임을 권유하거나 가족·친인척에 대한 조사 확대를 언급하며 납세자를 압박하는 등 위법·부당한 행위가 발생할 수 있다는 지적이 나왔다.한국납세자연맹(회장 김선택)은 이 같은 세무조사 과정의 납세자 권익 침해에 대응하기 위해 지난 1일부터 연맹 홈페이지에 ‘세무조사 권익보호센터’를 개설해 운영하고 있다고 2일 밝혔다.납세자연맹은 세무조사 과정에서 납세자의 권리가 제대로 보장되지 않는 사례가 적지 않다고 보고 조사가 끝난 뒤 사후적으로 문제를 제기하기보다 조사 단계에서부터 위법·부당한 행위를",
-          "published": "2026-09-02 12:00:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T03:00:00+00:00",
-          "published_kst": "2026-09-02 12:00",
+          "title": "법무법인 광장, ‘2026년 조세 포럼’ 개최… 세제개편·세무조사 대응 논의 - 조선비즈 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2NLdlozWHVzNDBwRFNxZF9pd2dsdkZ2N251MGRER2p5OENnelE1anUzVzctcjNsZlVpTEdDVmg5Q3FUVVB4NTZpamp3Wi1jVlpyNVFvSlphYVVUWkJPc0FQY01jTEV5VHREZU9wVzNQSkVUZEx2UjN4T0pMdkRoNm9BUdIBlwFBVV95cUxOUm9SSVY0VGR1YUc5VGVCYzhDQWxaUW9wSVIwenp6U0pLZ3U5cXJkcDNhTU5aU1haaUVIQkRXaVQ5NmJwS0JfelQybzVRdFFwX2RjeGNOYS1ZV0FpcWZvblFON0t6YWRMYU1qZHBwWlN0dzN3NDZfTms1NWxEQlR3WTlaUHExakozS1FDdFZHdnl4UFJHVXRj?oc=5",
+          "summary": "법무법인 광장, ‘2026년 조세 포럼’ 개최… 세제개편·세무조사 대응 논의 - 조선비즈 Chosunbiz",
+          "published": "Tue, 01 Sep 2026 01:02:00 GMT",
+          "source": "대기업 세무조사",
+          "published_at": "2026-09-01T01:02:00+00:00",
+          "published_kst": "2026-09-01 10:02",
           "is_dated": true,
-          "matched": [
-            "세무조사"
-          ],
-          "score": 8,
+          "matched": [],
+          "score": 11,
           "level": "하",
           "level_hint": "참고",
           "reasons": [],
           "demoted": [
-            "선임"
+            "법무법인"
           ],
           "rank": 28
-        },
-        {
-          "title": "“조사요원이 세무대리인 선임 권유”…납세자연맹, '세무조사 권익보호센터' 개설",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59918",
-          "summary": "한국납세자연맹이 위법·부당한 세무조사로 어려움을 겪는 납세자의 권익을 보호하기 위한 ‘세무조사 권익보호센터’를 개설했다.한국납세자연맹은 지난 1일부터 연맹 홈페이지에 세무조사 권익보호센터를 개설해 운영하고 있다고 2일 밝혔다.연맹은 세무조사 과정에서 납세자의 권리가 제대로 보장되지 않는 사례가 적지 않다고 보고, 조사 단계에서부터 위법·부당한 행위를 신고하고 대응할 수 있도록 지원하기 위해 센터를 마련했다고 설명했다.연맹이 조사 착수 단계에서 위법·부당한 세무조사 유형으로 제시한 사례에는 납세자의 자발적인 동의를 전제로 해야 하는",
-          "published": "2026-09-02 08:42:23",
-          "source": "세정일보",
-          "published_at": "2026-09-01T23:42:23+00:00",
-          "published_kst": "2026-09-02 08:42",
-          "is_dated": true,
-          "matched": [
-            "세무조사",
-            "조사 착수"
-          ],
-          "score": 8,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [
-            "선임"
-          ],
-          "rank": 29
         },
         {
           "title": "펜타곤 법률세무회계, 서울지방국세청 출신 전승환 변호사 영입 - 뉴스법률",
@@ -1675,6 +1462,28 @@
             "영입",
             "출신"
           ],
+          "rank": 29
+        },
+        {
+          "title": "펜타곤 법률세무회계, 서울지방국세청 출신 전승환 변호사 영입 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IVmhCYjAzdkdHMkdiakVPTWFxLUVNZGo3MzlSaGszSlRNSWpfal9ZTlpPd01jNGNuaXZILWUzZ3l3clpKZGtWVGlmcklTaFQwVmwzNWNFemQ0eFFFYkpUWmd1TFVHczZmemlv0gFwQVVfeXFMTlB2MTRnd0hLY1lKX0Q1YnZBTVdDSlk0U09Pc05PTHRnRzFxNVdCaUxxUEQwd2hfcEJqQVVweGtyTmdUMlFoRjRhNFhBWFU5QnNqLTcyMjRudm95cnkwSE5TenFZTGxRaXM2UTNGWWFTMQ?oc=5",
+          "summary": "펜타곤 법률세무회계, 서울지방국세청 출신 전승환 변호사 영입 - 머니투데이 머니투데이",
+          "published": "Tue, 01 Sep 2026 00:06:44 GMT",
+          "source": "서울지방국세청 조사국",
+          "published_at": "2026-09-01T00:06:44+00:00",
+          "published_kst": "2026-09-01 09:06",
+          "is_dated": true,
+          "matched": [],
+          "score": 3,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "서울지방국세청"
+          ],
+          "demoted": [
+            "영입",
+            "출신"
+          ],
           "rank": 30
         }
       ]
@@ -1682,43 +1491,20 @@
     {
       "id": "dispute",
       "label": "조세불복 · 판례",
-      "total": 8,
+      "total": 15,
       "items": [
         {
-          "title": "서울청·영등포세무서 세무조사 추징금 총 804억…심판청구 인용 '0'원",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053000",
-          "summary": "코스닥시장 상장기업 (주)오늘이엔엠(구 휴림네트웍스(주))이 영등포세무서로부터 세무조사 결과로 부과받은 추징금 507억3843만원 전액이 취소됐다.영등포세무서의 2018~2020 사업연도에 대한 부가가치세 등 세무조사 결과로, 2024년도 말 연결재무제표 기준, 자기자본 354억4650만6701원의 143.14%에 해당하는 금액이다.회사측에 따르면, 오늘이엔엠은 2025년 6월 24일 영등포세무서로부터 507억3843만원이 부과된 세무조사결과통지서를 수령한 이후 8월 22일 조세 불복을 진행했고, 조세심판원 심판청구 전부 인용을 통",
-          "published": "2026-09-02 13:57:18",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T04:57:18+00:00",
-          "published_kst": "2026-09-02 13:57",
+          "title": "‘고문료 스캔들’…전직 세무서장들, 대법원에서도 ‘상고 기각’",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59954",
+          "summary": "서울의 전직 세무서장들 2명이 관내 세정협의회 회원들로부터 매월 50만원~200만원까지 고문계약을 체결하면서 청탁금지법 위반했다는 혐의로 기소된 사건이 대법원에서도 최종 상고기각 판결을 받은 것으로 알려졌다.이에 따라 징역 10월, 집행유예 2년이 선고된 1심 판결이 유지됐다.대법원 제1부는 지난 7월 부정청탁 및 금품 등 수수의 금지에 관한 법률 위반으로 1심에서 징역 10월에 집행유예 2년을 선고받은 전 세무서장들에 대해 상고기각 결정을 내린 것으로 전해졌다.이들이 재판정에 선 것은 세무서장으로 재직하면서 관내 기업체 대표 등에",
+          "published": "2026-09-04 08:50:28",
+          "source": "세정일보",
+          "published_at": "2026-09-03T23:50:28+00:00",
+          "published_kst": "2026-09-04 08:50",
           "is_dated": true,
           "matched": [
-            "조세심판원",
-            "심판청구",
-            "불복"
-          ],
-          "score": 76,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "추징",
-            "조세심판원"
-          ],
-          "demoted": [],
-          "rank": 1
-        },
-        {
-          "title": "‘재판소원 1호’ 녹십자 사건…내달 7일 첫 변론",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053008",
-          "summary": "헌법재판소가 지난 3월 재판소원제도 도입 이후 전원재판부에 회부된 ‘재판소원 1호’ 사건인 녹십자의 백신 입찰 담합 과징금 사건에 대해 첫 공개변론을 연다.법조계에 따르면 헌재는 10월7일 서울 종로구 헌재 대심판정에서 녹십자가 대법원을 상대로 청구한 재판취소 사건(2026헌마716)의 변론기일을 진행한다. 재판소원제도가 시행된 지 약 7개월 만에 열리는 첫 변론이다.이번 사건은 녹십자가 질병관리청이 2017년 4월부터 2019년 1월까지 발주한 자궁경부암(HPV4가·가다실) 백신 구매 입찰 3건에서 백신 도매상들을 들러리로 세워",
-          "published": "2026-09-02 20:22:33",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T11:22:33+00:00",
-          "published_kst": "2026-09-02 20:22",
-          "is_dated": true,
-          "matched": [
-            "대법원"
+            "대법원",
+            "판결"
           ],
           "score": 68,
           "level": "상",
@@ -1728,26 +1514,87 @@
             "24시간 내"
           ],
           "demoted": [],
+          "rank": 1
+        },
+        {
+          "title": "셋째 임신해 차량 '급처'한 다둥맘, 조세심판으로 추징 면했다 - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84Q2V3Y0czX0RjUGFrb3Z5SUJ1eFRNMTZlM0N6YkNIU2NvODVLMU8zY0JZbkZjNGFfdkc3SG8yaGxyVXJHcndxTXJsV2NaMWMydUVfVUJsRjdHTGZ4SUE2V2c4c1JsMXNTb25pTXVJYw?oc=5",
+          "summary": "셋째 임신해 차량 '급처'한 다둥맘, 조세심판으로 추징 면했다 조세일보",
+          "published": "Fri, 04 Sep 2026 01:04:05 GMT",
+          "source": "조세심판원",
+          "published_at": "2026-09-04T01:04:05+00:00",
+          "published_kst": "2026-09-04 10:04",
+          "is_dated": true,
+          "matched": [],
+          "score": 65,
+          "level": "상",
+          "level_hint": "우선 확인",
+          "reasons": [
+            "추징",
+            "24시간 내"
+          ],
+          "demoted": [],
           "rank": 2
         },
         {
-          "title": "제척기간 5년 중 4년 9개월을 흘려보낸 뒤 \"시간이 없다\" - 한국신용신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfX3JIQmpmVDBaVEVxVkNLYjYwT2hKamxzM1FIZDFVRHdhRi1VYzJKMWtwOGk1ZTJkM3dKX1ViMDJfQnFNMDEyOFhMVm1vNWNWcEdEMGRSZXk1RnV2SDhGcjJ0MThmWUNaVGtR?oc=5",
-          "summary": "제척기간 5년 중 4년 9개월을 흘려보낸 뒤 \"시간이 없다\" 한국신용신문",
-          "published": "Fri, 28 Aug 2026 02:52:52 GMT",
-          "source": "과세전적부심·이의신청",
-          "published_at": "2026-08-28T02:52:52+00:00",
-          "published_kst": "2026-08-28 11:52",
+          "title": "[보도자료] 조세심판원 26년 2분기 주요 심판결정 공개 - 서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYVhCcDZKTHVHWFVERlhpV1JlbXJRczlWZ2dKVGRVWEk4X19BaS1yQTVkVHBxWElGd0pLNTgwUGxiU0duSHRpWjg5bWNCZXpoY2xDVnRIR0V1VXBEMXVnMFNn?oc=5",
+          "summary": "[보도자료] 조세심판원 26년 2분기 주요 심판결정 공개 서울Pn",
+          "published": "Fri, 04 Sep 2026 01:06:36 GMT",
+          "source": "조세심판원",
+          "published_at": "2026-09-04T01:06:36+00:00",
+          "published_kst": "2026-09-04 10:06",
           "is_dated": true,
           "matched": [],
-          "score": 51,
-          "level": "중",
-          "level_hint": "확인 권장",
+          "score": 61,
+          "level": "상",
+          "level_hint": "우선 확인",
           "reasons": [
-            "제척기간"
+            "조세심판원",
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 3
+        },
+        {
+          "title": "“위법한 세무조사로 확보한 과세자료, 수정신고·경정처분 근거로 못 써” - intn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NME1QY1dySHRtam0yY0ZuSXllelBZcFl3VnhGSV9ERXZTemdnLXVmXzdWd3VhTXFnUEpTeEFkX0Z5dzJUdUNCdjhzMTN5VEFNOW90cFliT09lZGdKbWJOejVEZjQ2cGJ3UGc?oc=5",
+          "summary": "“위법한 세무조사로 확보한 과세자료, 수정신고·경정처분 근거로 못 써” intn.co.kr",
+          "published": "Fri, 04 Sep 2026 01:00:00 GMT",
+          "source": "조세심판원",
+          "published_at": "2026-09-04T01:00:00+00:00",
+          "published_kst": "2026-09-04 10:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 61,
+          "level": "상",
+          "level_hint": "우선 확인",
+          "reasons": [
+            "수정신고",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 4
+        },
+        {
+          "title": "조세심판원 \"재외국민 자녀, 같은 세대원이라도 1가구 1주택 특례세율 적용 가능\" - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12cGYxNHdseVFHZS1wTG14T1Jjam8tMjdaZXRza05MaXhZS1laRnNpSWJ6ajBDVEY0OWNUYkJZUTlnNnQ3cDNDMzlhaFM5ZUpRNkNBUU9lMmV5LXA5U3pSazBfcU1pODVsS2M1VkRrTS1LQUpvZ2RhVdIBeEFVX3lxTE12cGYxNHdseVFHZS1wTG14T1Jjam8tMjdaZXRza05MaXhZS1laRnNpSWJ6ajBDVEY0OWNUYkJZUTlnNnQ3cDNDMzlhaFM5ZUpRNkNBUU9lMmV5LXA5U3pSazBfcU1pODVsS2M1VkRrTS1LQUpvZ2RhVQ?oc=5",
+          "summary": "조세심판원 \"재외국민 자녀, 같은 세대원이라도 1가구 1주택 특례세율 적용 가능\" 뉴시스",
+          "published": "Fri, 04 Sep 2026 01:00:00 GMT",
+          "source": "조세심판원",
+          "published_at": "2026-09-04T01:00:00+00:00",
+          "published_kst": "2026-09-04 10:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 61,
+          "level": "상",
+          "level_hint": "우선 확인",
+          "reasons": [
+            "조세심판원",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 5
         },
         {
           "title": "SM, 이수만 600억 세금소송 승소…129억 부과 취소 - 일간투데이",
@@ -1759,33 +1606,118 @@
           "published_kst": "2026-08-28 07:25",
           "is_dated": true,
           "matched": [],
-          "score": 46,
+          "score": 43,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
             "승소"
           ],
           "demoted": [],
-          "rank": 4
+          "rank": 6
         },
         {
-          "title": "이천시 지방세심의위 새 구성…납세자 권리구제·과세 적정성 심의 - 디스커버리뉴스(DISCOVERYNEWS)",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TeDh6dkpBV0lIWnpLUE5IUV9mNU5RamVESkxwanF5QnJqdzRTcHU3aWJickRnVmhKeGVCVGZ1aXdITkpadW9LMXFETmxQeGx1dXVKdWo1Skp2RUtmYXJEOUhHWUtFRVBJaUk3WlhpSUJ1Zw?oc=5",
-          "summary": "이천시 지방세심의위 새 구성…납세자 권리구제·과세 적정성 심의 디스커버리뉴스(DISCOVERYNEWS)",
-          "published": "Wed, 02 Sep 2026 08:20:55 GMT",
-          "source": "과세전적부심·이의신청",
-          "published_at": "2026-09-02T08:20:55+00:00",
-          "published_kst": "2026-09-02 17:20",
+          "title": "'이수만에 600억' SM, 세금소송 승소…128억 과세 취소 - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaFk1a2hEWmsxV3JjcTJnZU9VYmp0ZjBUU0FFZHFlakdKVTR5M3N3eGhHQjVCczI5bS1jUHRMVkdkd25ZUEM4WFJHZUNpTXhfUmhZ?oc=5",
+          "summary": "'이수만에 600억' SM, 세금소송 승소…128억 과세 취소 네이트",
+          "published": "Thu, 27 Aug 2026 07:35:00 GMT",
+          "source": "조세소송",
+          "published_at": "2026-08-27T07:35:00+00:00",
+          "published_kst": "2026-08-27 16:35",
           "is_dated": true,
           "matched": [],
           "score": 43,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "24시간 내"
+            "승소"
           ],
           "demoted": [],
-          "rank": 5
+          "rank": 7
+        },
+        {
+          "title": "이주비 대납·발코니 확장·특화공사비…배당소득세 ‘과세 작전’ - 하우징헤럴드",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNlRvUWpRM0hUc0pmOXN6RmdxelA3eFlsZEpXbFN6R0s5azJYQVB1RTQxdi1KUTUxRUNwQ1VNLUlrNDRDT0QtWkpJQ3Y3bE1pU0dEWENJRTZna0Q2ZUdQd3BDQjM2bG8zVkJLX3JsajhaTmc?oc=5",
+          "summary": "이주비 대납·발코니 확장·특화공사비…배당소득세 ‘과세 작전’ 하우징헤럴드",
+          "published": "Tue, 01 Sep 2026 02:10:16 GMT",
+          "source": "조세심판원",
+          "published_at": "2026-09-01T02:10:16+00:00",
+          "published_kst": "2026-09-01 11:10",
+          "is_dated": true,
+          "matched": [],
+          "score": 31,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 8
+        },
+        {
+          "title": "이수만에 600억 지급했다 202억 세금 폭탄 SM…129억 취소 받았다 [세상&] - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEOHRyelhqTTZpTGl5dTZQRHBUNWEzbmRZbXowME1naDRiQTA0eVVPREpIaEhsZDNfcHEwdzAyenVCcy1zM1BMakk4SHJiMlhEUnlB?oc=5",
+          "summary": "이수만에 600억 지급했다 202억 세금 폭탄 SM…129억 취소 받았다 [세상&] 네이트",
+          "published": "Thu, 27 Aug 2026 09:46:00 GMT",
+          "source": "조세소송",
+          "published_at": "2026-08-27T09:46:00+00:00",
+          "published_kst": "2026-08-27 18:46",
+          "is_dated": true,
+          "matched": [],
+          "score": 28,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 9
+        },
+        {
+          "title": "이수만에 600억...국세청 과세 위법 - 뉴스법률",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRNkZieXRRcGh0WWkxOU1UZGU5MlZaRDV5UVpGR2FXcm1FWWJPY1NNYTZZaUw4YzFsVHFlUl9PTXp1X0pNX3l3cW5GVjFRd1V1OG9GT0hpaXM?oc=5",
+          "summary": "이수만에 600억...국세청 과세 위법 뉴스법률",
+          "published": "Thu, 27 Aug 2026 07:50:00 GMT",
+          "source": "조세소송",
+          "published_at": "2026-08-27T07:50:00+00:00",
+          "published_kst": "2026-08-27 16:50",
+          "is_dated": true,
+          "matched": [],
+          "score": 28,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 10
+        },
+        {
+          "title": "비법인 장애인지원기관에 수천만원 주민세 과세 논란…헌재 심리 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R2JSVTV5SnY3TzdVd21lZ3VzNGtkeFU1ZTFRSUVYNGtUbENhWTh5WlNnS3YtaVE0M2lvWEVuZ1ZSWlVsazZjZEk3bTR5UEpQVW53aHNUblZIbEHSAWBBVV95cUxOZFg0ak4yeWthZ0MtUlNlcEt5VU1tcVhZNGdCRjhEYXFjcS14SlFLaHo2Y3h3NEtSMVhmbXRfYThqRVpHdVBOa1BKUWYxRXlFNDFURGtZdXF1WkpYb1lpZnI?oc=5",
+          "summary": "비법인 장애인지원기관에 수천만원 주민세 과세 논란…헌재 심리 연합뉴스",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source": "조세소송",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 28,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 11
+        },
+        {
+          "title": "사회복지시설은 면제, 장애인자립센터는 과세…헌재, 평등권 침해 따진다 - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNk5FN1pSZno0OG9tZkxhZGhEaFdOeHZ5WWpnMFIxQmRRTUUzckZ3Z1h2VGFlVDdZdmp4UGVFTEMxSE10c2k4bEI5NXVXaDlPZW41ZURMSFBUVEtyNkpVMjR3dGdhcjNLaU9WZVJzUDVSUQ?oc=5",
+          "summary": "사회복지시설은 면제, 장애인자립센터는 과세…헌재, 평등권 침해 따진다 한겨레",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "source": "조세소송",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "published_kst": "2026-08-25 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 28,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 12
         },
         {
           "title": "[심청이] 재개발 철거예정 주택에 종부세 부과…감사원 “건축물 부분 취소해야”",
@@ -1799,17 +1731,16 @@
           "matched": [
             "심사청구"
           ],
-          "score": 28,
+          "score": 21,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "경정청구",
-            "24시간 내"
+            "경정청구"
           ],
           "demoted": [
             "별세"
           ],
-          "rank": 6
+          "rank": 13
         },
         {
           "title": "법무법인(유) 세종, 한기수 변호사 영입으로 송무역량 강화",
@@ -1826,14 +1757,12 @@
           "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [
             "영입",
             "법무법인"
           ],
-          "rank": 7
+          "rank": 14
         },
         {
           "title": "법무법인 세종, 전 서울고법 고법판사 한기수 변호사 영입",
@@ -1850,45 +1779,121 @@
           "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [
             "영입",
             "법무법인"
           ],
-          "rank": 8
+          "rank": 15
         }
       ]
     },
     {
       "id": "intl",
       "label": "국제조세 · 이전가격",
-      "total": 10,
+      "total": 11,
       "items": [
         {
-          "title": "카타르, 글로벌 최저한세 구체적 행정규칙 마련 - 조세일보",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TYlU4NmdaZTVwalQ2LWNJRGRZNDdFeTUzYjg4MjZiQjcxYnJnZm1nbk1RUHJ5TjdCNXdrb1J1cmNGcVY0X0NBc3I5NG42THdFQ0doZG83b3ZESkhCOFQ0?oc=5",
-          "summary": "카타르, 글로벌 최저한세 구체적 행정규칙 마련 조세일보",
-          "published": "Tue, 01 Sep 2026 00:44:34 GMT",
-          "source": "글로벌 최저한세",
-          "published_at": "2026-09-01T00:44:34+00:00",
-          "published_kst": "2026-09-01 09:44",
+          "title": "딜로이트 안진 \"한·중·대만 이전가격 과세 대응해야\"…APA·MAP 해법 제시 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CNEh6WWxody1mRWRyaEo1OHNYQmw4MHNVSkViSWhtNUI3TS03bGhvZEEzTExWVFMtSnNUN0xnekZGcUNrbVk2U0JlSQ?oc=5",
+          "summary": "딜로이트 안진 \"한·중·대만 이전가격 과세 대응해야\"…APA·MAP 해법 제시 v.daum.net",
+          "published": "Tue, 01 Sep 2026 02:08:43 GMT",
+          "source": "이전가격",
+          "published_at": "2026-09-01T02:08:43+00:00",
+          "published_kst": "2026-09-01 11:08",
           "is_dated": true,
           "matched": [],
-          "score": 55,
+          "score": 47,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "글로벌 최저한세"
+            "이전가격"
           ],
           "demoted": [],
           "rank": 1
         },
         {
-          "title": "딜로이트 안진, 16일 한·중·대만 이전가격 세무조사·APA 세미나 - newsis.com",
+          "title": "[단독] 인도 세무 당국 꺾은 포스코인터, 이전가격 세금 분쟁서 '한판승' - 더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWeWtQQ2EwWVh2R2ozTGJ0Q0hvT1NJTXEwdnplbzJvLXBvdVpSRXlvYmJVVDE0LXdpV1U0N3ljaWp1ejBTcW5lVXhMOEJFRmpFOTJLeE1GeWJIbUpZaHlSWXdxaw?oc=5",
+          "summary": "[단독] 인도 세무 당국 꺾은 포스코인터, 이전가격 세금 분쟁서 '한판승' 더구루",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "source": "이전가격",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "published_kst": "2026-08-24 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 44,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "이전가격"
+          ],
+          "demoted": [],
+          "rank": 2
+        },
+        {
+          "title": "관세청, 추석 맞아 특별지원대책 시행",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053056",
+          "summary": "관세청은 추석 명절을 맞아 성수품의 원활한 국내 수급을 지원하고, 차질 없는 수출과 수출기업의 자금 부담 경감 등을 위한 특별지원대책을 시행한다.이번 대책은 ▲농·축·수산물 등 추석 성수품, 긴급 원부자재, 해외직구 특송물품에 대한 신속통관, ▲물가안정 품목 집중관리, ▲기업 자금부담 완화 지원, ▲성수품 수입가격 공개, ▲원산지표시 위반 특별단속 등을 주요 골자로 하고 있다.① 수출입화물 통관 특별지원 (9.7. ~ 9.27., 3주간)전국 34개 세관에서 9월 7일부터 27일까지 공휴일과 야간을 포함해 '24시간 특별통관",
+          "published": "2026-09-04 10:49:28",
+          "source": "일간NTN",
+          "published_at": "2026-09-04T01:49:28+00:00",
+          "published_kst": "2026-09-04 10:49",
+          "is_dated": true,
+          "matched": [
+            "원산지"
+          ],
+          "score": 37,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 3
+        },
+        {
+          "title": "관세청, 추석명절 ‘24시간 특별통관지원팀’ 가동…성수품·원부자재 신속통관 지원",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59955",
+          "summary": "관세청은 추석 명절을 맞아 성수품의 원활한 국내 수급을 지원하고, 차질 없는 수출과 수출기업의 자금 부담 경감 등을 위한 특별지원대책을 시행한다.이번 대책은 ▲농·축·수산물 등 추석 성수품, 긴급 원부자재, 해외직구 특송물품에 대한 신속통관 ▲물가안정 품목 집중관리 ▲기업 자금부담 완화 지원 ▲성수품 수입가격 공개 ▲원산지표시 위반 특별단속 등을 주요 골자로 하고 있다.우선 7일부터 27일까지 3주간 수출입화물 통관 특별지원이 실시된다.관세청은 이 기간 전국 34개 세관에서 공휴일과 야간을 포함해 ‘24시간 특별통관지원팀’을 운영해",
+          "published": "2026-09-04 10:00:03",
+          "source": "세정일보",
+          "published_at": "2026-09-04T01:00:03+00:00",
+          "published_kst": "2026-09-04 10:00",
+          "is_dated": true,
+          "matched": [
+            "원산지"
+          ],
+          "score": 37,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 4
+        },
+        {
+          "title": "EU, 다국적기업 세무신고 면제 3년 미루나…조세회피 우려에 제동 - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISFFFalpJRUJCQTZKemtYVG5IcDZUYU1LQXl0STZvZUJiZUlYalk5d2tMR003d1hLVXV5N1BhWVctMVpXVnlBcFlwZzZ0alJHZWVHeUJyaXFjUG41YTlYYw?oc=5",
+          "summary": "EU, 다국적기업 세무신고 면제 3년 미루나…조세회피 우려에 제동 네이트",
+          "published": "Thu, 03 Sep 2026 01:05:00 GMT",
+          "source": "글로벌 최저한세",
+          "published_at": "2026-09-03T01:05:00+00:00",
+          "published_kst": "2026-09-03 10:05",
+          "is_dated": true,
+          "matched": [],
+          "score": 30,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [],
+          "demoted": [],
+          "rank": 5
+        },
+        {
+          "title": "딜로이트 안진, 16일 한·중·대만 이전가격 세무조사·APA 세미나 - 뉴시스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TSV91bHl2OVdYSkJvTjc4NmxiZkdTckx6Q096SWQxVDBpeGF0cmFwWVdrZ3NjRXpVWTQ1WHZrY2IxWVV3R1V4aGlMTU5XWXlFUkJHUEhMelcxMTU4ZGhHc9IBeEFVX3lxTFBGbEtUeC1NQjhfeWFGdWprZk1QMGp2RklVellwZEpLcE9wbGhucEZPYWpiWWlWZ0pSUHA0TzIzbGZ6WEZZa3NDb09UeWZCZ3RRM0xLaUpkbTk0dUppT3h2TmQ0VGRiVGZsV2pkb1hWXzVPZDNCc0Z1Qw?oc=5",
-          "summary": "딜로이트 안진, 16일 한·중·대만 이전가격 세무조사·APA 세미나 newsis.com",
+          "summary": "딜로이트 안진, 16일 한·중·대만 이전가격 세무조사·APA 세미나 뉴시스",
           "published": "Tue, 01 Sep 2026 07:11:19 GMT",
           "source": "이전가격",
           "published_at": "2026-09-01T07:11:19+00:00",
@@ -1904,28 +1909,7 @@
           "demoted": [
             "세미나"
           ],
-          "rank": 2
-        },
-        {
-          "title": "딜로이트 안진, '한·중·대만 이전가격 세무조사 및APA 세미나' 개최 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mbnR5X2lGdjVyQXRTV0gzSmpnVDAzMnNJdnhZbXMwX2lLN01sdm1YYmU3U0MzUVM1OUF0RlpBLVNGZDJFb1FVQ0hGV2t5QjBBUlN6czFLQUZnM1NHUWQ2Zw?oc=5",
-          "summary": "딜로이트 안진, '한·중·대만 이전가격 세무조사 및APA 세미나' 개최 네이트",
-          "published": "Tue, 01 Sep 2026 00:18:00 GMT",
-          "source": "이전가격",
-          "published_at": "2026-09-01T00:18:00+00:00",
-          "published_kst": "2026-09-01 09:18",
-          "is_dated": true,
-          "matched": [],
-          "score": 22,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [
-            "이전가격"
-          ],
-          "demoted": [
-            "세미나"
-          ],
-          "rank": 3
+          "rank": 6
         },
         {
           "title": "관세청, ‘TBFC 특별수사단’ 출범…3조원대 무역조작 범죄 정조준",
@@ -1948,49 +1932,47 @@
           "demoted": [
             "출범"
           ],
-          "rank": 4
+          "rank": 7
         },
         {
-          "title": "광주본부세관, 지역 K-푸드 중국시장 진출 지원",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053016",
-          "summary": "광주본부세관(세관장 강태일)은 2일 정부광주지방합동청사에서 지역 식품 수출기업의 중국 수출통관 대응역량 강화를 위해 지역 내 중국 식품 수출 기업 및 유관기관 관계자, 관세사 등 50여 명이 참석한 가운데 K-푸드 수출기업 지원 설명회를 개최했다고 밝혔다.이번 설명회는 지난 8월 26일 관세청 주관으로 서울세관에서 개최된 설명회와 동일한 내용으로 구성되었으며, 한국농수산식품유통공사(aT)와 한국원산지정보원이 참여해 그동안 서울 중심으로 제공되던 대중국 식품 수출 관련 최신 정보를 지역 기업에도 동일한 수준으로 제공하기 위해 마련되었",
-          "published": "2026-09-03 09:30:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-03T00:30:00+00:00",
-          "published_kst": "2026-09-03 09:30",
+          "title": "딜로이트 안진, '한·중·대만 이전가격 세무조사 및APA 세미나' 개최 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1id2tsRzk1MnBwVUkyYnZQZWVucXBNR3JGV1d3QVpvWHpCVUllTkdYbWp1LW1rc0tBOWlXSDJra25MVjBpYnc?oc=5",
+          "summary": "딜로이트 안진, '한·중·대만 이전가격 세무조사 및APA 세미나' 개최 v.daum.net",
+          "published": "Tue, 01 Sep 2026 00:18:08 GMT",
+          "source": "이전가격",
+          "published_at": "2026-09-01T00:18:08+00:00",
+          "published_kst": "2026-09-01 09:18",
           "is_dated": true,
-          "matched": [
-            "원산지"
-          ],
-          "score": 12,
+          "matched": [],
+          "score": 17,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "24시간 내"
+            "이전가격"
           ],
           "demoted": [
-            "설명회"
+            "세미나"
           ],
-          "rank": 5
+          "rank": 8
         },
         {
-          "title": "[설미현의 세무 인사이트] 해외금융계좌 신고를 놓쳤다면? - 조세금융신문",
+          "title": "[설미현의 세무 인사이트] 해외금융계좌 신고를 놓쳤다면? - tfmedia.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qcklwOHVuXzdGNl94NWpmb1VjbWJUNElDOURnYXdSZF9jdnRWMlBqamJXelVNU3kyNTMxNTI4WWtqRzM1THMwUGRVMWp0OGFPX1hXSGFVTGZKVjJ2ZDBkeg?oc=5",
-          "summary": "[설미현의 세무 인사이트] 해외금융계좌 신고를 놓쳤다면? 조세금융신문",
+          "summary": "[설미현의 세무 인사이트] 해외금융계좌 신고를 놓쳤다면? tfmedia.co.kr",
           "published": "Mon, 31 Aug 2026 08:41:35 GMT",
           "source": "국제조세",
           "published_at": "2026-08-31T08:41:35+00:00",
           "published_kst": "2026-08-31 17:41",
           "is_dated": true,
           "matched": [],
-          "score": 10,
+          "score": 5,
           "level": "하",
           "level_hint": "참고",
           "reasons": [],
           "demoted": [
             "인사"
           ],
-          "rank": 6
+          "rank": 9
         },
         {
           "title": "삼일PwC, 2026년 세제개편안 설명회 개최…기업 대응방향 공유 - 아시아투데이",
@@ -2009,7 +1991,7 @@
           "demoted": [
             "설명회"
           ],
-          "rank": 7
+          "rank": 10
         },
         {
           "title": "올해 세제개편안, 기업 대응 전략은…삼일PwC 설명회 개최 - 네이트",
@@ -2028,52 +2010,14 @@
           "demoted": [
             "설명회"
           ],
-          "rank": 8
-        },
-        {
-          "title": "삼일PwC, 내달 14일 '2026 세제개편안' 무료 설명회 - 한국세정신문",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZY25OWWxzNXdiMk14aVJEZVdZeUVxbUpDMUl2MVRxTEdoWEUzWVlnNk9zdEhKdnByTkUxQ1BMdXREazFvMVNXRGJ3Um5yd2xZT3g5RTVLZTZMcVY1ZUtZR1I0QWQ?oc=5",
-          "summary": "삼일PwC, 내달 14일 '2026 세제개편안' 무료 설명회 한국세정신문",
-          "published": "Thu, 27 Aug 2026 00:09:28 GMT",
-          "source": "국제조세",
-          "published_at": "2026-08-27T00:09:28+00:00",
-          "published_kst": "2026-08-27 09:09",
-          "is_dated": true,
-          "matched": [],
-          "score": 0,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [
-            "설명회"
-          ],
-          "rank": 9
-        },
-        {
-          "title": "삼일PwC, 세제개편안 기업 대응 전략 설명회 개최 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KYVJYY1dYTnF5eUFWRTJIb3ZEZXg0WXZ0aURKRUZmeDRHOVlTVEhMeWZpWl9FRWZFTVVjbUt2NHJvYmZYc0tSSU5nMUJxS19WT1dRNnhybTdRR3pPVVBveGNjeV9VR1V5amxSbVZCa1g1V05sS1FFVg?oc=5",
-          "summary": "삼일PwC, 세제개편안 기업 대응 전략 설명회 개최 네이트",
-          "published": "Wed, 26 Aug 2026 23:50:00 GMT",
-          "source": "국제조세",
-          "published_at": "2026-08-26T23:50:00+00:00",
-          "published_kst": "2026-08-27 08:50",
-          "is_dated": true,
-          "matched": [],
-          "score": 0,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [
-            "설명회"
-          ],
-          "rank": 10
+          "rank": 11
         }
       ]
     },
     {
       "id": "group",
       "label": "그룹 · 계열사 · 업종",
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "사례6- 특수관계법인과의 거래를 통한 이익의 증여의제 > 상속증여세 - 조세일보",
@@ -2099,64 +2043,28 @@
           "rank": 1
         },
         {
-          "title": "국세청, '법인 고가 주택 사적 사용' 소노그룹 등 세무조사 착수 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2cXFoNDJpa2R5UjBiaHFpeExxa0JNbWFibTU3dTZRN1hoci1YMU5SaThKVnRqVDJ2Y05pdjVNcVBjam1yNVJkbEVRZ1hjRWI5eGdJ?oc=5",
-          "summary": "국세청, '법인 고가 주택 사적 사용' 소노그룹 등 세무조사 착수 네이트",
-          "published": "Tue, 25 Aug 2026 11:41:00 GMT",
-          "source": "SK그룹 세무",
-          "published_at": "2026-08-25T11:41:00+00:00",
-          "published_kst": "2026-08-25 20:41",
+          "title": "SM, 이수만 600억 프로듀싱 대가 세금소송 승소…128억 과세 취소 - intn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTm05clJPUkw4aWVVU08xc09jUVJNQTRGSF94dnRTS0R2dkRiZTlKVnpEci1ScVlHTU1fRk9ybTVoQ1pJT2dTS1V1MG1xdVdYbEdhb25jclNOQ3VROTFqbjZXOE1lc0trVlE?oc=5",
+          "summary": "SM, 이수만 600억 프로듀싱 대가 세금소송 승소…128억 과세 취소 intn.co.kr",
+          "published": "Thu, 27 Aug 2026 12:31:58 GMT",
+          "source": "부당행위계산부인",
+          "published_at": "2026-08-27T12:31:58+00:00",
+          "published_kst": "2026-08-27 21:31",
           "is_dated": true,
           "matched": [],
-          "score": 65,
-          "level": "상",
-          "level_hint": "우선 확인",
+          "score": 55,
+          "level": "중",
+          "level_hint": "확인 권장",
           "reasons": [
-            "세무조사 착수"
+            "승소"
           ],
           "demoted": [],
           "rank": 2
         },
         {
-          "title": "[세미콜론] 국세청 조사4국 '노태우 비자금 조사' 못하나? 안하나? - 세정일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jSDlGT2RyMHNDdjA1X3duXzdrT0EyUTFoRVFqQzJhS21KWUJBQkFqZDZ4Umt0eU1VelR3R0JxMGY2VGdVUXpZMXdFdk1mcXdFcXBtR2Z2OWN3MkpyZGFwcHgyMDZrWng3V0hhTQ?oc=5",
-          "summary": "[세미콜론] 국세청 조사4국 '노태우 비자금 조사' 못하나? 안하나? 세정일보",
-          "published": "Fri, 21 Aug 2026 03:42:39 GMT",
-          "source": "SK그룹 세무",
-          "published_at": "2026-08-21T03:42:39+00:00",
-          "published_kst": "2026-08-21 12:42",
-          "is_dated": true,
-          "matched": [],
-          "score": 62,
-          "level": "상",
-          "level_hint": "우선 확인",
-          "reasons": [
-            "조사4국"
-          ],
-          "demoted": [],
-          "rank": 3
-        },
-        {
-          "title": "[산업계 세제 셈법] '투자'서 '생산'으로…한국판 IRA, 기업 공장 셈법 바꾼다 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56eU1welcxaFlNYWdvTGR0NFluZ0ZQdmpLeTdNZ2xYZVlvLTB4UVF2T0dWbUhhMjFNZWFTZ3VIRk5qcGNvUmJEV05pRkRuaGZ5d3hZ?oc=5",
-          "summary": "[산업계 세제 셈법] '투자'서 '생산'으로…한국판 IRA, 기업 공장 셈법 바꾼다 네이트",
-          "published": "Tue, 01 Sep 2026 09:01:00 GMT",
-          "source": "데이터센터 세제",
-          "published_at": "2026-09-01T09:01:00+00:00",
-          "published_kst": "2026-09-01 18:01",
-          "is_dated": true,
-          "matched": [],
-          "score": 48,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [],
-          "demoted": [],
-          "rank": 4
-        },
-        {
-          "title": "[산업계 세제 셈법] 반도체 웃고 AI DC 울상…배터리·車 등 업종별 세제 효과 따져보니 - 아주경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tTjcyRjFxU2RHYTZ4NzBBRGxFMVFzcTVlY0NUS3YzcUxSYmg0REJxZVBrN0p2TWVUVTNteEpnd2VaVVhfNG1uOXF3bFNoT1d3M2E4aE5UTmNHd9IBWEFVX3lxTFAwTUd6MFptOXU1SlNjeUlNZTA5b21KMXRCTlRHa1c3UDVXMDFtV252aDF2YW9ydGRTYWN2V2VHS3VhRFVXY2stU3VaZ1RwcnFMQ1hVeVV6U1Q?oc=5",
-          "summary": "[산업계 세제 셈법] 반도체 웃고 AI DC 울상…배터리·車 등 업종별 세제 효과 따져보니 아주경제",
+          "title": "[산업계 세제 셈법] 반도체 웃고 AI DC 울상…배터리·車 등 업종별 '세제 효과' 따져보니 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3M3ZldTRJdkE3T0swNTd4MVBLQ2xhRi1lQ3M0MFk3ZkVZazVERTFfajJVT0F3LWl1SWJIN1JOZUY0NFVkTkE?oc=5",
+          "summary": "[산업계 세제 셈법] 반도체 웃고 AI DC 울상…배터리·車 등 업종별 '세제 효과' 따져보니 v.daum.net",
           "published": "Tue, 01 Sep 2026 09:00:00 GMT",
           "source": "데이터센터 세제",
           "published_at": "2026-09-01T09:00:00+00:00",
@@ -2168,7 +2076,7 @@
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 5
+          "rank": 3
         },
         {
           "title": "이수만에 준 600억 놓고 세금 다툼…법원 \"SM, 128억 돌려받아라\" - 네이트",
@@ -2180,29 +2088,46 @@
           "published_kst": "2026-08-27 20:09",
           "is_dated": true,
           "matched": [],
-          "score": 43,
+          "score": 40,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 6
+          "rank": 4
         },
         {
-          "title": "法 \"SM엔터가 이수만에 지급한 돈, 과도하지만 과세 못해\"…왜? - newsis.com",
+          "title": "法 \"SM엔터가 이수만에 지급한 돈, 과도하지만 과세 못해\"…왜? - 뉴시스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVSkxlLTBRU3RjLS1NVW8yT3ZfaTdFekdhcUVqZ010eFRIZHFrVktXQU50enplcHVDZC1KVUtRa2d3VkJNVm1nQzYyaWcxaXo1bklmbXk3eEU5N3hwbEFBcNIBeEFVX3lxTFBNYi1xYnprZ2dSNUdUbU84ZU9pNGVWbUJOZUgwc1JmeUNRcnNRd2NZZVBpUWs5RDZLZVUwUDF2NkxFN2o0d25TYUJnSmRXRmdha0JYLWVEdEM3OFlSOFV5OV9LY1l5UmFjcUZFdHNGSHZicmFETkdwag?oc=5",
-          "summary": "法 \"SM엔터가 이수만에 지급한 돈, 과도하지만 과세 못해\"…왜? newsis.com",
+          "summary": "法 \"SM엔터가 이수만에 지급한 돈, 과도하지만 과세 못해\"…왜? 뉴시스",
           "published": "Thu, 27 Aug 2026 07:48:23 GMT",
           "source": "부당행위계산부인",
           "published_at": "2026-08-27T07:48:23+00:00",
           "published_kst": "2026-08-27 16:48",
           "is_dated": true,
           "matched": [],
-          "score": 43,
+          "score": 40,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [],
           "demoted": [],
-          "rank": 7
+          "rank": 5
+        },
+        {
+          "title": "행안부, `26년 지방세 개편안 발표…1주택 재산세 특례 `29년까지 연장 - 세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoNGpoZUItdmhGMmVkTHd1Y0hhNDN4Y2lVejJ6VEkwLVdqM2ljb2xwbWprd0czTXlZN3ZTUDlkdk13UHlsdC1RNFBWNzhLUWJEZmdrZURhR3dSZzhJbDBrNGRTZmp1dVFiYjV4dw?oc=5",
+          "summary": "행안부, `26년 지방세 개편안 발표…1주택 재산세 특례 `29년까지 연장 세정일보",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "source": "데이터센터 세제",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "published_kst": "2026-08-26 16:00",
+          "is_dated": true,
+          "matched": [],
+          "score": 40,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [],
+          "demoted": [],
+          "rank": 6
         },
         {
           "title": "세무사회, 정부 ‘모두의 AI’ 사업 참여…세무 특화 AI 서비스 구축",
@@ -2223,43 +2148,47 @@
           "demoted": [
             "설립"
           ],
-          "rank": 8
+          "rank": 7
         }
       ]
     },
     {
       "id": "official",
       "label": "국세청 · 기재부 발표",
-      "total": 64,
+      "total": 61,
       "items": [
         {
-          "title": "\"유령업체 동원해 부정입찰\"…국세청, 산불 피해복구업체 41곳 세무조사 착수 - 네이트",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQbUM1M0NWSllCSzBVZk1XeGNpYWFSYjRLcjNPV0RFSkhXTHh0UGk1QXNqRmc5MDZjbGlOS1J2WVhVVW0xNkxvVGZBeFdvNFJYZWRV?oc=5",
-          "summary": "\"유령업체 동원해 부정입찰\"…국세청, 산불 피해복구업체 41곳 세무조사 착수 네이트",
-          "published": "Thu, 03 Sep 2026 03:03:00 GMT",
-          "source": "국세청 동향",
-          "published_at": "2026-09-03T03:03:00+00:00",
-          "published_kst": "2026-09-03 12:03",
+          "title": "[기고] ‘기준시가 신고’로 끝나지 않아…상속·증여세 '소급감정'의 함정",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59943",
+          "summary": "통상 ‘꼬마빌딩’으로 불리는 중소형 비주거용 부동산은 주로 상가·사무실 등으로 이용된다.‘꼬마빌딩’은 법률상 정해진 개념은 아니지만, 아파트와 비교해 거래 사례가 적고 입지·임대현황·건물 상태에 따라 가치 차이가 커 상속·증여 당시의 시가를 확인하기 어려운 부동산을 일컫는 표현으로 널리 쓰인다. 이 때문에 납세자는 토지는 개별공시지가, 건물은 국세청장이 산정·고시하는 가액 등 보충적 평가방법으로 가액을 산정해 상속세나 증여세를 신고하는 경우가 많다.그러나 보충적 평가방법으로 신고를 마쳤다고 해서 그 가액이 최종적인 시가로 확정되는",
+          "published": "2026-09-04 07:27:55",
+          "source": "세정일보",
+          "published_at": "2026-09-03T22:27:55+00:00",
+          "published_kst": "2026-09-04 07:27",
           "is_dated": true,
-          "matched": [],
-          "score": 52,
+          "matched": [
+            "국세청",
+            "고시"
+          ],
+          "score": 57,
           "level": "중",
           "level_hint": "확인 권장",
           "reasons": [
-            "세무조사 착수",
+            "소급",
+            "고시",
             "24시간 내"
           ],
           "demoted": [],
           "rank": 1
         },
         {
-          "title": "국세청, 산불피해 악용해 이득 챙긴 10개 업체 세무조사…탈루액 700억원 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZVEzM1hnVl9XOWVvQUxiWUJLa3FGMHFYbGs0SlBSZ3lDN3RlUGx1R2lpQVFIU2xRcE5FZ1ZqX0VjWlRFaVlwX2RQdEVDdzA?oc=5",
-          "summary": "국세청, 산불피해 악용해 이득 챙긴 10개 업체 세무조사…탈루액 700억원 v.daum.net 국세청, 700억 탈루혐의 '산불 카르텔' 10곳 세무조사 착수 전자신문 국세청 ‘산불카르텔’ 10곳 세무조사...유령업체 메뚜기 입찰 적발 v.daum.net",
-          "published": "Thu, 03 Sep 2026 03:02:23 GMT",
+          "title": "산불피해 복구 '메뚜기 입찰'…국세청, 10곳 세무조사 착수 - 네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ1BGUTlfVkdpcmNlRjJBMjY5SU1tZmtBODhXR1lHSU8yX1k1X2VtcUhNTDFuRENnQ080Skt2TUVvZ1lQejJXYk1nTVhrTVk3bUVN?oc=5",
+          "summary": "산불피해 복구 '메뚜기 입찰'…국세청, 10곳 세무조사 착수 네이트",
+          "published": "Fri, 04 Sep 2026 02:20:00 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:02:23+00:00",
-          "published_kst": "2026-09-03 12:02",
+          "published_at": "2026-09-04T02:20:00+00:00",
+          "published_kst": "2026-09-04 11:20",
           "is_dated": true,
           "matched": [],
           "score": 52,
@@ -2273,13 +2202,13 @@
           "rank": 2
         },
         {
-          "title": "대통령 지적 '산불 카르텔', 51곳 부정 드러나… 세무조사 착수 - 조세일보",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ua0RZY1VDMlppZXFNX3B3R2hoT2pQZG9fMS1vTjdzcUhqOWFXWDkzSUxCUkluaGk3dG1yR0VCWkNOTm1lYXo5RXV0RGp0SGNXeGdpRjNsWERybHhtaU9PMUl0YWs2MUxNa2c?oc=5",
-          "summary": "대통령 지적 '산불 카르텔', 51곳 부정 드러나… 세무조사 착수 조세일보",
-          "published": "Thu, 03 Sep 2026 03:00:15 GMT",
+          "title": "국세청 '산불 카르텔' 전격 세무조사 착수 - 일간경기",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHU0hIeE9vcGZYY2xGLWJXTktMZEhMcWFlMUh3eWMyMlZxOGJFWmY2NDg1R0NIbllFeng0ZHhTa1NQaUNtc3ZhNTVnUUJkTFBFbEEwQ29jX2Z4cVo2M3ctcFlZVDU2bE5S?oc=5",
+          "summary": "국세청 '산불 카르텔' 전격 세무조사 착수 일간경기",
+          "published": "Thu, 03 Sep 2026 09:10:52 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:15+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-03T09:10:52+00:00",
+          "published_kst": "2026-09-03 18:10",
           "is_dated": true,
           "matched": [],
           "score": 52,
@@ -2293,13 +2222,13 @@
           "rank": 3
         },
         {
-          "title": "“유령업체로 실적 뻥튀기해 산불 복구 공사에 부정 입찰” 국세청, 10개 산림업체 세무조사 착수 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Cc05rNGZKWWNsZGM2SU41dFZLVmF1cEppVG15N2RmcW5LSHNTNXlWSElwT0ZuVlBQb0lDeGJoaFBxb1RseVVmZDluVk80TGs?oc=5",
-          "summary": "“유령업체로 실적 뻥튀기해 산불 복구 공사에 부정 입찰” 국세청, 10개 산림업체 세무조사 착수 v.daum.net",
-          "published": "Thu, 03 Sep 2026 01:02:07 GMT",
+          "title": "‘유령업체’ 만들고 산불 피해 복구사업 6500회입찰…국세청, 공공계약 비리 업체 10곳 세무조사 착수 - 경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93eVEzSl9SeEVQcTBFRFJqZFFvdDA4am5mLUMyYkwtN0FVYUg5Q2owbmsxYmNZNVR4U296ekNDZDdsUEtVSS1MdWYwaVEyMEJQay1qSS12ZnAxUdIBX0FVX3lxTE16bkFDNi1SOW9tcTY3dFA1bXBfUWlBem1vZ0xtZ011aldldVNSZXhYZWxZSE5VUkVSaV9aUGI4ai1QNWV3amdNWGFrc3lDSF8wN2ZsUUxkZl9RRmRjWlhV?oc=5",
+          "summary": "‘유령업체’ 만들고 산불 피해 복구사업 6500회입찰…국세청, 공공계약 비리 업체 10곳 세무조사 착수 경향신문 산불피해 복구 ‘메뚜기 입찰’…국세청, 10곳 세무조사 착수 v.daum.net 국세청, 이 대통령 지적 ‘산불 카르텔’ 탈세 혐의 업체 10곳 세무조사 브릿지경제",
+          "published": "Thu, 03 Sep 2026 06:04:00 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T01:02:07+00:00",
-          "published_kst": "2026-09-03 10:02",
+          "published_at": "2026-09-03T06:04:00+00:00",
+          "published_kst": "2026-09-03 15:04",
           "is_dated": true,
           "matched": [],
           "score": 52,
@@ -2311,6 +2240,46 @@
           ],
           "demoted": [],
           "rank": 4
+        },
+        {
+          "title": "추석 세정지원 확대…부가세 환급 6일 당기고 법인세 중간예납 2개월 연장 - 이택스뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZE9vWUVHSWs2VDBmOEtnaWlEWDZCeFlrWWtCdnlidW9RbWgwd1Y0emM2bGNuS1p5RGhMazRVOVBEUmNOMTNoLUpPZUxRYk5qcUUwT09CTFppaGNnc0x3N0Q3MVFOMDNzQlE?oc=5",
+          "summary": "추석 세정지원 확대…부가세 환급 6일 당기고 법인세 중간예납 2개월 연장 이택스뉴스",
+          "published": "Tue, 01 Sep 2026 05:44:44 GMT",
+          "source": "납부기한·세정지원",
+          "published_at": "2026-09-01T05:44:44+00:00",
+          "published_kst": "2026-09-01 14:44",
+          "is_dated": true,
+          "matched": [],
+          "score": 45,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "환급",
+            "세정지원"
+          ],
+          "demoted": [],
+          "rank": 5
+        },
+        {
+          "title": "국세청 '기한 후 환급 서비스' 개시!(9/1~) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVX2xQMkh4eE5yOWJyaGxuTjdURG9veUpEUzNSV2F5V3RqS2p1dU5kNTFwa0lHN01NdnFZUE9RRFNVZll4MXJhWmFOY005X2lPRm5NR3BXM0xuVU5BeXkxTlNLcmtMdmNHX2djWE9n?oc=5",
+          "summary": "국세청 '기한 후 환급 서비스' 개시!(9/1~) - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+          "published": "Thu, 03 Sep 2026 08:09:29 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T08:09:29+00:00",
+          "published_kst": "2026-09-03 17:09",
+          "is_dated": true,
+          "matched": [],
+          "score": 42,
+          "level": "중",
+          "level_hint": "확인 권장",
+          "reasons": [
+            "환급",
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 6
         },
         {
           "title": "김진우 전 서울국세청 조사4국장, 9일 제2인생 스타트 - intn.co.kr",
@@ -2329,96 +2298,56 @@
             "조사4국"
           ],
           "demoted": [],
-          "rank": 5
-        },
-        {
-          "title": "세무사회, '세무사제도수호센터 TF' 발족...세무사 위원 모집",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053009",
-          "summary": "한국세무사회(회장 구재이)가 세무사제도와 업무영역을 보호하기 위해 '세무사제도수호센터 TF'를 발족, 무자격 세무플랫폼·영리기업 등의 세무대리 오인광고와 세무사 업무영역 침해행위에 대응할 세무사를 10일까지 공개 모집한다.6월 24일 개정 세무사법 시행으로 무자격 세무플랫폼·영리기업의 세무대리 오인광고를 금지하고 세무사 광고에 관한 법적 근거가 마련된 데 이어, 9월부터 '세무사 등에게 금지되는 광고'에 관한 국세청 고시가 시행된다. 그럼에도 최근 세무시장은 세무플랫폼의 확산과 온라인·SNS 광고 증가",
-          "published": "2026-09-02 16:52:04",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T07:52:04+00:00",
-          "published_kst": "2026-09-02 16:52",
-          "is_dated": true,
-          "matched": [
-            "국세청",
-            "고시"
-          ],
-          "score": 37,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "고시",
-            "24시간 내"
-          ],
-          "demoted": [],
-          "rank": 6
-        },
-        {
-          "title": "국세청 '기한 후 환급 서비스' 개시!(9/1~) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFAxWkMzU0J2REdMSUhYRWR1UnZlYVJsS3lZTHhQUndoTnBFaTFfWHBNTGowdEFlTHpGaWFON1JYaTdjR2ZhQl8wVHhUbUwyTkhtRG1JS1VBNHhiQ284SVJreFl4VElSNVFqcXdYLWxKYlFjS1YwbGJBYXBWM3pSQjd1Mll0NmU1NFQ4?oc=5",
-          "summary": "국세청 '기한 후 환급 서비스' 개시!(9/1~) - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-          "published": "Wed, 02 Sep 2026 04:49:00 GMT",
-          "source": "국세청 동향",
-          "published_at": "2026-09-02T04:49:00+00:00",
-          "published_kst": "2026-09-02 13:49",
-          "is_dated": true,
-          "matched": [],
-          "score": 35,
-          "level": "중",
-          "level_hint": "확인 권장",
-          "reasons": [
-            "환급"
-          ],
-          "demoted": [],
           "rank": 7
         },
         {
-          "title": "국세청, 집중호우 피해 납세자에 대한 세정지원 적극 실시:내외신문 - naewaynews.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmNNZjN1NWxUNGdOcTVqVWVEbjV4QzgtSFpIcEFwd0NCUjdDWHFSWGc1WkF1Smw4cGpwY0FLdm9YNjQ2TV9nTWcxekNyZ05RRU5FcGxwSThpcEowWUVMaEZYeUcwOU0xNE9Ta0gwQ3ZySDVEYWVoVzl4V1pHS3N1a3ZBcldrQ2x0eWFaY2FJSF9ndGNHdDIzOGhpaTBUcWRaUXNGTjFrbERjT0pfRVNyNGt4eG9COTlOODRlckhzbTZweFFOTUZNVGpqV2g2S1hCWVh2VNIBZkFVX3lxTE9QUGJvWXRZVHNLWnRJQ2xIOHA2R21SNkZTTHB1VTNrdktJenBwdWw1WENIQlhURHdtX3cxZm5lZl9uRlJQOTBzbnF6WDJMODg1LTMxdGZJbGVId1FfZnIwZDVGMlJadw?oc=5",
-          "summary": "국세청, 집중호우 피해 납세자에 대한 세정지원 적극 실시:내외신문 naewaynews.com",
-          "published": "Mon, 31 Aug 2026 07:09:00 GMT",
+          "title": "국세청, 거제·통영 특별재난지역 납부기한 연장 등 세정지원 - 연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pLWlXcG8yYVV5OG56NkszZFFZQkdFSUNYbEhzdmtoak1sUGVfcVFpNGlXbEtpVUJDMEFxY0NTNmtfck91QjJjd0FyRUV1VEVsLXpFSDVWeGFyLTVRNWhHcklyZ0s4VzFvb2hkT3RnZ0U?oc=5",
+          "summary": "국세청, 거제·통영 특별재난지역 납부기한 연장 등 세정지원 연합인포맥스",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
           "source": "납부기한·세정지원",
-          "published_at": "2026-08-31T07:09:00+00:00",
-          "published_kst": "2026-08-31 16:09",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "published_kst": "2026-08-24 16:00",
           "is_dated": true,
           "matched": [],
-          "score": 30,
+          "score": 34,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
+            "납부기한",
             "세정지원"
           ],
           "demoted": [],
           "rank": 8
         },
         {
-          "title": "경북 산불 등 피해복구에 유령업체 내세워 ‘부정 입찰’ 10곳 세무조사 - 한겨레",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9meEJwdF9VYk5xR3ZPeUg1eHpna1phYmRrNVhxMzNkVzZGSmNXUVdVMm9FWTN6OXloUHZ3djE4NXRYLTM1bGhXaG83MW5vTFRrdGM0LU5nT2UzUTB6Y1NWcWtmOWNZemhIaEtWSl9rSTUzZw?oc=5",
-          "summary": "경북 산불 등 피해복구에 유령업체 내세워 ‘부정 입찰’ 10곳 세무조사 한겨레",
-          "published": "Thu, 03 Sep 2026 05:16:00 GMT",
-          "source": "국세청 동향",
-          "published_at": "2026-09-03T05:16:00+00:00",
-          "published_kst": "2026-09-03 14:16",
+          "title": "국세청, 거제·통영 호우 피해 납세자 세정지원…납부기한 최대 2년 연장 - 세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JWDl6MmVsaUlvMUtjd1VHSXRRdndhaUY5bXlRTk53dUExMHd1WXR6WVNyR2Q5S2ozZG8ySkU0cEFGbW55S3hSbFlZT3JiU09jRVRWLWRZd3pPUVRIeE1sMmp1eVhya1BXaUZYWQ?oc=5",
+          "summary": "국세청, 거제·통영 호우 피해 납세자 세정지원…납부기한 최대 2년 연장 세정일보",
+          "published": "Mon, 24 Aug 2026 03:00:12 GMT",
+          "source": "납부기한·세정지원",
+          "published_at": "2026-08-24T03:00:12+00:00",
+          "published_kst": "2026-08-24 12:00",
           "is_dated": true,
           "matched": [],
-          "score": 27,
+          "score": 34,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "24시간 내"
+            "납부기한",
+            "세정지원"
           ],
           "demoted": [],
           "rank": 9
         },
         {
-          "title": "국세청, 이 대통령 지적 ‘산불 카르텔’ 탈세 혐의 업체 10곳 세무조사 - 브릿지경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vM2tOU1VYb08xSlAya1M3VGxUcExCM09FQTJzSzV1aXc1NHJQMlJIRWd4MjFaZFFLZU5vTFRGZkhlQ2VManJBQUNIMDYyWTVuM1FGNkF6RzJ0Zw?oc=5",
-          "summary": "국세청, 이 대통령 지적 ‘산불 카르텔’ 탈세 혐의 업체 10곳 세무조사 브릿지경제",
-          "published": "Thu, 03 Sep 2026 04:45:00 GMT",
+          "title": "국세청, 15만 식당･미용실 창업자 시청 갔다 세무서 또 안 가도 됩니다 - 누리일보",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6RFNLdGxJU0VfQnN3VUM2V01nX2loTlFSSWQyenJwZmNWX2FENy1LS1E2Y0kzOHdFeEtRMTliN0RUaEVfSWY1SXJjM3k4Qko4WHpTRjRIZDcwVWQ0?oc=5",
+          "summary": "국세청, 15만 식당･미용실 창업자 시청 갔다 세무서 또 안 가도 됩니다 누리일보",
+          "published": "Fri, 04 Sep 2026 03:50:09 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T04:45:00+00:00",
-          "published_kst": "2026-09-03 13:45",
+          "published_at": "2026-09-04T03:50:09+00:00",
+          "published_kst": "2026-09-04 12:50",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2431,13 +2360,13 @@
           "rank": 10
         },
         {
-          "title": "거짓 세금산서·가공원가·자격증 대여… ‘유령업체’ 41곳 탈루혐의 조사 - 산업종합저널",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVGpfOGQ5MlRaNEZHZzEzUGNCOFZNcEk4ajFHYnQwZ3hNazZjZWhXWXZQYnA4QVByQkx2SlZ1Y3JTWFpuMm40bVBQbFFuXzg1d2Y0?oc=5",
-          "summary": "거짓 세금산서·가공원가·자격증 대여… ‘유령업체’ 41곳 탈루혐의 조사 산업종합저널",
-          "published": "Thu, 03 Sep 2026 03:18:06 GMT",
+          "title": "국세청, 식당·이·미용업 창업 시 영업신고·사업자등록 동시 처리 시행 - KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10M2NfVHF0dktJUTBqR0cxNlpmUzdaMWxhbVBrQTBXOWlqNmtRMHpzVWlOMGJuOXB5YTZpZFVmQW1sa19GM3pyOFJSY2VsbWpyY2ZpaTZObFFlUS1ZYkoybDRYRV8?oc=5",
+          "summary": "국세청, 식당·이·미용업 창업 시 영업신고·사업자등록 동시 처리 시행 KNS뉴스통신",
+          "published": "Fri, 04 Sep 2026 03:30:25 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:18:06+00:00",
-          "published_kst": "2026-09-03 12:18",
+          "published_at": "2026-09-04T03:30:25+00:00",
+          "published_kst": "2026-09-04 12:30",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2450,13 +2379,13 @@
           "rank": 11
         },
         {
-          "title": "유령업체 만들어 700억원 ‘꿀꺽’…국세청 ‘산불 카르텔’ 조사 - dailian.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWXNEYTZXaWZQTHJYVlpvcWN0NGlOZzVvTFVvdmZkcWtsN09JbFdWRmdNckQ1d0wyNUJ6UndBRUpMdVAweVJLNFVHbW0wUVVSYVdtd2E4aTlVOEJmNTFVLXJoc2hDLTFjNDluUk1zWTBDY3FyOHJqMHRFMWNtR2VpYnltdmh3YThaZy1YRWJBdlo1R3lPQVF1SEFLTW0tc20yaFpzNXplQ25OMjhVSC10U0E1QjNkM2ZOSnlQM0VYNk1neHhVTi1DNzA0d01ZcURqNWVVOGhrb0Rkc3N5VHFpLUJaeko1ZDVhTXlEWTJFb1VkT0hON3o2djEwX1hha1JQeXZ4aXZFaXNqd2JsRWc?oc=5",
-          "summary": "유령업체 만들어 700억원 ‘꿀꺽’…국세청 ‘산불 카르텔’ 조사 dailian.co.kr",
-          "published": "Thu, 03 Sep 2026 03:01:00 GMT",
+          "title": "식당·미용실 창업 때 시·군·구청서 '원스톱' 신고 - 세무사신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FeDFVSl9Wa3Z5YlZIRGg5eUJRWEx0WUpzVkZBUDlPc1I2MW5uOTFkc0ItSWc3V1lHS082R1hCeW9kQ3pSOHpVaXF5RmVxQjBxdFBoWVpudzV3cnpfY1kyU2Rxb1V2SEhvM3Vicw?oc=5",
+          "summary": "식당·미용실 창업 때 시·군·구청서 '원스톱' 신고 세무사신문",
+          "published": "Fri, 04 Sep 2026 02:23:12 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:01:00+00:00",
-          "published_kst": "2026-09-03 12:01",
+          "published_at": "2026-09-04T02:23:12+00:00",
+          "published_kst": "2026-09-04 11:23",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2469,13 +2398,13 @@
           "rank": 12
         },
         {
-          "title": "국세청, 산불 카르텔 전격세무조사…‘메뚜기 업체’ 10곳‧탈루혐의 700억 적발 - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OeGFibHp2ZjVrZ2RKNDFDWWRjSXVEZFZsV3NEblo5S1VNYVRiLV9NWTRBUzhONU5ldzVIY1FZZWtrQ1JITHNaM2gxNEdGQzlXWExuempXZTRfQ0RxWnFndkIxUQ?oc=5",
-          "summary": "국세청, 산불 카르텔 전격세무조사…‘메뚜기 업체’ 10곳‧탈루혐의 700억 적발 조세금융신문",
-          "published": "Thu, 03 Sep 2026 03:00:02 GMT",
+          "title": "국세청 행시41회 전성시대 언제까지? - 한국세정신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xYVhLR1BMbmd2UmdSZDhwQVdMZWs2UmlTS0VkeUZEeFM1a1hoWDdTUjJDeDQtZEJrTTVBZEdYRTFMQ1NjUTVuTDVqR2xhY1lQYzdWd0lYSE5hSGNvcVg0M00yWDI?oc=5",
+          "summary": "국세청 행시41회 전성시대 언제까지? 한국세정신문",
+          "published": "Fri, 04 Sep 2026 02:16:13 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:02+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T02:16:13+00:00",
+          "published_kst": "2026-09-04 11:16",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2488,13 +2417,13 @@
           "rank": 13
         },
         {
-          "title": "\"유령업체 내세워 메뚜기 입찰\"…'산불 카르텔' 700억 탈루 세무조사 - KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FS3BRMlB2cWdFQ2JUc3F6Xzh3NEdIRnBLQWg2WWZxdXdidFcxSjI2aHlWM0Q3eVR4eXA2LXlOZk1iUDlJVUhybEF6MEhsRXV1WC0yUVRpcDhWdU5RWFFRcDZrMXc5aHJzMWNCYXppTzFWUQ?oc=5",
-          "summary": "\"유령업체 내세워 메뚜기 입찰\"…'산불 카르텔' 700억 탈루 세무조사 KB Think",
-          "published": "Thu, 03 Sep 2026 03:00:02 GMT",
+          "title": "15만 식당·미용실 창업자, 세무서 안 가도 된다…창업 문턱 낮춘 국세청 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14TW1aYnpYb3oxWTNsOVdkVVJoN3B1QmNKZnN5cGhHMllFTHVQZ3dPOVNWazdzSlBodlVQUDN6QTE5enRSa1c0d3BoV3FlZFlKRFpYRlZ4WXJxcDZIXzhZdTVoX21BX1F0enA00gFwQVVfeXFMUGd5SHJpSVRJSFlhY09BdzhORmhJQlkwM0NWS3Jybl9PVURVVXRsWXhkQTNSTGU4VVBSM1JHWC1VWEFEaGhJTmhpQWd1Ukt5dzVTd0lOdjE0WE1xdDgtQ2Q3YkFtcWpUX21uXzgydDdVVg?oc=5",
+          "summary": "15만 식당·미용실 창업자, 세무서 안 가도 된다…창업 문턱 낮춘 국세청 - 머니투데이 머니투데이 식당·미용실 창업자, 시청 갔다 세무서 또 안 가도 된다 news1.kr 국세청, 영업신고·사업자등록 한번에 'OK' 뉴스핌",
+          "published": "Fri, 04 Sep 2026 01:37:05 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:02+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:37:05+00:00",
+          "published_kst": "2026-09-04 10:37",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2507,13 +2436,13 @@
           "rank": 14
         },
         {
-          "title": "산불피해 복구 입찰 꼼수·탈세 '산불 카르텔 전소' - 더팩트",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mN3lSaElHY0ZoQmQwak1DYWFROTUtRU00LWdMdjJBcTc3dDhDbExQVWQxaHU4NG1XdlN5V3JyOXAzRXBUREJxV3Jha2dXUnVnVkdKUmR5QXh1UdIBVEFVX3lxTFBCd2VJUjdFQlZ2a1NINzh6TlVPcjFza0VVTjl2a0lWZXlTMWhfakN2Nk53akRfMHo4X3daXzk1Vkw4X0tLSW01RlFCUXVGblhWeW92Qg?oc=5",
-          "summary": "산불피해 복구 입찰 꼼수·탈세 '산불 카르텔 전소' 더팩트",
-          "published": "Thu, 03 Sep 2026 03:00:02 GMT",
+          "title": "음식점·미용실 창업자, 시청·세무서 오갈 필요 없어진다 - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RVzdLYS1RR2lxOWFES1pVdnlGdlRZVW1BWUlxZExGTGlkd0tHV3gwOVRmUDVkUlNMS0RORXh0QzNIX1VOOWpTcktqeFRyTFdyRE5LZXJ5NHFPRmNpOXkyR9IBeEFVX3lxTE5heVl0QXd2b29WUnJkN3NVUE0tZlRhNUVNN2JNeEh5WDZRa3JZTU1XSUgwQjJic1ViXzdhN3JhZDhHcFh1TmQteENCMmJVdGZqZTRTR3ZZY3Z4Sl95ei1HeklUdEFMQUhSTmpmTXNsOS1xXzAwNm1iVQ?oc=5",
+          "summary": "음식점·미용실 창업자, 시청·세무서 오갈 필요 없어진다 뉴시스",
+          "published": "Fri, 04 Sep 2026 01:09:22 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:02+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:09:22+00:00",
+          "published_kst": "2026-09-04 10:09",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2526,13 +2455,13 @@
           "rank": 15
         },
         {
-          "title": "국세청 세무조사 망에 ‘딱 걸린’ 산불 복구 유령업체 ‘민낯’ - intn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBS204emRxMG90TlJ0VldVdEZPWm8zR2tNZWRQdzU0NGl4VlMwMGs4bjIwblFiZzhFTldRaGFvUkJydUQ2ZnhoOU9VTDR1WFhicUVsYVg0cFhsWU1fWmxWdEJTTWw2bHlxYUE?oc=5",
-          "summary": "국세청 세무조사 망에 ‘딱 걸린’ 산불 복구 유령업체 ‘민낯’ intn.co.kr",
-          "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "title": "식당·미용실 차릴 때 세무서 안 가도 된다…국세청, 창업 인허가 서류 제출 면제 - 세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfblh1c25CanU3YnFVZGhESGdsU2RjTkMyVU41UUlwNVF5T0owbV9zMDZaa01yc1VLZExacUFXc1lPSFlGa0FXMlB6TE96YUgzM0ZQVk9qcDJndlhVblpLT0x3RHFDVWRGSUZzdA?oc=5",
+          "summary": "식당·미용실 차릴 때 세무서 안 가도 된다…국세청, 창업 인허가 서류 제출 면제 세정일보",
+          "published": "Fri, 04 Sep 2026 01:04:57 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:04:57+00:00",
+          "published_kst": "2026-09-04 10:04",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2545,13 +2474,13 @@
           "rank": 16
         },
         {
-          "title": "국세청, 산불피해 복구사업 입찰 유령업체 세무조사 실시 - 뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UmhTQXRJU0duRkVxWFRNckxkRi1FUWJhSWFzTXVzVm9mMm9RMUhOOXc2anNvNlNTUWU2cHAxUFVhekQ5WVprN0o3aw?oc=5",
-          "summary": "국세청, 산불피해 복구사업 입찰 유령업체 세무조사 실시 뉴스1",
-          "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "title": "식당·미용실 창업자, 구청 갔다 세무서 또 가는 일 사라진다 - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMjlydjB0NzlRSTFoVFNnMnB1VkNuaXJFZVVPeFdIY2RHa3l1MnlSenhqZm9TY29tVU9ja1VmQURkNU83LWlQNENiVGprdVFhRVNCbEU0SWhkYWY4MnZBeGpSYW1jbmRtdHF1VmVTaw?oc=5",
+          "summary": "식당·미용실 창업자, 구청 갔다 세무서 또 가는 일 사라진다 조세일보",
+          "published": "Fri, 04 Sep 2026 01:00:15 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:00:15+00:00",
+          "published_kst": "2026-09-04 10:00",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2564,13 +2493,13 @@
           "rank": 17
         },
         {
-          "title": "국세청, 산불 복구에 유령업체로 6500회 입찰·230억 낙찰 업체 '세무조사' - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xeWl6T2lhTHkxclV6Sk4yOW1GQXZ6ZEhNZk1ubFZmWFh4NXJRRUpuWTV1ODNSUFpPYUp1dUlIOW5tVHB5TUlXbUxyWTJYMnp6bVZic2padFVkV2hSaFZ0YXRrVHNlQnJmWkRzdmQ1SERuRjU5VG5BRNIBfkFVX3lxTE1oMHdtOWxKYVN1RlJGVEpQWUs5aExtbVlsOVBNZ2J4YTNybTRTMDVCZzhVMlRVdnY2SWZnX0p5X1VtZmg4S0dNWks3UGNraGhVZ3JTVTZPcGxuUHQ0TDF0YzMwbHQyOEhaY01wcDI1elFVc1c4WGota0QwdXFPQQ?oc=5",
-          "summary": "국세청, 산불 복구에 유령업체로 6500회 입찰·230억 낙찰 업체 '세무조사' - 머니투데이 머니투데이",
-          "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "title": "음식점·미용실 창업자 영업신고·사업자등록 '한번에' 신청 - KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52UkU0a1paSXNVQkJaMEFkUlZCelQ0VTVqT3FjTHlHUl9LTVFROWs3ODd0ZktlcTYxQXZpMGhiT1EwcFlyRVBMWm80NThvS3Z4TmtWS2tzd1UwSFd5VW1JNVA2SDZyRVRpU1RwX3NvQ0t0Zw?oc=5",
+          "summary": "음식점·미용실 창업자 영업신고·사업자등록 '한번에' 신청 KB Think",
+          "published": "Fri, 04 Sep 2026 01:00:05 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:00:05+00:00",
+          "published_kst": "2026-09-04 10:00",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2583,13 +2512,13 @@
           "rank": 18
         },
         {
-          "title": "유령업체로 산불 복구공사 따내고 회삿돈으로 명품시계…700억 탈루혐의 세무조사 - etoday.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MYjdqY3QzVU84eUYyMEVtcGpoUUFXWU4zNlg4eWJZRWM4cUpSRnE5dnZ2QkVQa0xuN0RsSlE2dHd4REJUb09DUy1nOGVJXzhXQl9LNQ?oc=5",
-          "summary": "유령업체로 산불 복구공사 따내고 회삿돈으로 명품시계…700억 탈루혐의 세무조사 etoday.co.kr",
-          "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "title": "식당·미용실 창업 간소해진다…사업자등록 세무서 방문 불필요 - 더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yOWhadXBSbU44bUN1a2NJa1g3NUNYMzNBa09GblI1cHhHSVMwbVJlV2NNa2t6NzA2UFNtLVYxUEZORHZYSGk2cmdkMGJkOF9HUHBHaVBLaW5ad9IBVEFVX3lxTE41RFVkNkZUYWJkNUZhLXpLWXBoaFk3WmEwSDNDOXlMbkptVHgxUmZIc2xNZ0czbDNIQTlxWDdsSkdEcmhOeGxINEVoTnNaNVEzTVBSbA?oc=5",
+          "summary": "식당·미용실 창업 간소해진다…사업자등록 세무서 방문 불필요 더팩트",
+          "published": "Fri, 04 Sep 2026 01:00:01 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:00:01+00:00",
+          "published_kst": "2026-09-04 10:00",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2602,13 +2531,13 @@
           "rank": 19
         },
         {
-          "title": "산불 카르텔 유령업체로 230억원 공사 수주…국세청, 700억원 탈루 혐의 조사 - 아주경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQNDctaGU5bE14SC10TndhZlA5dE9IUTRyaHhlRWNJZmtHMnhpZnpWQmJ2TGpRVzcyOE1XaXJqLTNxYTF4cHYzSzJOaDlWT1lubWVpZXNwMmtSZ9IBWEFVX3lxTE01Tm5lZ25sem1HTEVoZm0zeWNnc213dmxPcHlUN3FjSGN2QWJoZXNOWGQwODJHbm9CTnlVUWVLc0RQRlVRSFk4bTRVQW44X1FXRWZlank2OXE?oc=5",
-          "summary": "산불 카르텔 유령업체로 230억원 공사 수주…국세청, 700억원 탈루 혐의 조사 아주경제",
-          "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "title": "국세청, 식당·미용실 창업자 15만 명 창업 신고 간소화 - 데일리안",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMUhRb29aTS1kWTlKUGlEMUlyMHduODdYa016SzhBQ19lWG1uMkhtS01UREQ5cEd1cmtscjFVb1RXV1RFR05JYnZLYW05NTllV29yeDNMWExsQ0tPUWdseUtCaURETm4zYzVremhOZDBWSVJkamtPdGtkbGNyRlhOVmY3cUdvV2JsWnJGb3FRYVFydlg3ckt2dUZCMmk0X1h0QmFhVHpteVlIbkR0SlVxZGo3R3lsbGxiUXJjdERoNUZMOU8za3o2TlpqWE9mN0oyTUFFMXFfZXpmOHdfRWx6OTBWWWJYUEZuaWdGcWRxbVh5SHBlQjBMSGtReE93ZEJVZ3g4?oc=5",
+          "summary": "국세청, 식당·미용실 창업자 15만 명 창업 신고 간소화 데일리안",
+          "published": "Fri, 04 Sep 2026 01:00:00 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-03T03:00:00+00:00",
-          "published_kst": "2026-09-03 12:00",
+          "published_at": "2026-09-04T01:00:00+00:00",
+          "published_kst": "2026-09-04 10:00",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2621,15 +2550,17 @@
           "rank": 20
         },
         {
-          "title": "[세미콜론] 세무업계도 ‘AI’ 시대…국세청부터 빅4 등 대전환 중 - 세정일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VTlPSkVicjN1OHlCYno2bWZoR0I1VERRNEk0U1lydGYyRGI2emlXQTZjR0RNR1VDMEE4VEtDMjZLaVBRVkJoWWxObTJuSlVSejNQLWUyVENkVDZWUGIydGFHcHpTOWFoWXc5dw?oc=5",
-          "summary": "[세미콜론] 세무업계도 ‘AI’ 시대…국세청부터 빅4 등 대전환 중 세정일보",
-          "published": "Wed, 02 Sep 2026 23:12:00 GMT",
-          "source": "국세청 동향",
-          "published_at": "2026-09-02T23:12:00+00:00",
-          "published_kst": "2026-09-03 08:12",
+          "title": "15만 식당·미용실 창업자, 시청 갔다 세무서 또 안 가도 된다",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053055",
+          "summary": "국세청(청장 임광현)은 앞으로 음식점이나 미용실을 창업할 때 영업신고를 위해 시·군·구청을 방문하고, 사업자등록을 위해 다시 세무서를 찾는 불편을 없앤다고 밝혔다.국세청은 9월 4일부터 음식점, 이·미용업을 대상으로 사업자등록 신청 시 영업신고증 등 인·허가 서류를 별도로 제출하지 않아도 되는 서비스를 시행한다.이에 앞서, 8월 31일부터는 시·군·구청에서 영업신고와 사업자등록을 한 번에 신청할 수 있는 서비스를 개시했다.그동안 납세자들은 창업 시 영업신고와 사업자등록 신청을 위해 행정기관(시·군·구청, 세무서)을 각각 방문해야 하",
+          "published": "2026-09-04 10:00:00",
+          "source": "일간NTN",
+          "published_at": "2026-09-04T01:00:00+00:00",
+          "published_kst": "2026-09-04 10:00",
           "is_dated": true,
-          "matched": [],
+          "matched": [
+            "국세청"
+          ],
           "score": 27,
           "level": "하",
           "level_hint": "참고",
@@ -2640,13 +2571,13 @@
           "rank": 21
         },
         {
-          "title": "‘황제 사택’ 겨눈 국세청 - ilyosisa.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96eUJCU3Q3VEY5X2pBcUJLM2ZuMHQzdVdoTzY4SUhmalBkLW1wSzE3d0lZRlZqUnhkblRWY2FWcWZTQ05BZFktWDRZaW8zV080M3lMS3FmVDd6SjlRZ0tQa3A1Nmo?oc=5",
-          "summary": "‘황제 사택’ 겨눈 국세청 ilyosisa.co.kr",
-          "published": "Wed, 02 Sep 2026 22:09:43 GMT",
+          "title": "[셀럽스토리] 국세청, KCC ·소노그룹의 한남동 법인 명의 주택을 `황제 사택`으로 정조준 - 디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUXZzTE9PTXpYYkMzcmVLbENtQzVMSmVkamdnSElhelRwZFFXRkFscmxsU0Q0ZXVZRVRSU09OVXNUcW5ibmVzVjVaRm4tSDRjTEExdXE1M29ySHlycXRNVHh0MUk?oc=5",
+          "summary": "[셀럽스토리] 국세청, KCC ·소노그룹의 한남동 법인 명의 주택을 `황제 사택`으로 정조준 디지털데일리",
+          "published": "Fri, 04 Sep 2026 00:28:31 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-02T22:09:43+00:00",
-          "published_kst": "2026-09-03 07:09",
+          "published_at": "2026-09-04T00:28:31+00:00",
+          "published_kst": "2026-09-04 09:28",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2659,17 +2590,15 @@
           "rank": 22
         },
         {
-          "title": "광주국세청, 가짜세금계산서 2명 조사 - 조세일보",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hUnFEWkQ2SmtDV1pVNzBvYmtxMzFZZVFkbUdhaWVia082aHlwWlNEdEJ4ZW1ZVzVzV3VrbEUzQm45bm02QWM0SFNtanh1U2NIeWtTZmVjQ0tSMHBfVmc?oc=5",
-          "summary": "광주국세청, 가짜세금계산서 2명 조사 조세일보",
-          "published": "Wed, 02 Sep 2026 13:16:17 GMT",
-          "source": "조세일보",
-          "published_at": "2026-09-02T13:16:17+00:00",
-          "published_kst": "2026-09-02 22:16",
+          "title": "국세청, 'AI 대전환' 구체화 사업 착수…첫 단추부터 지연 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fV0QzM1hJdWlVTVJPOWhhY0E1Y19PWGxmdzNxdTBiY0FBSjRLMm5mZUdiQUNvZG5NY2w0aTFQc1JKWlE4V005WHJYb1ppUVU?oc=5",
+          "summary": "국세청, 'AI 대전환' 구체화 사업 착수…첫 단추부터 지연 v.daum.net",
+          "published": "Thu, 03 Sep 2026 23:15:00 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T23:15:00+00:00",
+          "published_kst": "2026-09-04 08:15",
           "is_dated": true,
-          "matched": [
-            "국세청"
-          ],
+          "matched": [],
           "score": 27,
           "level": "하",
           "level_hint": "참고",
@@ -2680,13 +2609,13 @@
           "rank": 23
         },
         {
-          "title": "“국세청에 다 맡기면 행정 마비”…국세외수입 통합징수에 ‘업무분리’ 필요 - 세정일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NEg4YklJd1pRX0kwMm1KYnZ5Q1VPcUlobHI1T2hUMFFzMDhOQ05OYTFKb1pkdGtrYmJMQ0hFRlhjNldobkZqZlZtUjc1T0dQNW1xcUhTa0hPU2M2aTJRME5FOVp6NWxBZk9kQw?oc=5",
-          "summary": "“국세청에 다 맡기면 행정 마비”…국세외수입 통합징수에 ‘업무분리’ 필요 세정일보",
-          "published": "Wed, 02 Sep 2026 07:00:37 GMT",
+          "title": "국세청 비위 공무원 ‘징계부가금’ 3년 새 급증…10명 중 7명꼴로 안 냈다 - 세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ajN0aDBJUC10bEhnb3dJQ2QzUE15dU5sa1pLNmFkd0U4Q0tmNG9NMlZ4LTJpbVgwTTNPSkNPYlZKZWprWXBiMUhkZDgyaUtTRDNtNExUNU9VVTBtelJXYmxSc3NDRWIzamNoVQ?oc=5",
+          "summary": "국세청 비위 공무원 ‘징계부가금’ 3년 새 급증…10명 중 7명꼴로 안 냈다 세정일보",
+          "published": "Thu, 03 Sep 2026 22:23:08 GMT",
           "source": "국세청 동향",
-          "published_at": "2026-09-02T07:00:37+00:00",
-          "published_kst": "2026-09-02 16:00",
+          "published_at": "2026-09-03T22:23:08+00:00",
+          "published_kst": "2026-09-04 07:23",
           "is_dated": true,
           "matched": [],
           "score": 27,
@@ -2699,115 +2628,119 @@
           "rank": 24
         },
         {
-          "title": "`특별재난지역` 거제·통영에 세금 납부기한 최대 2년 연장 - 국제신문",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhqM0RmLVB2M2JwSVRQTXZTSGZlcFJfWW1YUGF5SDI3cHdSZkZibThvOFVzM0lZWDNTRlNjZEJqSkhUdTRCTjlrMzBTQ3dOdWx3MWFKZkRsblU0YmpQVW5EbnpoNTZoRmRkVGxRakhuZHd2d0FPMEhHQzNfbWttLXZrTldZNko1T3FpUHRR?oc=5",
-          "summary": "`특별재난지역` 거제·통영에 세금 납부기한 최대 2년 연장 국제신문",
-          "published": "Mon, 24 Aug 2026 04:35:00 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-24T04:35:00+00:00",
-          "published_kst": "2026-08-24 13:35",
+          "title": "국세청, ‘산불 카르텔’ 10개 업체 세무조사 거짓 세금계산서·가공원가 등 탈루 혐의액 700억원 - 공뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pdWRGSmg1eW5VbVc2bjA5Y0ZVMHdNTERtUHpiWmFrWkFycmFxUEc0NmFGNkdUcVc4ZmZ0dkZMZGUwdVExWFYxcW5zYzE3M3NSbmoxeUNOeW5JckNBQlVwWllZYnZ4VVhGNFpObA?oc=5",
+          "summary": "국세청, ‘산불 카르텔’ 10개 업체 세무조사 거짓 세금계산서·가공원가 등 탈루 혐의액 700억원 공뉴스",
+          "published": "Thu, 03 Sep 2026 22:14:27 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T22:14:27+00:00",
+          "published_kst": "2026-09-04 07:14",
           "is_dated": true,
           "matched": [],
-          "score": 24,
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "납부기한"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 25
         },
         {
-          "title": "국세청, 거제·통영 호우피해에 납부기한 연장 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NWHNjQ1hTekJ0MkxpbkFxNEpnbmYtUXFxbjd5aVpxSXhPV0ZqX3FWNFdUeXllb3hjdDQ1SVQycXhaTDlNUkVsZWpqMFFRVTdMZ1pBYQ?oc=5",
-          "summary": "국세청, 거제·통영 호우피해에 납부기한 연장 v.daum.net",
-          "published": "Mon, 24 Aug 2026 03:15:28 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-24T03:15:28+00:00",
-          "published_kst": "2026-08-24 12:15",
+          "title": "국세청, 국가재정 갉아먹고 국민의 터전 복구 방치한 '메뚜기 입찰 산불 유령업체' 세무조사 실시 - 행정신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NR0N3am9Wdks3N2lCNXZBZktXRDZxcTFMZE1zNEw3V2llZHFGdkg1RHhvLV9ub0MxNmc2LWxUX01halMzYWxQRDZlTGhnOU9kZUFFWXkzcmZwOFVvT21nbzNDN0stOVg4QjcyWA?oc=5",
+          "summary": "국세청, 국가재정 갉아먹고 국민의 터전 복구 방치한 '메뚜기 입찰 산불 유령업체' 세무조사 실시 행정신문",
+          "published": "Thu, 03 Sep 2026 12:18:47 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T12:18:47+00:00",
+          "published_kst": "2026-09-03 21:18",
           "is_dated": true,
           "matched": [],
-          "score": 24,
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "납부기한"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 26
         },
         {
-          "title": "국세청, 거제·통영 특별재난지역 세금 납부기한 최대 2년 연장 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZMkNzekJSdl9odmllcm9PUjF5eXlGd25hVFZYdndEU0o5MS1iQklaMnU0eU1GbUNsTXNOMDdabGVvSmZpYzg2Q0prSWxYR2piQVNwRA?oc=5",
-          "summary": "국세청, 거제·통영 특별재난지역 세금 납부기한 최대 2년 연장 v.daum.net",
-          "published": "Mon, 24 Aug 2026 03:01:00 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-24T03:01:00+00:00",
-          "published_kst": "2026-08-24 12:01",
+          "title": "[결혼] 김민주 국세청 대변인실 온라인소통팀장 본인",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59949",
+          "summary": "△일시 : 2026년 9월 6일(일) 11:00△장소 : 선릉역 르비르모어 2층 웨딩홀",
+          "published": "2026-09-03 18:11:52",
+          "source": "세정일보",
+          "published_at": "2026-09-03T09:11:52+00:00",
+          "published_kst": "2026-09-03 18:11",
           "is_dated": true,
-          "matched": [],
-          "score": 24,
+          "matched": [
+            "국세청"
+          ],
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "납부기한"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 27
         },
         {
-          "title": "홈플러스 피해기업 세 부담 던다…대전국세청, 법인세 납부기한 연장 - 대전일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fYXVsQmNxMDE3dEV1Yi00aHdjSmp1R1lBUnc0Q0FLZHdVNGVNWlN4eFJxanF6NnRTcmFxMGVlMU92UVRmTUR2SXFFcTcxMHdjeDFVdzhJYXVuX0dYeUJDUURRN0E4QUlCeUhYckhUc9IBc0FVX3lxTE9Rbnp5M01VODBoQnZJRkQwdDZIb0x1VlR0S3lmS0s0M0pCUERvM0N3VGZycHhWYU9TM0xUbGlsQ3U3LVZLN1NVV0s3Z2lpZWZmVFY0aWluZm43dW4wSHEyVHhPQlBfNzFlRlVTSHVFdEpOc1E?oc=5",
-          "summary": "홈플러스 피해기업 세 부담 던다…대전국세청, 법인세 납부기한 연장 대전일보",
-          "published": "Sun, 23 Aug 2026 03:26:00 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-23T03:26:00+00:00",
-          "published_kst": "2026-08-23 12:26",
+          "title": "화성산업진흥원-중부지방국세청, 창업기업 세제지원 컨설팅 - 기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTU0g2bDdFUzctdTN5XzJpcmpHU3EyTUFIZ3A1VFgzRXNyVmZvb0ZZaEd3Z09CbHFHLTRoSGRaTVprcFlXYjN5c2tuZjJxaXpvdk1WWGoyMjBSMGJMeW56Z3RCVFA5T3pwVU9kOFBLaw?oc=5",
+          "summary": "화성산업진흥원-중부지방국세청, 창업기업 세제지원 컨설팅 기호일보",
+          "published": "Thu, 03 Sep 2026 07:18:04 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T07:18:04+00:00",
+          "published_kst": "2026-09-03 16:18",
           "is_dated": true,
           "matched": [],
-          "score": 24,
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "납부기한"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 28
         },
         {
-          "title": "국세청, 거제·통영 피해 납세자에 세정지원 확대 - newsis.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VaDdZM0p3OGZ0RE1DN2h0Rl9DTFZBVWlEa0VidGNnZ2ZuSmxGY2M4a0lzWTBFZHFralNDRjctdUFKVExHY3AyOXdkdGdVNGFUSjc2ak53SEtpZkVfSVNVQtIBeEFVX3lxTE9QSFJORHJnYVR0eEhIYWdOX1dMSU9PR2JnQ0hMTmlEb0dJTXpUZnNrVzc5UVBKV0l0UGM3dVJlMExhd2VZdkFQMVI2OHJsbm9RNDBaMHpwNWpxY2RRcV9VTGNWYjUtOXRTSHlOS0Y1VE9pNFgzWUt6dg?oc=5",
-          "summary": "국세청, 거제·통영 피해 납세자에 세정지원 확대 newsis.com",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-24T07:00:00+00:00",
-          "published_kst": "2026-08-24 16:00",
+          "title": "유령업체 동원해 산불 복구사업 ‘메뚜기 입찰’... 국세청, 10개 업체 세무조사 - 한국재난뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrNXRhNGE5eWRnNFoyT3h5Q3lVS2VCUXFoOS1IX09LaXNNaTl2NGVnQWZJV0pjSXl5ODduaHpidjVlXzVRcDZ5VnFvaXY0Z2VuS2I3WGFPelB1ZUtMSmtyTngtYkVrVEp3b1E?oc=5",
+          "summary": "유령업체 동원해 산불 복구사업 ‘메뚜기 입찰’... 국세청, 10개 업체 세무조사 한국재난뉴스",
+          "published": "Thu, 03 Sep 2026 06:42:53 GMT",
+          "source": "국세청 동향",
+          "published_at": "2026-09-03T06:42:53+00:00",
+          "published_kst": "2026-09-03 15:42",
           "is_dated": true,
           "matched": [],
-          "score": 22,
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "세정지원"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 29
         },
         {
-          "title": "거제·통영 호우 피해 특별재난지역 납세자에 적극적 세정지원 - 조세플러스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1QU96ckswUzdvWGVHUHVxcVhVaEY0aGpTbDNSQ2w4eFMyWlVrTEN2eVpNWDE3enRtV1l6Q3hfcG9KeG12TVNoNk9uLWlCMFZUd09rQ1dyd3Q?oc=5",
-          "summary": "거제·통영 호우 피해 특별재난지역 납세자에 적극적 세정지원 조세플러스",
-          "published": "Mon, 24 Aug 2026 03:00:15 GMT",
-          "source": "납부기한·세정지원",
-          "published_at": "2026-08-24T03:00:15+00:00",
-          "published_kst": "2026-08-24 12:00",
+          "title": "구청‧세무서 오가던 복잡한 폐업신고....'온라인에서 한 번에' 추진",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053037",
+          "summary": "앞으로 소상공인·자영업자가 폐업신고를 위해 구청‧세무서등을 직접 방문하고 처리 여부까지 따로 확인해야 했던 불편과 부담이 한층 완화될 전망이다.국민권익위원회(위원장 정일연)는 폐업신고를 온라인으로 한 번에 신청하고 처리 과정도 문자 등으로 확인 할 수 있도록 ‘통합 폐업신고 확대·강화 방안’을 마련해 행정안전부·국세청 등 5개 중앙행정기관과 229개 지방정부에 제도개선을 권고했다.정부는 시‧군‧구청 민원실이나 세무서 중 한 곳만 방문해도 인허가 영업 폐업신고와 사업자등록 폐업신고가 한 번에 처리되는 ‘통합 폐업신고 제도’를 운영하고",
+          "published": "2026-09-03 13:07:00",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T04:07:00+00:00",
+          "published_kst": "2026-09-03 13:07",
           "is_dated": true,
-          "matched": [],
-          "score": 22,
+          "matched": [
+            "국세청"
+          ],
+          "score": 27,
           "level": "하",
           "level_hint": "참고",
           "reasons": [
-            "세정지원"
+            "24시간 내"
           ],
           "demoted": [],
           "rank": 30
@@ -2817,8 +2750,187 @@
     {
       "id": "etc",
       "label": "그 밖의 세무 뉴스",
-      "total": 36,
+      "total": 35,
       "items": [
+        {
+          "title": "추석 앞두고 세금 고민 덜자…'마을세무사' 전국으로 찾아간다 - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FRHVEUVU1Vkh2dk1Pb05mUGpMOF9zY2pHbnJlSS1EejF4UmlaSkxlS1FlYXZnemplbHk2NmtqOXcyMnBQbkRQS2JxSEFFUTk3aUk2dXlJandrMmUxLXM5WndJWEs3aVVhaHROUURZTmE1UWhX?oc=5",
+          "summary": "추석 앞두고 세금 고민 덜자…'마을세무사' 전국으로 찾아간다 조세일보",
+          "published": "Fri, 04 Sep 2026 01:15:11 GMT",
+          "source": "조세일보",
+          "published_at": "2026-09-04T01:15:11+00:00",
+          "published_kst": "2026-09-04 10:15",
+          "is_dated": true,
+          "matched": [
+            "세금",
+            "세무",
+            "세무사"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 1
+        },
+        {
+          "title": "소득세율 인상 vs 비과세 폐지…일자리 감소폭 천지 차이 [글로벌 TAX] - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSlZlV3hzYXJPdElScF9XS0NkXzJxZXRXSklINGprTkIyYXpNOFIyb0d1a3QxYzQzRUtTZ09YSmJLNjJ0MU8wbVlEbUxOLWJGM1p1cXBXVS02VlJ4VWoxWlBtTGN1MElyaTlIa2xaQQ?oc=5",
+          "summary": "소득세율 인상 vs 비과세 폐지…일자리 감소폭 천지 차이 [글로벌 TAX] 조세일보",
+          "published": "Fri, 04 Sep 2026 00:20:00 GMT",
+          "source": "조세일보",
+          "published_at": "2026-09-04T00:20:00+00:00",
+          "published_kst": "2026-09-04 09:20",
+          "is_dated": true,
+          "matched": [
+            "과세",
+            "세율",
+            "소득세"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 2
+        },
+        {
+          "title": "[결혼] 김종일 대전세무서장 김수린 양",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59950",
+          "summary": "△일 시 : 2026년 9월 19일(토) 13:00△장 소 : 더빈컨벤션 4층 그랜드볼룸홀(충북 청주시 흥덕구 강내면 학천길 5)",
+          "published": "2026-09-03 18:12:29",
+          "source": "세정일보",
+          "published_at": "2026-09-03T09:12:29+00:00",
+          "published_kst": "2026-09-03 18:12",
+          "is_dated": true,
+          "matched": [
+            "세무"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 3
+        },
+        {
+          "title": "[결혼] 정인숙 대전세무서 소득세과장 차녀 국서경 양",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59948",
+          "summary": "△일 시 : 2026년 9월 5일(토) 16:20△장 소 : 공군회관 3층 그랜드볼룸홀(서울시 영등포구 여의대방로 259)",
+          "published": "2026-09-03 18:08:50",
+          "source": "세정일보",
+          "published_at": "2026-09-03T09:08:50+00:00",
+          "published_kst": "2026-09-03 18:08",
+          "is_dated": true,
+          "matched": [
+            "세무",
+            "소득세"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 4
+        },
+        {
+          "title": "김완일 전 서울세무사회장 “차기 회장 출마 막으려는 중징계, 창립 이래 처음”",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59947",
+          "summary": "한국세무사회 회장 선거 후보로 경쟁했던 김완일 세무사(전 서울지방세무사회장)가 한국세무사회 윤리위원회로부터 ‘회원권리정지’ 중징계 처분을 받자, “내년 차기 세무사회장 선거 출마를 봉쇄하기 위한 정치적 탄압”이라며 강하게 반발하고 나섰다.김완일 세무사는 지난 2일 세무사회 회원게시판에 `27년 회장 선거 입후보 못 하도록 ‘회원권리정지 중징계’라는 제목의 글을 올렸다.김 세무사는 글을 통해 “세무사회 65년 역사상 당선된 회장이 경쟁 상대 후보를 선거가 끝난 뒤 다음 선거에 나오지 못하도록 회원권리정지로 중징계한 사례는 전례가 없다",
+          "published": "2026-09-03 17:39:43",
+          "source": "세정일보",
+          "published_at": "2026-09-03T08:39:43+00:00",
+          "published_kst": "2026-09-03 17:39",
+          "is_dated": true,
+          "matched": [
+            "세무",
+            "국세",
+            "지방세",
+            "세무사"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 5
+        },
+        {
+          "title": "2026년 제3차 전국 공항세관 기관장 협의체 회의 개최",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053048",
+          "summary": "관세청 인천공항본부세관은 전국 공항세관장들과 함께 9월 3일, 대구세관에서 ‘2026년도 제3차 전국 공항세관 기관장 협의체 회의’를 개최했다.본 협의체는 항공 여행자를 통한 마약밀수를 전국 공항세관이 유기적으로 대응해 마약 차단의 효율성을 높이고자 분기마다 한자리에 모이고 있다.이번 회의에서는 각 공항세관의 마약 단속 활동 현황과 마약 적발 사례를 공유하는 한편, ‘정보분석 역량 강화 방안’, ‘세관 간 실시간 소통체계 구축’ 등의 협력 사항에 대해 집중 논의했다.이날 회의를 주관한 김정 인천공항본부세관장은 “이번 협의체 회의를",
+          "published": "2026-09-03 16:42:29",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T07:42:29+00:00",
+          "published_kst": "2026-09-03 16:42",
+          "is_dated": true,
+          "matched": [
+            "관세"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 6
+        },
+        {
+          "title": "세무사들, 추석 앞 전국 전통시장 무료세무상담·장보기 펼친다",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053047",
+          "summary": "한국세무사회(회장 구재이)는 추석을 앞두고 전국 전통시장을 찾아 상인과 지역주민에게 무료 세무상담을 제공하고 전통시장 장보기에 나서는 ‘찾아가는 마을세무사’ 행사​를 추진한다.올해는 마을세무사 제도가 전국적으로 시행된 지 10년을 맞는 해다. 행정안전부와 한국세무사회는 전국 지방정부와 마을세무사가 함께 참여하는 현장 중심의 세무상담을 통해 주민의 세금 고민을 덜고, 추석 명절을 앞둔 전통시장에도 활력을 더한다는 계획이다. ㆍ9.4~10.22일 전국 전통시장서 세무상담, 장보기, 고향사랑기부 홍보'찾아가는 마을세무사’ 행사는",
+          "published": "2026-09-03 16:31:00",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T07:31:00+00:00",
+          "published_kst": "2026-09-03 16:31",
+          "is_dated": true,
+          "matched": [
+            "세금",
+            "세무",
+            "국세",
+            "세무사"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 7
+        },
+        {
+          "title": "유한클로락스, 빨래 냄새와 얼룩 잡는 ‘유한젠 냄새·얼룩 리무버’ 출시",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053043",
+          "summary": "국민 생활위생용품 기업 유한클로락스가 세탁 후에도 쉽게 사라지지 않는 빨래 냄새와 얼룩을 한 번에 관리할 수 있는 ‘유한젠 냄새얼룩리무버’를 리뉴얼 출시했다.깨끗하게 세탁한 수건에서 다시 올라오는 꿉꿉한 냄새, 아이 옷에 남은 음식물 자국, 누렇게 변한 옷깃과 소매. 빨래를 자주 해도 쉽게 해결되지 않는 냄새와 얼룩은 누구나 경험하는 세탁 고민이다. 특히 땀이나 체취처럼 옷감 깊숙이 밴 냄새나 찌든 얼룩은 일반 세탁세제만으로 깔끔하게 제거하기 어렵다.유한클로락스는 이러한 소비자들의 세탁 고민에 주목해 기존 유한젠 액체형 제품에 탈취",
+          "published": "2026-09-03 13:11:00",
+          "source": "일간NTN",
+          "published_at": "2026-09-03T04:11:00+00:00",
+          "published_kst": "2026-09-03 13:11",
+          "is_dated": true,
+          "matched": [
+            "세제"
+          ],
+          "score": 15,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [],
+          "rank": 8
+        },
         {
           "title": "\"공급자가 잠적했는데 세금계산서 수정할 수 있나요?\" [세무상담] - 조세일보",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wcDd1ZjNxZG5KS3YxWHM2eVZZY0FwTVJqal9vQk0wV2doejBVZ2RHMWNsVHJiZUlUZXFRQWp5SEVGdzE4cTRSOXFfNGVESUpoYzhxUjdyLVY5V0Q3dThidmpod0tWRVpJdEh6eVdNX29hSXUt?oc=5",
@@ -2832,14 +2944,12 @@
             "세금",
             "세무"
           ],
-          "score": 15,
+          "score": 8,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 1
+          "rank": 9
         },
         {
           "title": "관세청, 미국·네덜란드와 마약밀수 합동단속…45건·9㎏ 적발",
@@ -2853,35 +2963,32 @@
           "matched": [
             "관세"
           ],
-          "score": 15,
+          "score": 8,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 2
+          "rank": 10
         },
         {
-          "title": "관세청, 미국·네덜란드와 마약단속 국제공조 박차",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053017",
-          "summary": "관세청은 미국 주요 마약단속 기관들과 지난 6월 한 달간 '제3차 한-미 마약밀수 합동 단속 작전(작전명: 은밀한 청소, OP. Silent Sweeper Ⅲ)'을 실시해 총 39건, 7.1Kg의 마약류를 적발했다고 밝혔다.올해로 세번째 실시된 합동단속 작전은 양국 관세 당국이 미국발 한국행 마약 은닉 우범 대상에 대해 현지 출발 단계부터 국내 도착 단계까지 정보분석과 검사를 강화하는 작전이다.양국은 인천공항 특송센터와 미국 LA 공항에 작전 통제 본부를 설치하고, 사전 정보교환 및 상호 직원 파견을 통해 합동 정보분",
-          "published": "2026-09-03 09:11:32",
-          "source": "일간NTN",
-          "published_at": "2026-09-03T00:11:32+00:00",
-          "published_kst": "2026-09-03 09:11",
+          "title": "[절세톡톡] 법인이 주택임대사업자등록을 하면 종부세를 피할 수 있을까요?",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59724",
+          "summary": "법인이 주택임대사업자등록을 하면 종부세를 피할 수 있을까요?법인이 소유한 조정대상지역에 있는 주택은 2020.06.17. 이전 임대등록분만 합산배제가 가능합니다.신규취득할 경우에는 다음과 같습니다.법인 또는 법인으로 보는 단체가 조정대상지역의 공고가 있은 날이 지난 후에는 장기일반민간임대주택으로 사업자등록신청하는 경우에도 종부세가 부과됩니다.비조정대상지역에 소재하는 주택(아파트 제외)은 장기일반민간임대주택으로 사업자등록 신청하는 경우에는 종부세 합산배제 적용이 가능할 것으로 보입니다.법인의 주택임대사업자 종부세 합산배제 요건은 다음",
+          "published": "2026-09-03 08:30:00",
+          "source": "세정일보",
+          "published_at": "2026-09-02T23:30:00+00:00",
+          "published_kst": "2026-09-03 08:30",
           "is_dated": true,
           "matched": [
-            "관세"
+            "절세",
+            "종부세"
           ],
-          "score": 15,
+          "score": 8,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 3
+          "rank": 11
         },
         {
           "title": "美상무장관, '반도체 표적관세' 예고…\"美서 안만들면 대가\"",
@@ -2895,14 +3002,12 @@
           "matched": [
             "관세"
           ],
-          "score": 15,
+          "score": 8,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 4
+          "rank": 12
         },
         {
           "title": "보험사 '세금 2조 클럽' 달성...삼성화재·DB손보 8800억 납부 [2026년 상반기 귀속 법인세 분석] - 조세일보",
@@ -2917,35 +3022,12 @@
             "세금",
             "법인세"
           ],
-          "score": 15,
+          "score": 8,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [],
-          "rank": 5
-        },
-        {
-          "title": "[분석] JB금융 양대 은행 5개년 추적…부실채권비율 2배 넘게 상승 - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VNFJETVpJTHRlXzFLbFBCZ1FIM2h6U2FCNHlXNzBGeFpvbkVqS28wRVBPQlJ0Y1pjT3lUbFFnSnl4RHRFZ1BjbEZ5UVhPT0VvbjlyYlFaNGdnRlBGUTFVN1lqcw?oc=5",
-          "summary": "[분석] JB금융 양대 은행 5개년 추적…부실채권비율 2배 넘게 상승 조세금융신문",
-          "published": "Wed, 02 Sep 2026 12:13:55 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-09-02T12:13:55+00:00",
-          "published_kst": "2026-09-02 21:13",
-          "is_dated": true,
-          "matched": [
-            "세금"
-          ],
-          "score": 15,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
-          "demoted": [],
-          "rank": 6
+          "rank": 13
         },
         {
           "title": "이종욱 관세청장, 인천공항 마약 단속체계 점검…“N차 저지선 구축”",
@@ -2959,35 +3041,12 @@
           "matched": [
             "관세"
           ],
-          "score": 15,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
-          "demoted": [],
-          "rank": 7
-        },
-        {
-          "title": "한국세무사회, 고향사랑기부 확산 운동 더 강화한다",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052997",
-          "summary": "한국세무사회(회장 구재이)는 올해 행정안전부 지원을 바탕으로 전국의 139개 지방.지역세무사회가 243개 광역 및 기초 지방정부와 각각 협약을 체결, 지역별 맞춤형 고향사랑기부 유치 및 홍보활동을 더욱 강화한다고 2일 밝혔다.한국세무사회는 지난해 행정안전부(장관 윤호중), SBS(대표 방문신)와 ‘고향사랑기부제 활성화 업무협약’을 체결해 고향사랑기부 홍보에 적극 나서 전년 대비 약 70%가 넘는 비약적인 성과를 올린 바 있다.행정안전부와 세무사회는 지난해 ‘고향사랑기부제 활성화 업무협약’을 체결해 전국 1만8천 세무사가 본격적으로",
-          "published": "2026-09-02 12:02:19",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T03:02:19+00:00",
-          "published_kst": "2026-09-02 12:02",
-          "is_dated": true,
-          "matched": [
-            "세무",
-            "국세",
-            "세무사"
-          ],
           "score": 8,
           "level": "하",
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 8
+          "rank": 14
         },
         {
           "title": "세무사회·건설근로자공제회, 건설노동자 무료 세무상담 지원 - 조세일보",
@@ -3007,7 +3066,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 9
+          "rank": 15
         },
         {
           "title": "관세청 김계영·김관우 주무관, WCO 인증 전문가로 선발됐다",
@@ -3026,7 +3085,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 10
+          "rank": 16
         },
         {
           "title": "회계사가 쓴 '숫자로 엿보는 세계사의 비밀', 2026년 세종도서 교양부문 선정 - 한국세정신문",
@@ -3046,45 +3105,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 11
-        },
-        {
-          "title": "관세청, `27년 예산 385억 증액된 7284억…‘마약반입 차단·AI혁신’에 집중 투입",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59901",
-          "summary": "관세청의 `27년도 예산안이 올해보다 385억원(5.6%) 증액된 7284억원으로 편성됐다.역대 최대 규모인 내년도 예산은 인건비 4076억원, 주요 사업비 2841억원, 기본 경비 367억원으로 구성됐다.관세청은 `27년도 예산안의 핵심 추진 과제로 △최근 심각한 사회문제로 대두된 마약의 국내 반입 차단을 위한 국경 방어망 구축 △거대한 기술혁명의 시대에 걸맞는 관세행정의 AI 대전환 △현재 활용 가능한 인력과 장비의 한계 극복 △관세국경 관리의 효율성을 높이기 위한 연구개발(R&D) 지원 등을 제시했다.우선 촘촘한 마약단속망 구",
-          "published": "2026-09-01 13:01:21",
-          "source": "세정일보",
-          "published_at": "2026-09-01T04:01:21+00:00",
-          "published_kst": "2026-09-01 13:01",
-          "is_dated": true,
-          "matched": [
-            "관세"
-          ],
-          "score": 8,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 12
-        },
-        {
-          "title": "제주 실종사건과 인니 인신매매 조직이 무슨 관계? - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLWUpRQjl2R05PaFY0QTdFTlp1VmtjOWUtaXVjUUdQVk01Q0paLUZqdFViVVFkclMwb1ZHTTVsR1NzY2w0Q0NBZ0JtY1JXTlB0RFBLT1pnRlZ6SmszaDU2TzRHbw?oc=5",
-          "summary": "제주 실종사건과 인니 인신매매 조직이 무슨 관계? 조세금융신문",
-          "published": "Tue, 01 Sep 2026 02:19:12 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-09-01T02:19:12+00:00",
-          "published_kst": "2026-09-01 11:19",
-          "is_dated": true,
-          "matched": [
-            "세금"
-          ],
-          "score": 8,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 13
+          "rank": 17
         },
         {
           "title": "K뷰티 호황에 법인세도 두 배…에이피알이 62% 부담 [2026년 상반기 법인세 분석] - 조세일보",
@@ -3098,31 +3119,12 @@
           "matched": [
             "법인세"
           ],
-          "score": 8,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 14
-        },
-        {
-          "title": "(동영상) 13년간 금속분진 마셔 폐암 사망…행법 \"업무상 재해\" - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbFZVZFJPY3NqY1cwMUw5MnA0NTZWWE4xc3NVV0R1Wl8wcTVMVkdkQzRYaVlmTXpCQXBWeFFtQXVNdDhXaU1QalB5SGl3NEg3UUZvYTBkR1NDclV1QjZKMlEtZw?oc=5",
-          "summary": "(동영상) 13년간 금속분진 마셔 폐암 사망…행법 \"업무상 재해\" 조세금융신문",
-          "published": "Mon, 31 Aug 2026 04:29:59 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-08-31T04:29:59+00:00",
-          "published_kst": "2026-08-31 13:29",
-          "is_dated": true,
-          "matched": [
-            "세금"
-          ],
           "score": 3,
           "level": "하",
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 15
+          "rank": 18
         },
         {
           "title": "증여세 주요서식 작성요령 및 사례 - 조세일보",
@@ -3141,26 +3143,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 16
-        },
-        {
-          "title": "[서경대 MFS] 미국 금융의 중심에서 모바일 혁신을 이끌다 ‘Chase Mobile’ - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15TW94cXdXT1l4ajBWNXBwNHdORk9wb2liVUQxeERUQll5VnU0RWxaTElwN3AtRjlKUzZ2UU9aTTVjWXlnU3BaVTU1S2hHUG9tVGxfRVkxaXlpZzgyRkVSR2daUWNCdw?oc=5",
-          "summary": "[서경대 MFS] 미국 금융의 중심에서 모바일 혁신을 이끌다 ‘Chase Mobile’ 조세금융신문",
-          "published": "Mon, 31 Aug 2026 01:39:24 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-08-31T01:39:24+00:00",
-          "published_kst": "2026-08-31 10:39",
-          "is_dated": true,
-          "matched": [
-            "세금"
-          ],
-          "score": 3,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 17
+          "rank": 19
         },
         {
           "title": "종합소득세 7 페이지 - 조세일보",
@@ -3179,7 +3162,7 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 18
+          "rank": 20
         },
         {
           "title": "청년 1인당 34세까지 최대 1억9천582만원 지원한다 - 한국세정신문",
@@ -3199,64 +3182,78 @@
           "level_hint": "참고",
           "reasons": [],
           "demoted": [],
-          "rank": 19
-        },
-        {
-          "title": "[단독] 미국 정부, 민간기업 대신 직접 베네수엘라 유전 100년 임대 추진 - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvMTlzaWVWNnd1aHNXUGpFZ0U4b0I1cWdoNmp2My1OSlpPY2Fac0dCU2VibkktTTdKQlBkVV9pcmFaS0NBZ29JTWI4WXpqY1VnNm92cnVSZ0N4bk1hbWNXRW1Ebw?oc=5",
-          "summary": "[단독] 미국 정부, 민간기업 대신 직접 베네수엘라 유전 100년 임대 추진 조세금융신문",
-          "published": "Thu, 27 Aug 2026 21:40:07 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-08-27T21:40:07+00:00",
-          "published_kst": "2026-08-28 06:40",
-          "is_dated": true,
-          "matched": [
-            "세금"
-          ],
-          "score": 3,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
-          "rank": 20
-        },
-        {
-          "title": "주식 5% 초과분에 대한 증여세 부과사유 규정 - 조세일보",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNWUlTamVhRlZkeEVPdkMzeHV2RW1QUk03U2pMWV9BVjBtaW96Ul81cWxQd2xKcUZvOG9zNEVlaTlRZE8teGtpTzBrZkpicWVTb2JlOWxwd2UzUmNScEVacUs5ejN5RzY3YlRvbDBIbllFdW5nOW80ek9NeFp0MTNtcldQSUZmUXhZMkkyZTh4RmZ2WFptZTZDaDM0R3Y4YTRTdjdyaS1iR3g5ZENtaGFOMHY0VzZrYS0yekNtTzk1Q2pINFNmdzNmMHBlcmdUTDhfcE9JZ1MyaHZfQVoxWUhoWUNURFFOQlVwN1lJVldPaHdONWhqbW1VZ0xzRjNrbFNURTFFRjJlNl96aVA3ZW5LMWQ4U29QZG9JcVozM0Jicm5Sb1c5?oc=5",
-          "summary": "주식 5% 초과분에 대한 증여세 부과사유 규정 조세일보",
-          "published": "Thu, 27 Aug 2026 10:04:46 GMT",
-          "source": "조세일보",
-          "published_at": "2026-08-27T10:04:46+00:00",
-          "published_kst": "2026-08-27 19:04",
-          "is_dated": true,
-          "matched": [
-            "증여세"
-          ],
-          "score": 3,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
           "rank": 21
         },
         {
-          "title": "일반과세자로부터 사업양수시 간이과세를 배제하는 업종 추가 > 부가가치세 - 조세일보",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblpIUUYyUm1DaEliazV4U1ctRkVMLVdaNEJ0WE9LYm1yX0tpUkJNTnlUMWd1X29uVkd5Z19FazdpbjAxV2YxbDRTekVycHFEM2ZiaDhKd3djZU1XRVNyR2xMTFMxZEktOERzWk1nWWpoQzdUV2sxUVh5amNGeWdORkNaUExRNnc3cjhrazFLR0RSTVFsUFhDbjRqTk1lWmJX?oc=5",
-          "summary": "일반과세자로부터 사업양수시 간이과세를 배제하는 업종 추가 > 부가가치세 조세일보",
-          "published": "Thu, 27 Aug 2026 05:42:24 GMT",
-          "source": "조세일보",
-          "published_at": "2026-08-27T05:42:24+00:00",
-          "published_kst": "2026-08-27 14:42",
+          "title": "2026년 7월의 관세인에 허훈 주무관 선정",
+          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053057",
+          "summary": "관세청은 2026년 7월의 관세인에 서울세관 허훈 주무관을 선정했다고 밝혔다.허훈 주무관은 코넥스에 상장된 업체가 저가의 통신부품을 고가로 반복 수출입하는 수법으로 수출입 가격 55억원 상당을 조작하고, 협력사를 이용해 통신장비를 고가로 수입해 11억원 상당의 산업통상부 국가보조금을 편취한 뒤 해외로 빼돌린 범죄수익을 정상 수출대금으로 가장해 국내로 반입한 불법행위를 밝혀낸 공로를 인정받았다.관세청은 업무 분야별로 탁월한 성과를 창출한 유공 직원들도 함께 선정해 시상했다.관세 현장의 안전을 확보하기 위해 인적, 물적 위험요소를 종합",
+          "published": "2026-09-04 10:51:50",
+          "source": "일간NTN",
+          "published_at": "2026-09-04T01:51:50+00:00",
+          "published_kst": "2026-09-04 10:51",
           "is_dated": true,
           "matched": [
-            "과세"
+            "관세"
           ],
-          "score": 3,
+          "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [],
-          "demoted": [],
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [
+            "시상"
+          ],
           "rank": 22
+        },
+        {
+          "title": "관세청 ‘7월의 관세인’에 허훈 서울세관 주무관 영예",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59956",
+          "summary": "저가의 통신부품을 고가로 반복 수출입해 수출입 가격을 조작하고 국가보조금 11억원을 편취한 코넥스 상장사를 적발한 허훈 서울세관 주무관이 ‘2026년 7월의 관세인’으로 선정됐다.관세청은 4일 업무 분야별로 탁월한 성과를 거둔 직원을 ‘7월의 관세인’과 분야별 유공자로 선정해 시상했다고 밝혔다.허 주무관은 코넥스 상장업체가 저가의 통신부품을 고가로 반복 수출입하는 방식으로 수출입 가격 55억원 상당을 조작한 불법행위를 밝혀냈다.해당 업체는 협력사를 통해 통신장비를 고가로 수입해 산업통상부의 국가보조금 11억원 상당을 편취한 것으로",
+          "published": "2026-09-04 10:03:31",
+          "source": "세정일보",
+          "published_at": "2026-09-04T01:03:31+00:00",
+          "published_kst": "2026-09-04 10:03",
+          "is_dated": true,
+          "matched": [
+            "관세"
+          ],
+          "score": 0,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [
+            "시상"
+          ],
+          "rank": 23
+        },
+        {
+          "title": "[클라세] 망상을 현실로 착각하는 ‘주가 누르기 방지법’",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59941",
+          "summary": "정부가 발표한 2026년 세제 개편안에 담긴 상속세 및 증여세법 상장주식 평가 특례 신설안으로 이른바 주가 누르기에 해당하는 상장주식 평가 방법 개선안 즉 ‘주가 누르기 방지법’이 자본시장의 뜨거운 감자로 떠올랐다. 대주주가 상속·증여세를 덜 내기 위해 의도적으로 주가를 낮게 유지하는 꼼수를 막겠다는 것이 골자다.구체적으로는 특정 기업의 주가순자산비율(PBR)이 장기간 업종 하위 25%에 머물거나, 최근 시가가 3년 평균보다 30% 이상 낮을 경우 주가 누르기로 추정해 상속세 부과 시 주식 평가액을 최소 30% 할증하겠다는 내용이다",
+          "published": "2026-09-04 07:28:14",
+          "source": "세정일보",
+          "published_at": "2026-09-03T22:28:14+00:00",
+          "published_kst": "2026-09-04 07:28",
+          "is_dated": true,
+          "matched": [
+            "세제",
+            "상속세",
+            "증여세"
+          ],
+          "score": 0,
+          "level": "하",
+          "level_hint": "참고",
+          "reasons": [
+            "24시간 내"
+          ],
+          "demoted": [
+            "주가"
+          ],
+          "rank": 24
         },
         {
           "title": "재정회계법인, 대구서 상속·증여 절세전략 강연…“부동산 세제 변화 대비해야”",
@@ -3282,7 +3279,7 @@
           "demoted": [
             "회계법인"
           ],
-          "rank": 23
+          "rank": 25
         },
         {
           "title": "제32대 최영훈 창원세관장 취임",
@@ -3299,14 +3296,12 @@
           "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [
             "취임",
             "인사"
           ],
-          "rank": 24
+          "rank": 26
         },
         {
           "title": "더존비즈온·택스워치, 세무회계 웹 매거진 ‘TAX in Autumn’ 발간",
@@ -3323,37 +3318,12 @@
           "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
+          "reasons": [],
           "demoted": [
             "임명",
             "발간"
           ],
-          "rank": 25
-        },
-        {
-          "title": "관세청장, 여행자·특송 마약밀수 N차 저지선 구축 위한 사전 현장점검",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053015",
-          "summary": "이종욱 관세청장은 9월 2일 인천공항 제1터미널을 방문해 마약밀수 차단을 위한 국경감시단속체계의 재설계 현황 및 필요 인력·장비 등을 점검하고, 일선 세관 현장 직원들의 철저한 대응을 주문했다.이번 현장점검은 마약 밀수의 주된 경로 중 항공 여행자와 특송 분야 감시단속체계 재설계 추진 상황 및 보완사항 점검을 위해 마련됐다.신변·휴대품에 대해서는 입국장 세관 검사대에서 이뤄지는 기본 검사에 더해 입국심사 시점을 기준으로 2개 검사체계를 구축한다.한 축은 우범항공편 탑승객을 입국심사 전 전수 검사하는 ‘착륙즉시 일제검사’로 지난 7월",
-          "published": "2026-09-03 09:12:35",
-          "source": "일간NTN",
-          "published_at": "2026-09-03T00:12:35+00:00",
-          "published_kst": "2026-09-03 09:12",
-          "is_dated": true,
-          "matched": [
-            "관세"
-          ],
-          "score": 0,
-          "level": "하",
-          "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
-          "demoted": [
-            "현장점검"
-          ],
-          "rank": 26
+          "rank": 27
         },
         {
           "title": "세무사회, ‘세무사제도수호센터 TF’ 출범…위원 공개모집",
@@ -3373,54 +3343,29 @@
           "score": 0,
           "level": "하",
           "level_hint": "참고",
-          "reasons": [
-            "24시간 내"
-          ],
-          "demoted": [
-            "출범"
-          ],
-          "rank": 27
-        },
-        {
-          "title": "탄소국경조정제도(CBAM) 대응역량 강화 정부 합동설명회 개최",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052989",
-          "summary": "정부는 9월 2일 오후 1시 영남대학교 천마아트센터(경북 경산시)에서 관계부처(중소벤처기업부, 산업통상부, 기후에너지환경부, 관세청) 및 유관기관 합동으로 유럽연합(EU) 탄소국경조정제도(CBAM) 대응을 위한 2026년도 제13차 정부 합동 설명회를 개최한다고 밝혔다.탄소국경조정제도(CBAM)는 EU로 수출되는 탄소집약적 제품에 대해 생산 과정에서 배출된 탄소량만큼 비용을 부과하는 제도로 현재 철강, 알루미늄, 시멘트, 비료, 전력, 수소 등 6개 품목에 적용되고 있다.EU CBAM은 올해 1월부터 본격 시행된 가운데, 국내 수출",
-          "published": "2026-09-02 12:00:00",
-          "source": "일간NTN",
-          "published_at": "2026-09-02T03:00:00+00:00",
-          "published_kst": "2026-09-02 12:00",
-          "is_dated": true,
-          "matched": [
-            "관세"
-          ],
-          "score": 0,
-          "level": "하",
-          "level_hint": "참고",
           "reasons": [],
           "demoted": [
-            "설명회"
+            "출범"
           ],
           "rank": 28
         },
         {
-          "title": "[부고] 염동희(우리은행 지점장)씨 모친상 - 조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JdzJodW9zVXFUdFJrUWdrTDVNa1JCVjRmS01iZFlIb2lZejdTSGJFMlZOaVpyUFlrXy1faU9ZSmVhb3I1bGcybWRwVVlDMWFfSENERGk3LXNsME95LVAycjVrRQ?oc=5",
-          "summary": "[부고] 염동희(우리은행 지점장)씨 모친상 조세금융신문",
-          "published": "Mon, 31 Aug 2026 01:50:32 GMT",
-          "source": "조세금융신문",
-          "published_at": "2026-08-31T01:50:32+00:00",
-          "published_kst": "2026-08-31 10:50",
+          "title": "일반과세자로부터 사업양수시 간이과세를 배제하는 업종 추가 > 부가가치세 - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblpIUUYyUm1DaEliazV4U1ctRkVMLVdaNEJ0WE9LYm1yX0tpUkJNTnlUMWd1X29uVkd5Z19FazdpbjAxV2YxbDRTekVycHFEM2ZiaDhKd3djZU1XRVNyR2xMTFMxZEktOERzWk1nWWpoQzdUV2sxUVh5amNGeWdORkNaUExRNnc3cjhrazFLR0RSTVFsUFhDbjRqTk1lWmJX?oc=5",
+          "summary": "일반과세자로부터 사업양수시 간이과세를 배제하는 업종 추가 > 부가가치세 조세일보",
+          "published": "Thu, 27 Aug 2026 05:42:24 GMT",
+          "source": "조세일보",
+          "published_at": "2026-08-27T05:42:24+00:00",
+          "published_kst": "2026-08-27 14:42",
           "is_dated": true,
           "matched": [
-            "세금"
+            "과세"
           ],
           "score": 0,
           "level": "하",
           "level_hint": "참고",
           "reasons": [],
-          "demoted": [
-            "부고"
-          ],
+          "demoted": [],
           "rank": 29
         },
         {
@@ -3455,7 +3400,7 @@
       "name": "경정청구",
       "url": "https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%95%EC%B2%AD%EA%B5%AC&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -3482,7 +3427,7 @@
       "name": "R&D 세액공제",
       "url": "https://news.google.com/rss/search?q=%EC%97%B0%EA%B5%AC%EC%9D%B8%EB%A0%A5%EA%B0%9C%EB%B0%9C%EB%B9%84%20%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 12,
+      "count": 8,
       "error": null
     },
     {
@@ -3491,7 +3436,7 @@
       "name": "통합투자세액공제",
       "url": "https://news.google.com/rss/search?q=%ED%86%B5%ED%95%A9%ED%88%AC%EC%9E%90%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
@@ -3500,7 +3445,7 @@
       "name": "세법개정안",
       "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%B2%95%EA%B0%9C%EC%A0%95%EC%95%88&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 9,
+      "count": 15,
       "error": null
     },
     {
@@ -3509,7 +3454,7 @@
       "name": "시행령 개정",
       "url": "https://news.google.com/rss/search?q=%EC%84%B8%EB%B2%95%20%EC%8B%9C%ED%96%89%EB%A0%B9%20%EA%B0%9C%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 9,
+      "count": 7,
       "error": null
     },
     {
@@ -3518,7 +3463,7 @@
       "name": "법인세법 개정",
       "url": "https://news.google.com/rss/search?q=%EB%B2%95%EC%9D%B8%EC%84%B8%EB%B2%95%20%EA%B0%9C%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -3527,7 +3472,7 @@
       "name": "조특법 개정",
       "url": "https://news.google.com/rss/search?q=%EC%A1%B0%EC%84%B8%ED%8A%B9%EB%A1%80%EC%A0%9C%ED%95%9C%EB%B2%95%20%EA%B0%9C%EC%A0%95&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 9,
+      "count": 12,
       "error": null
     },
     {
@@ -3536,7 +3481,7 @@
       "name": "세제개편",
       "url": "https://news.google.com/rss/search?q=%EC%84%B8%EC%A0%9C%EA%B0%9C%ED%8E%B8%EC%95%88%20%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EB%B6%80&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -3545,7 +3490,7 @@
       "name": "대기업 세무조사",
       "url": "https://news.google.com/rss/search?q=%EB%8C%80%EA%B8%B0%EC%97%85%20%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 15,
+      "count": 18,
       "error": null
     },
     {
@@ -3554,7 +3499,7 @@
       "name": "서울지방국세청 조사국",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EC%A7%80%EB%B0%A9%EA%B5%AD%EC%84%B8%EC%B2%AD%20%EC%A1%B0%EC%82%AC%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -3563,7 +3508,7 @@
       "name": "추징",
       "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EC%B2%AD%20%EC%B6%94%EC%A7%95%20%EB%B2%95%EC%9D%B8%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -3581,7 +3526,7 @@
       "name": "역외탈세",
       "url": "https://news.google.com/rss/search?q=%EC%97%AD%EC%99%B8%ED%83%88%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -3590,7 +3535,7 @@
       "name": "조세심판원",
       "url": "https://news.google.com/rss/search?q=%EC%A1%B0%EC%84%B8%EC%8B%AC%ED%8C%90%EC%9B%90%20%EC%8B%AC%ED%8C%90&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 0,
+      "count": 5,
       "error": null
     },
     {
@@ -3608,7 +3553,7 @@
       "name": "조세소송",
       "url": "https://news.google.com/rss/search?q=%EC%A1%B0%EC%84%B8%EC%86%8C%EC%86%A1%20%EA%B3%BC%EC%84%B8%EC%B2%98%EB%B6%84%20%EC%B7%A8%EC%86%8C&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 1,
+      "count": 6,
       "error": null
     },
     {
@@ -3617,7 +3562,7 @@
       "name": "과세전적부심·이의신청",
       "url": "https://news.google.com/rss/search?q=%EA%B3%BC%EC%84%B8%EC%A0%84%EC%A0%81%EB%B6%80%EC%8B%AC%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -3626,7 +3571,7 @@
       "name": "이전가격",
       "url": "https://news.google.com/rss/search?q=%EC%9D%B4%EC%A0%84%EA%B0%80%EA%B2%A9%20%EC%A0%95%EC%83%81%EA%B0%80%EA%B2%A9&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -3644,7 +3589,7 @@
       "name": "국제조세",
       "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%A0%9C%EC%A1%B0%EC%84%B8%20%EC%A1%B0%EC%A0%95%EC%97%90%20%EA%B4%80%ED%95%9C%20%EB%B2%95%EB%A5%A0&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
@@ -3680,7 +3625,7 @@
       "name": "SK그룹 세무",
       "url": "https://news.google.com/rss/search?q=SK%EA%B7%B8%EB%A3%B9%20%EC%84%B8%EA%B8%88%20%EA%B5%AD%EC%84%B8%EC%B2%AD&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -3770,7 +3715,7 @@
       "name": "국세청 보도자료",
       "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EC%B2%AD%20%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -3806,7 +3751,7 @@
       "name": "납부기한·세정지원",
       "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EC%84%B8%EC%B2%AD%20%EB%82%A9%EB%B6%80%EA%B8%B0%ED%95%9C%20%EC%97%B0%EC%9E%A5%20%EC%84%B8%EC%A0%95%EC%A7%80%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 15,
+      "count": 12,
       "error": null
     },
     {
@@ -3815,7 +3760,7 @@
       "name": "일간NTN",
       "url": "https://www.intn.co.kr/rss/allArticle.xml",
       "ok": true,
-      "count": 39,
+      "count": 35,
       "error": null
     },
     {
@@ -3842,7 +3787,7 @@
       "name": "조세일보",
       "url": "https://news.google.com/rss/search?q=site%3Ajoseilbo.com%20%EC%84%B8%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 23,
+      "count": 24,
       "error": null
     },
     {
@@ -3860,7 +3805,7 @@
       "name": "조세금융신문",
       "url": "https://news.google.com/rss/search?q=site%3Atfmedia.co.kr&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     }
   ]
